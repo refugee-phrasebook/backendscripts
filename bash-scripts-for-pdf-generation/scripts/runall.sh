@@ -15,8 +15,9 @@ xelatex rpb-test-jur.tex
 xelatex rpb-test-medical.tex
 xelatex rpb-test-medical.tex
 
-xelatex rpb-test-mpfr.tex
-xelatex rpb-test-mpfr.tex
+# 
+#xelatex rpb-test-mpfr.tex
+#xelatex rpb-test-mpfr.tex
 
 xelatex rpb-test-multi.tex
 xelatex rpb-test-multi.tex
