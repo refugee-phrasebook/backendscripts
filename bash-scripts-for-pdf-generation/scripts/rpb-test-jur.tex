@@ -1,0 +1,107 @@
+%Time-stamp: <2010-09-28 17:17:36 (freeman)>
+%*********************************************************************
+%                Template for articles
+%                By Alexandre Krispin and all the great TeX community
+%                blog : http://alexkrispin.wordpress.com/
+%*********************************************************************
+%!TEX TS-program = xelatex --output-driver="xdvipdfmx -vv"
+%!TEX encoding = UTF-8 Unicode
+\documentclass[
+	paper=a4,
+	%landscape,
+	portrait,
+	fontsize10pt,
+	%parskip=half, 
+	%DIV=10,		% use calc for automatic calculation
+	%headsepline,
+	%footsepline, %to get a line separating footnote from page number.
+	%titlepage=true, %if you want an entire page for you title, name and date.
+	headings=normal,
+	version=last,
+	%twoside=true, %if you want to print on both side (recto-verso) of the page.
+	headinclude=false,
+	footinclude=false,
+	%mpinclude=true, %Platz für Randnotizen
+	%BCOR=8mm,
+	%fleqn,
+	%pagesize
+	]{article}
+	
+%\usepackage{xltxtra} %include fontspec, xunicode, etc. For more
+                     %details, texdoc xltxtra
+\usepackage{fontspec} %xltxtra ist outdate, fontspec sollte reichen
+
+
+
+
+%**********************************************************
+%FONTS
+%**********************************************************
+
+% −−−−−−−−−−−Font definitions for Xetex 
+\usepackage{fontspec}
+%\defaultfontfeatures{Scale=MatchLowercase, Mapping=tex-text}% to adjust all used fonts to thesame x−heigt => Harmonization% 
+\setromanfont [Ligatures={Common}]{Arial Unicode MS} %Numbers New Style
+%\setsansfont[Mapping=tex-text, BoldFont={TitilliumText22L-Medium}]{TitilliumText22L-Regular}% Sans Serif
+%\newfontfamily\smallnums[Ligatures={Common}, Numbers={OldStyle}]{Linux Libertine O}
+% −−−−−−−−−−−
+
+\linespread{1.05}
+
+
+%**********************************************************
+% PDF SETUP
+%**********************************************************
+% ---- FILL IN HERE THE DOC TITLE AND AUTHOR
+%Setup hyperref package, and colours for links and text
+\usepackage[
+	unicode, 
+	bookmarks, 
+	colorlinks, 
+	breaklinks, 
+%  	plainpages=false,
+%  	pdfpagelabels,
+%  	pagebackref,
+	pdftitle={Refugee Phrasebook},
+	pdfauthor={some LaTeX stuff},
+	pdfkeywords={insert languages}
+	]{hyperref}  
+			
+
+\usepackage[a4paper,margin=15mm]{geometry}
+%\usepackage[a4paper,margin=10mm,showframe]{geometry}
+			
+%**********************************************************
+% TABLE STUFF
+%**********************************************************
+\usepackage{longtable}
+\usepackage{booktabs}									% Nicer tables
+%\usepackage{dcolumn}
+%\usepackage{multirow}
+
+%**********************************************************
+% FINETUNE FORMATTING
+%**********************************************************
+
+%\subject{}
+%\title{\mytitle}
+%\date{\normalsize\mydate}
+
+%**********************************************************
+% DOCUMENT
+%**********************************************************
+
+
+ \usepackage{booktabs}
+ \usepackage{graphicx}
+\begin{document}
+
+
+\begin{longtable}{p{.11\textwidth}p{.11\textwidth}p{.11\textwidth}p{.11\textwidth}p{.11\textwidth}p{.11\textwidth}p{.11\textwidth}p{.11\textwidth}p{.11\textwidth}p{.11\textwidth}}
+\toprule
+\input{../temp/jur.h.bs}
+\midrule
+\endhead
+\input{../temp/jur.d.bs}
+\end{longtable}
+\end{document}
