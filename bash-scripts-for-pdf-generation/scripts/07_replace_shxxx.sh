@@ -1,6 +1,9 @@
 #!/bin/sh
 
 ###
+# some references - should normalize all of that and a bit more
+# Special Characters - http://www.giss.nasa.gov/tools/latex/ltx-164.html
+
 
 sed 's/_/\./g'  ../temp/jur.h.amp > ../temp/jur.h.1
 sed 's/_/\./g'  ../temp/jur.d.amp > ../temp/jur.d.1
