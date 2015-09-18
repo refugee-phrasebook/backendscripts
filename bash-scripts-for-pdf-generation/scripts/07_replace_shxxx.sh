@@ -4,16 +4,22 @@
 # some references - should normalize all of that and a bit more
 # Special Characters - http://www.giss.nasa.gov/tools/latex/ltx-164.html
 
-
+# replace underscore
 sed 's/_/\./g'  ../temp/jur.h.amp > ../temp/jur.h.1
 sed 's/_/\./g'  ../temp/jur.d.amp > ../temp/jur.d.1
 
+# replace backslash
 sed 's/\\/ \\textbackslash /g'  ../temp/jur.d.1 > ../temp/jur.d.2
 sed 's/\\/ \\textbackslash /g'  ../temp/jur.h.1 > ../temp/jur.h.2
 
+# replace eol
+sed 's/$/ \\\\ /g'  ../temp/jur.d.2 > ../temp/jur.d.3
+sed 's/$/ \\\\ /g'  ../temp/jur.h.2 > ../temp/jur.h.3
 
-sed 's/$/ \\\\ /g'  ../temp/jur.d.2 > ../temp/jur.d.bs
-sed 's/$/ \\\\ /g'  ../temp/jur.h.2 > ../temp/jur.h.bs
+# add hline
+sed 's/\\\\/ \\\\ \\hline  /g' ../temp/jur.d.3 > ../temp/jur.d.bs
+sed 's/\\\\/ \\\\ \\hline  /g' ../temp/jur.h.3 > ../temp/jur.h.bs
+
 ###
 sed 's/_/\./g'  ../temp/medical.h.amp > ../temp/medical.h.1
 sed 's/_/\./g'  ../temp/medical.d.amp > ../temp/medical.d.1
