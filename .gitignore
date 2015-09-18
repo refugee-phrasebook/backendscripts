@@ -1,2 +1,10 @@
 *.log
 *.log
+
+bash-scripts-for-pdf-generation/scripts/rpb-test-jur.log
+
+bash-scripts-for-pdf-generation/scripts/rpb-test-medical.log
+
+bash-scripts-for-pdf-generation/scripts/rpb-test-multi.log
+
+bash-scripts-for-pdf-generation/scripts/rpb-test-short_1d21.log
