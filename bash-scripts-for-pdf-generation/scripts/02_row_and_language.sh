@@ -4,7 +4,7 @@ echo "this is the juridical"
 head -3 ../download/tsv/jur.tsv  |tail -1  |tr -s '\t' '\n'|nl
 
 echo "this is the short 1d21"
-head -3 ../download/tsv/short_1d21.tsv  |tail -1  |tr -s '\t' '\n'|nl
+head -1 ../download/tsv/short_1d21.tsv  |tail -1  |tr -s '\t' '\n'|nl
 
 #echo "this is the short 1d21"
 #head -3 ../download/tsv/short_1ipk.tsv  |tail -1  |tr -s '\t' '\n'|nl
