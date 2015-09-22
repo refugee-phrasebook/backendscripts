@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.15)  20 SEP 2015 16:17
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.15)  22 SEP 2015 22:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -744,25 +744,49 @@ LaTeX Info: Redefining \nameref on input line 96.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(../temp/multi.h.bs)
+(../temp/multi.h.bs
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Syrian pho-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+\EU1/ArialUnicodeMS(0)/m/n/10 netic/Fusha
+ []
+
+)
 Overfull \hbox (4.84106pt too wide) in alignment at lines 99--103
  [] [] [] [] [] [] [] [] [] [] 
  []
 
 (../temp/multi.d.bs
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 shubho din /
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 massa Alchayr
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--12
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ami .... theke
+Underfull \hbox (badness 5817) in paragraph at lines 5--5
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ma‘a ’s-saláma /
+ []
+
+
+Overfull \hbox (14.26582pt too wide) in paragraph at lines 6--7
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Wubakha/Wubakhsha| 
+ []
+
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
+
+Underfull \hbox (badness 3049) in paragraph at lines 12--12
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 میں ۔۔۔۔۔۔۔۔ سے آئی
  []
 
 Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
 
-Underfull \hbox (badness 3449) in paragraph at lines 12--12
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 Man az .... mi
+Underfull \hbox (badness 4927) in paragraph at lines 15--15
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 hadihi zawjati /di
  []
 
 
@@ -786,23 +810,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--22
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 in
+ []
+
+
+Overfull \hbox (11.50215pt too wide) in paragraph at lines 22--22
+\EU1/ArialUnicodeMS(0)/m/n/10 pedarameh/babameh| 
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 23--23
 []|\EU1/ArialUnicodeMS(0)/m/n/10 (das ist meine)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--24
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 amar khide leg-
+Underfull \hbox (badness 1803) in paragraph at lines 23--23
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 یہ میری والدہ/ امّی
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--24
-\EU1/ArialUnicodeMS(0)/m/n/10 echhe / ami
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--24
-\EU1/ArialUnicodeMS(0)/m/n/10 khudharto / ami
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 in madarameh/
  []
 
 
@@ -811,33 +840,34 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--25
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--25
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 amar bachchatar
+Underfull \hbox (badness 1609) in paragraph at lines 25--25
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 bacham gorosneh
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--25
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 bachem goshna
+Underfull \hbox (badness 6741) in paragraph at lines 26--26
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ash’ur bi’l-’atsh /
  []
 
-
-Underfull \hbox (badness 1460) in paragraph at lines 26--26
-\EU1/ArialUnicodeMS(0)/m/n/10 echhe / ami pani
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 30--30
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 bathroom ta
- []
-
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
 
 Underfull \hbox (badness 10000) in paragraph at lines 30--30
 []|\EU1/ArialUnicodeMS(0)/m/n/10 توالت ​​(دستشویی)
  []
 
 
-Underfull \hbox (badness 2452) in paragraph at lines 30--31
+Underfull \hbox (badness 5161) in paragraph at lines 30--30
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 toilet/ dastshooee
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 30--30
 []|\EU1/ArialUnicodeMS(0)/m/n/10 تشناب / غسل خانه
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 tashnab/ghusl
  []
 
 
@@ -847,7 +877,17 @@ Underfull \hbox (badness 4144) in paragraph at lines 31--31
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 31--31
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 Baayad shaawar
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Bihaja ana
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 مجھے نہانے کی
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 31--31
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 be hammam niaz
  []
 
 
@@ -856,8 +896,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 32--32
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--32
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 اين باستطاعتي
+Underfull \hbox (badness 1502) in paragraph at lines 32--32
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ayna Bi Istitaa’ati
+ []
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 32--32
+\EU1/ArialUnicodeMS(0)/m/n/10 elta7amom / ouin
  []
 
 
@@ -866,13 +911,23 @@ Underfull \hbox (badness 2126) in paragraph at lines 32--32
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--33
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 nawaree be-
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 koja mitoonam
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 cherta kawalay
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+\EU1/ArialUnicodeMS(0)/m/n/10 sham ghusl u-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 35--35
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 أنا بحاجة لاجراء
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Bihaja ijra’a
  []
 
 
@@ -882,22 +937,17 @@ Underfull \hbox (badness 2573) in paragraph at lines 35--35
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 35--35
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 baayad tele-
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 bayad telefon
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 35--35
-\EU1/ArialUnicodeMS(0)/m/n/10 fun konam/zang
+\EU1/ArialUnicodeMS(0)/m/n/10 konam/zang
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
 []|\EU1/ArialUnicodeMS(0)/m/n/10 زه غواړم تیلفون
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--36
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 namaj pora /
  []
 
 
@@ -906,18 +956,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--37
  []
 
 
+Underfull \hbox (badness 3260) in paragraph at lines 37--37
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 میں کہاں نماز پڑھ
+ []
+
+
 Underfull \hbox (badness 7362) in paragraph at lines 37--37
 []|\EU1/ArialUnicodeMS(0)/m/n/10 کجا می تونم نماز
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--37
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 Kojaa namaaz
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 cherta kawalay
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--37
-\EU1/ArialUnicodeMS(0)/m/n/10 khaandah
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+\EU1/ArialUnicodeMS(0)/m/n/10 sham lmundz
  []
 
 
@@ -926,27 +981,17 @@ Underfull \hbox (badness 2310) in paragraph at lines 38--38
  []
 
 
-Underfull \hbox (badness 3417) in paragraph at lines 38--38
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 من اين استطيع ان
- []
-
-
-Underfull \hbox (badness 2119) in paragraph at lines 38--38
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 .... kothay kinte
+Underfull \hbox (badness 3179) in paragraph at lines 38--38
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 میں کہاں ۔۔۔۔ خرید
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 38--38
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ..... az koja
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
 []|\EU1/ArialUnicodeMS(0)/m/n/10 چیرته ...
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
 \EU1/ArialUnicodeMS(0)/m/n/10 پیرودلی/اخیستلی
  []
 
@@ -957,17 +1002,27 @@ Underfull \hbox (badness 2310) in paragraph at lines 39--39
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ۔۔۔۔۔ کہاں ملےگا /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
 []|\EU1/ArialUnicodeMS(0)/m/n/10 کجا میتونم .....پیدا
  []
 
 
-Underfull \hbox (badness 3168) in paragraph at lines 39--39
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ..... koja payda
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 koja mitoonam
  []
 
 
 Overfull \hbox (4.84106pt too wide) in alignment at lines 21--41
  [] [] [] [] [] [] [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 1460) in paragraph at lines 41--42
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 bididal (v) / khob
  []
 
 
@@ -977,42 +1032,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--42
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 42--42
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 amake ghumate
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 42--42
 []|\EU1/ArialUnicodeMS(0)/m/n/10 نیازبه خوابیدن
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--42
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 Baayad khaaw
+Underfull \hbox (badness 1490) in paragraph at lines 42--43
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 mung bayad bida
  []
 
 
-Underfull \hbox (badness 2626) in paragraph at lines 43--44
+Underfull \hbox (badness 3492) in paragraph at lines 43--43
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ayn almetro? /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 مٹرو/سب وے/او۔بان
+ []
+
+
+Underfull \hbox (badness 2626) in paragraph at lines 43--43
 []|\EU1/ArialUnicodeMS(0)/m/n/10 د اورګاډي ایستګاه
  []
 
 
-Underfull \hbox (badness 1082) in paragraph at lines 45--45
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 apni ki .... bolte
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ma-sara payse
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--46
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 apni ki ingreji
+Underfull \hbox (badness 2359) in paragraph at lines 45--45
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 hal tatakallam al-
  []
 
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
 
 Underfull \hbox (badness 10000) in paragraph at lines 46--46
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 Englisi gap
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 انګليسي/انګرېزي
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 46--47
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 انګليسي/انګرېزي
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ingilisi / Angrezi
  []
 
 
@@ -1022,12 +1085,7 @@ Underfull \hbox (badness 2359) in paragraph at lines 47--47
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 47--47
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ami khub ekta
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 47--47
-\EU1/ArialUnicodeMS(0)/m/n/10 bhalo (German)
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 میری جرمن/انگریزی
  []
 
 
@@ -1036,8 +1094,23 @@ Underfull \hbox (badness 2818) in paragraph at lines 47--47
  []
 
 
-Underfull \hbox (badness 5217) in paragraph at lines 47--47
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 almaaniyam khub
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 almaanim
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ma-ta Alemani
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
+\EU1/ArialUnicodeMS(0)/m/n/10 zheba (kha) na
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Hal yomkenak
  []
 
 
@@ -1046,53 +1119,48 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--48
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--48
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 baraayem oo ra
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--48
-\EU1/ArialUnicodeMS(0)/m/n/10 newishta karda
- []
-
-
 Underfull \hbox (badness 4927) in paragraph at lines 49--49
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich verstehe das
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--50
-\EU1/ArialUnicodeMS(0)/m/n/10 doya kore ektu
+Underfull \hbox (badness 1810) in paragraph at lines 49--49
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 la afham, ma bi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--53
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 amar sheet
+Underfull \hbox (badness 1303) in paragraph at lines 50--50
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 an-najda! sá’idni
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--54
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 amar khushi
+Underfull \hbox (badness 6510) in paragraph at lines 50--50
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 بچاو! /میری مدد
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--54
-\EU1/ArialUnicodeMS(0)/m/n/10 lagchhe / ami
+Underfull \hbox (badness 1038) in paragraph at lines 51--51
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ma bi-arifsh / Ma
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--55
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 amar bhoy ko-
+Underfull \hbox (badness 1502) in paragraph at lines 52--52
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Matha alathi has-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--57
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 amar tomake
+Underfull \hbox (badness 1715) in paragraph at lines 54--54
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ana sa’íd / Mab-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--57
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 shoma ra dost
+Underfull \hbox (badness 5802) in paragraph at lines 58--58
+\EU1/ArialUnicodeMS(0)/m/n/10 Mouchkila / Mou
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 negaraan
  []
 
 
@@ -1102,12 +1170,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--59
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 59--59
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 Mekhaayam yak
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ana bihaja ila
  []
 
 
-Underfull \hbox (badness 6300) in paragraph at lines 59--60
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 مجھے
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\EU1/ArialUnicodeMS(0)/m/n/10 اپائینڈمنٹ/ملاقات
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 59--59
 []|\EU1/ArialUnicodeMS(0)/m/n/10 زه د ملاقات وخت
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 wyna raqm el-
  []
 
 
@@ -1124,52 +1207,62 @@ Overfull \hbox (4.84106pt too wide) in alignment at lines 41--61
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 61--61
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 اين مركز الاستقبال
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 wain markaz
  []
 
 
 Underfull \hbox (badness 1509) in paragraph at lines 61--61
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 Markaze sabt ko-
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 markaze sabt ko-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 61--62
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
 []|\EU1/ArialUnicodeMS(0)/m/n/10 د ثبت کوټه/خونه
  []
 
 
-Underfull \hbox (badness 4156) in paragraph at lines 62--62
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 apnake / tomake
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Yatawajab
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+\EU1/ArialUnicodeMS(0)/m/n/10 A’alaykoum al-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 bayad sabr
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 bayad muntazer
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 63--63
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 كم يتوجب علينا
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Kam yatawajab
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 63--63
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 amader ekhane
+\EU1/ArialUnicodeMS(0)/m/n/10 Aalayna al’intizar
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 63--63
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 baraye che mod-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 63--63
-\EU1/ArialUnicodeMS(0)/m/n/10 kotokkhon
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 63--63
-\EU1/ArialUnicodeMS(0)/m/n/10 opekkha korte
- []
-
-
-Underfull \hbox (badness 4144) in paragraph at lines 63--63
-\EU1/ArialUnicodeMS(0)/m/n/10 baayad injaa be-
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 څومره انتظار باید
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 63--64
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 څومره انتظار باید
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 tsumra intizar
  []
 
 
@@ -1177,34 +1270,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--71
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich komme bald
  []
 
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
 
-Underfull \hbox (badness 3492) in paragraph at lines 71--71
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ami khub taratari
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--71
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 zood pas
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 wahad, itnen,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 72--72
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 واحد، اثنان، ثلاثة،
+\EU1/ArialUnicodeMS(0)/m/n/10 talateh, arba’a,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 72--72
-\EU1/ArialUnicodeMS(0)/m/n/10 أربعة خمسة، ستة،
+\EU1/ArialUnicodeMS(0)/m/n/10 khamseh, sitteh,
  []
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 72--72
-\EU1/ArialUnicodeMS(0)/m/n/10 سبعة، ثمانية، تسعة،
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 72--72
-\EU1/ArialUnicodeMS(0)/m/n/10 pa(n)ch, chhoy,
+Underfull \hbox (badness 4366) in paragraph at lines 72--72
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ایک، دو، تین، چار،
  []
 
 
@@ -1214,52 +1298,22 @@ Overfull \hbox (82.90352pt too wide) in paragraph at lines 72--72
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 72--72
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 yak, du, seh,
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 yek,
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 72--72
-\EU1/ArialUnicodeMS(0)/m/n/10 chaar, panj,
+\EU1/ArialUnicodeMS(0)/m/n/10 do,seh,chahar,
  []
 
 
-Underfull \hbox (badness 1377) in paragraph at lines 72--73
+Underfull \hbox (badness 1377) in paragraph at lines 72--72
 []|\EU1/ArialUnicodeMS(0)/m/n/10 یو، دوه، درې، څلور،
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 الإثنين, الثلاثاء.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
-\EU1/ArialUnicodeMS(0)/m/n/10 الاربعاء, الخميس,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 Yak-shanbe,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
-\EU1/ArialUnicodeMS(0)/m/n/10 Du-shanbe, Seh-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
-\EU1/ArialUnicodeMS(0)/m/n/10 shanbe, Chaar-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
-\EU1/ArialUnicodeMS(0)/m/n/10 shanbe, Panj-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--73
-\EU1/ArialUnicodeMS(0)/m/n/10 shanbe, Juma,
+Underfull \hbox (badness 1845) in paragraph at lines 73--73
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 سوموار، منگل، بدھ،
  []
 
 
@@ -1283,53 +1337,53 @@ Underfull \hbox (badness 4792) in paragraph at lines 74--74
  []
 
 
-Underfull \hbox (badness 8038) in paragraph at lines 74--74
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 كانون ثاني, شباط,
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 جنوری، فروری،
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 74--74
-\EU1/ArialUnicodeMS(0)/m/n/10 آذار, نيسان, ايار,
+\EU1/ArialUnicodeMS(0)/m/n/10 مارچ، اپریل، مئی،
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--74
-\EU1/ArialUnicodeMS(0)/m/n/10 حزيران, تموز, آب,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--74
-\EU1/ArialUnicodeMS(0)/m/n/10 ايلول, تشرين أول,
- []
-
-
-Underfull \hbox (badness 6792) in paragraph at lines 74--74
-\EU1/ArialUnicodeMS(0)/m/n/10 تشرين ثاني, كانون
+Underfull \hbox (badness 1924) in paragraph at lines 74--74
+\EU1/ArialUnicodeMS(0)/m/n/10 ستمبر، اکتوبر، نومبر،
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 77--77
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 amake daktarer
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Bahtaj doktor /
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 77--77
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 Doctor zaroorat
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 مجھے ڈاکٹر کی
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 doctor laazem
+ []
+
+
+Underfull \hbox (badness 7759) in paragraph at lines 77--78
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 tabib me pakaar
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 78--78
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 صحتی ليست علی
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Lastu ’ala ma
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--78
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 amar bomi
+Underfull \hbox (badness 1515) in paragraph at lines 78--78
+\EU1/ArialUnicodeMS(0)/m/n/10 yuram/ Sihti mish
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--79
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 amar kharap
+Underfull \hbox (badness 8075) in paragraph at lines 78--78
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 میری طبعیت ٹھیک
  []
 
 
@@ -1337,39 +1391,34 @@ Overfull \hbox (4.84106pt too wide) in alignment at lines 61--81
  [] [] [] [] [] [] [] [] [] [] 
  []
 
-[2]
+[2] [3]
 Underfull \hbox (badness 10000) in paragraph at lines 81--81
 []|\EU1/ArialUnicodeMS(0)/m/n/10 (mein Kind) ist
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 amar bachchatar
+Underfull \hbox (badness 1168) in paragraph at lines 81--82
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 zma bacha najorr
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 bachem mariz
+Underfull \hbox (badness 4846) in paragraph at lines 82--83
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 za blarba yam /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--84
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 amar matha
+Underfull \hbox (badness 8019) in paragraph at lines 83--83
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ahis bi dowar /
  []
 
 
-Underfull \hbox (badness 3492) in paragraph at lines 84--84
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 Man zar charkha
+Underfull \hbox (badness 1259) in paragraph at lines 83--83
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 مجھے اس کی وجہ
  []
 
 
 Underfull \hbox (badness 1990) in paragraph at lines 85--85
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich leide an Dia-
- []
-
-
-Underfull \hbox (badness 1895) in paragraph at lines 86--86
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 انا بحاحة ماسة إلى
  []
 
 
@@ -1379,7 +1428,12 @@ Underfull \hbox (badness 3492) in paragraph at lines 87--87
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 87--87
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 amake dhorshon
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Lakad tamma
+ []
+
+
+Underfull \hbox (badness 7777) in paragraph at lines 87--87
+\EU1/ArialUnicodeMS(0)/m/n/10 Ightissabi / Egh-
  []
 
 
@@ -1388,8 +1442,8 @@ Underfull \hbox (badness 1533) in paragraph at lines 87--87
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ma tajaawoz
+Underfull \hbox (badness 3482) in paragraph at lines 87--87
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Be man tajavoze
  []
 
 
@@ -1398,23 +1452,13 @@ Underfull \hbox (badness 5756) in paragraph at lines 88--88
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--88
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 Medam dard
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 92--92
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich habe Kopf-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--92
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 amar matha
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--92
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 Saram dard
+Underfull \hbox (badness 1460) in paragraph at lines 92--92
+\EU1/ArialUnicodeMS(0)/m/n/10 min soudaa fi al-
  []
 
 
@@ -1428,23 +1472,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--94
  []
 
 
-Underfull \hbox (badness 6708) in paragraph at lines 94--94
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 amar gola betha
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 Glunam dard
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 95--95
 []|\EU1/ArialUnicodeMS(0)/m/n/10 (die) Halss-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--97
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 amar kashi
+Underfull \hbox (badness 4846) in paragraph at lines 95--95
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 A’ndi alam fi al-
  []
 
 
@@ -1458,22 +1492,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 98--98
  []
 
 
-Underfull \hbox (badness 1092) in paragraph at lines 98--98
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 طفلي عنده سعال /
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 tefli indouhou
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 98--98
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 amar bachchare
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 98--98
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 Bachem sorfa
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
 []|\EU1/ArialUnicodeMS(0)/m/n/10 زما بچی/بچۍ
  []
 
@@ -1482,9 +1506,14 @@ Overfull \hbox (4.84106pt too wide) in alignment at lines 81--101
  [] [] [] [] [] [] [] [] [] [] 
  []
 
-[3] [4]
-Underfull \hbox (badness 6725) in paragraph at lines 103--103
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 vaginal yeast in-
+[4]
+Underfull \hbox (badness 1596) in paragraph at lines 103--103
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ofoonate gharchie
+ []
+
+
+Underfull \hbox (badness 3323) in paragraph at lines 104--104
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 کھلاڑی کے پاؤں کا
  []
 
 
@@ -1493,18 +1522,13 @@ Underfull \hbox (badness 2894) in paragraph at lines 106--106
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 107--107
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ukun (porojibi
+Underfull \hbox (badness 3417) in paragraph at lines 113--113
+\EU1/ArialUnicodeMS(0)/m/n/10 halal / Had Akel
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 113--113
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 هل هذا الطعام
- []
-
-
-Underfull \hbox (badness 5741) in paragraph at lines 113--113
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 in ghazaa halaal
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 in ghazaa ha-
  []
 
 
@@ -1514,12 +1538,17 @@ Underfull \hbox (badness 3492) in paragraph at lines 114--114
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 114--114
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 انا عندی حساسیە
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ana ’endi
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 114--114
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ba .... allerji
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 beh.. allergy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 za hassasiyat
  []
 
 
@@ -1534,7 +1563,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 119--119
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 119--119
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ami shukorer
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 la akol lahem
+ []
+
+
+Underfull \hbox (badness 2744) in paragraph at lines 119--119
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 میں سور کا گوشت
  []
 
 
@@ -1544,7 +1578,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 119--119
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 119--119
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ma goshte khok
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Man gooshte
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--119
+\EU1/ArialUnicodeMS(0)/m/n/10 khook nemikho-
  []
 
 
@@ -1553,18 +1592,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 120--120
  []
 
 
-Underfull \hbox (badness 1509) in paragraph at lines 120--120
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ami kono machh-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 120--120
 []|\EU1/ArialUnicodeMS(0)/m/n/10 گوشت و ماهی
  []
 
 
-Underfull \hbox (badness 6741) in paragraph at lines 120--120
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 Gosht wa maahi
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 giah khaaram,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
+\EU1/ArialUnicodeMS(0)/m/n/10 goosht va mahi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 za ghwakha
  []
 
 
@@ -1578,23 +1622,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 121--121
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--121
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 Weegan astam.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 121--121
-\EU1/ArialUnicodeMS(0)/m/n/10 Hich masulyati
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 121--121
-\EU1/ArialUnicodeMS(0)/m/n/10 az haywaanaat
- []
-
-
-Underfull \hbox (badness 1859) in paragraph at lines 121--122
+Underfull \hbox (badness 1859) in paragraph at lines 121--121
 []|\EU1/ArialUnicodeMS(0)/m/n/10 زه غوښه او لبنیات
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 za ghwakha aw
+ []
+
+
+Underfull \hbox (badness 3668) in paragraph at lines 121--122
+\EU1/ArialUnicodeMS(0)/m/n/10 labaniyaat nakho-
  []
 
 
@@ -1604,22 +1643,32 @@ Underfull \hbox (badness 5787) in paragraph at lines 132--132
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 132--132
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ami mod/alcohol
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 man alkol ne-
  []
 
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
 
 Underfull \hbox (badness 10000) in paragraph at lines 138--138
 []|\EU1/ArialUnicodeMS(0)/m/n/10 (die) Or-
  []
 
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
 
 Overfull \hbox (4.84106pt too wide) in alignment at lines 121--141
  [] [] [] [] [] [] [] [] [] [] 
  []
 
+[6]
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
 
 Underfull \hbox (badness 10000) in paragraph at lines 149--149
 []|\EU1/ArialUnicodeMS(0)/m/n/10 (die) Karot-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Tamatem / Ba-
  []
 
 
@@ -1638,20 +1687,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 154--154
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Khobz / Kaak /
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 154--154
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 mahsoolaate nan-
+ []
+
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
+
 Overfull \hbox (4.84106pt too wide) in alignment at lines 141--161
  [] [] [] [] [] [] [] [] [] [] 
  []
 
-[6]
+
 Underfull \hbox (badness 10000) in paragraph at lines 167--167
 []|\EU1/ArialUnicodeMS(0)/m/n/10 (das) Paprikapul-
  []
 
 
-Underfull \hbox (badness 3482) in paragraph at lines 177--177
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 qaashoq / cham-
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Mouthalajat /
  []
 
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
 
 Underfull \hbox (badness 7814) in paragraph at lines 180--180
 []|\EU1/ArialUnicodeMS(0)/m/n/10 (das) Trinkglas /
@@ -1663,11 +1724,6 @@ Overfull \hbox (4.84106pt too wide) in alignment at lines 161--181
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 183--183
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 rannar bashon /
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 186--186
 []|\EU1/ArialUnicodeMS(0)/m/n/10 (der)
  []
@@ -1678,13 +1734,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 199--199
  []
 
 
-Overfull \hbox (2.01973pt too wide) in paragraph at lines 200--200
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 maflar/skarf/chador| 
- []
-
-
 Overfull \hbox (4.84106pt too wide) in alignment at lines 181--201
  [] [] [] [] [] [] [] [] [] [] 
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 201--201
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Mithala/ sham-
  []
 
 
@@ -1693,8 +1749,8 @@ Underfull \hbox (badness 3701) in paragraph at lines 203--203
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 207--207
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 waaskat / sina
+Underfull \hbox (badness 6741) in paragraph at lines 207--207
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Hamalat Sader /
  []
 
 
@@ -1702,29 +1758,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 213--213
 []|\EU1/ArialUnicodeMS(0)/m/n/10 (der) Armreif /
  []
 
+Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
 
 Overfull \hbox (4.84106pt too wide) in alignment at lines 201--221
  [] [] [] [] [] [] [] [] [] [] 
  []
 
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 223--223
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 bichhanar
- []
 
-
-Overfull \hbox (12.88399pt too wide) in paragraph at lines 223--223
-\EU1/ArialUnicodeMS(0)/m/n/10 chador+balisher/leper
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 227--227
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 muthofon/mobail
+Underfull \hbox (badness 1931) in paragraph at lines 221--221
+\EU1/ArialUnicodeMS(0)/m/n/10 جس کے سہارے سے
  []
 
 
 Underfull \hbox (badness 3514) in paragraph at lines 228--228
 []|\EU1/ArialUnicodeMS(0)/m/n/10 (die) Elektrizität /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--229
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Hassoub/ kom-
  []
 
 
@@ -1743,8 +1795,8 @@ Underfull \hbox (badness 5231) in paragraph at lines 236--236
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 236--236
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 kaaghaz-e-
+Underfull \hbox (badness 7613) in paragraph at lines 238--238
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ٹوتھ پہسٹ / دنت
  []
 
 
@@ -1753,18 +1805,23 @@ Overfull \hbox (4.84106pt too wide) in alignment at lines 221--241
  []
 
 [9]
+Underfull \hbox (badness 10000) in paragraph at lines 244--244
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ridator/ shufaj /
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 247--247
 []|\EU1/ArialUnicodeMS(0)/m/n/10 (der) Küchen-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--249
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 (der) Kleider-
+Overfull \hbox (2.06856pt too wide) in paragraph at lines 248--248
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 tabagheh/ghafaseh| 
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 249--249
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 kaporer almari/
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 (der) Kleider-
  []
 
 
@@ -1782,14 +1839,9 @@ Overfull \hbox (4.84106pt too wide) in alignment at lines 241--261
  [] [] [] [] [] [] [] [] [] [] 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 269--269
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 kitaab-e-rang
- []
-
-
+[10]
 Underfull \hbox (badness 10000) in paragraph at lines 275--275
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 bord gem (ludu,
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 baazi haye
  []
 
 
@@ -1798,26 +1850,11 @@ Underfull \hbox (badness 1661) in paragraph at lines 277--277
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 280--280
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 bachchar bich-
- []
-
-
-Underfull \hbox (badness 2894) in paragraph at lines 280--280
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 Takht baraye ku-
- []
-
-
 Overfull \hbox (4.84106pt too wide) in alignment at lines 261--281
  [] [] [] [] [] [] [] [] [] [] 
  []
 
-[10]
-Underfull \hbox (badness 10000) in paragraph at lines 283--283
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 دراجة ذات ثلاث
- []
-
-
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 287--287
 []|\EU1/ArialUnicodeMS(0)/m/n/10 (die) Süßigkeiten
  []
@@ -1855,6 +1892,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 292--292
 
 Underfull \hbox (badness 10000) in paragraph at lines 293--293
 []|\EU1/ArialUnicodeMS(0)/m/n/10 (der) Sanitäter,
+ []
+
+
+Overfull \hbox (9.2707pt too wide) in paragraph at lines 293--293
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 behyaar/pirapezeshk| 
+ []
+
+
+Overfull \hbox (13.18184pt too wide) in paragraph at lines 294--294
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 mohaafez/negahbaan| 
  []
 
 
@@ -1897,9 +1944,9 @@ Overfull \hbox (4.84106pt too wide) in alignment at lines 281--301
  [] [] [] [] [] [] [] [] [] [] 
  []
 
-[11]
+
 Underfull \hbox (badness 10000) in paragraph at lines 303--303
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 haywaane
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 heyvaane
  []
 
 
@@ -1913,16 +1960,6 @@ Overfull \hbox (4.84106pt too wide) in alignment at lines 301--321
  []
 
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 328--328
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 akash/shorgo
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 334--334
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 amaanta / barf
- []
-
-
 Underfull \hbox (badness 1681) in paragraph at lines 340--340
 []|\EU1/ArialUnicodeMS(0)/m/n/10 (der) Wirbelsturm;
  []
@@ -1932,17 +1969,17 @@ Overfull \hbox (4.84106pt too wide) in alignment at lines 321--341
  [] [] [] [] [] [] [] [] [] [] 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 344--344
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 bhumikompo
- []
-
-
+[13]
 Overfull \hbox (4.84106pt too wide) in alignment at lines 341--361
  [] [] [] [] [] [] [] [] [] [] 
  []
 
-[13]
+
+Underfull \hbox (badness 10000) in paragraph at lines 371--371
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 koohe atashfe-
+ []
+
+
 Overfull \hbox (4.84106pt too wide) in alignment at lines 361--381
  [] [] [] [] [] [] [] [] [] [] 
  []
@@ -1952,9 +1989,9 @@ Overfull \hbox (4.84106pt too wide) in alignment at lines 381--401
  [] [] [] [] [] [] [] [] [] [] 
  []
 
-
-Overfull \hbox (58.7336pt too wide) in paragraph at lines 417--417
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 shundor/akorshoniyo/chomotkar| 
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 419--419
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 gheyre doost-
  []
 
 
@@ -1962,7 +1999,7 @@ Overfull \hbox (4.84106pt too wide) in alignment at lines 401--421
  [] [] [] [] [] [] [] [] [] [] 
  []
 
-[15]
+
 Underfull \hbox (badness 10000) in paragraph at lines 440--440
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Wege, Orte,
  []
@@ -1972,14 +2009,14 @@ Overfull \hbox (4.84106pt too wide) in alignment at lines 421--441
  [] [] [] [] [] [] [] [] [] [] 
  []
 
-
+[16]
 Underfull \hbox (badness 10000) in paragraph at lines 456--456
 []|\EU1/ArialUnicodeMS(0)/m/n/10 (die) Bushal-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 458--458
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 maamuriyat-e-
+Underfull \hbox (badness 10000) in paragraph at lines 456--456
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Mawkef
  []
 
 
@@ -1988,13 +2025,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 459--459
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 459--459
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 maamuriyat-e-
+Underfull \hbox (badness 10000) in paragraph at lines 460--460
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Mahtet metro/
  []
 
 
-Underfull \hbox (badness 3482) in paragraph at lines 460--460
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 saboye / U-Bahn
+Underfull \hbox (badness 10000) in paragraph at lines 460--460
+\EU1/ArialUnicodeMS(0)/m/n/10 Mahtet qetar al
  []
 
 
@@ -2002,24 +2039,24 @@ Overfull \hbox (4.84106pt too wide) in alignment at lines 441--461
  [] [] [] [] [] [] [] [] [] [] 
  []
 
-[16]
+
 Underfull \hbox (badness 10000) in paragraph at lines 461--461
 []|\EU1/ArialUnicodeMS(0)/m/n/10 (der) Hauptbahn-
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 461--461
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Al mahta al
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 461--461
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Eestgah e
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 462--462
 []|\EU1/ArialUnicodeMS(0)/m/n/10 (das) Rathaus /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 464--464
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 pohantoon /
- []
-
-
-Overfull \hbox (14.2707pt too wide) in paragraph at lines 465--465
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 bimanbondor/eyarport| 
  []
 
 
@@ -2033,13 +2070,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 467--467
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 470--470
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 (die) Buchhand-
+Underfull \hbox (badness 10000) in paragraph at lines 467--467
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Markaz al
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 470--470
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 dokaan-e-kitaab /
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 (die) Buchhand-
  []
 
 
@@ -2053,18 +2090,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 477--477
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 477--477
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 پبلک /عوامی
+ []
+
+
 Overfull \hbox (4.84106pt too wide) in alignment at lines 461--481
  [] [] [] [] [] [] [] [] [] [] 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 484--484
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 tayaara /
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 483--483
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ta’era Mer-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 485--485
 []|\EU1/ArialUnicodeMS(0)/m/n/10 (der) Krankenwa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--487
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Van/Shahneh
  []
 
 
@@ -2084,7 +2131,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 494--494
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 494--494
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 lingo pori-
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 جنسی اور صنفی
  []
 
 
@@ -2098,18 +2145,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 495--495
  []
 
 
-Underfull \hbox (badness 7576) in paragraph at lines 495--495
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 تم اضطهادي بسبب
+Underfull \hbox (badness 10000) in paragraph at lines 495--495
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Tamma Edtihadi
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 495--495
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ami shomokami
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 495--495
-\EU1/ArialUnicodeMS(0)/m/n/10 hobar karone
+Underfull \hbox (badness 2460) in paragraph at lines 495--495
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ميں اپنی جنس کی
  []
 
 
@@ -2133,18 +2175,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 496--496
  []
 
 
-Underfull \hbox (badness 8151) in paragraph at lines 496--496
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 تعرضت للملاحقة و
+Underfull \hbox (badness 10000) in paragraph at lines 496--496
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Taradet llmula-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 496--496
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ami hijra hobar
+Underfull \hbox (badness 6708) in paragraph at lines 496--496
+\EU1/ArialUnicodeMS(0)/m/n/10 haka wal Idtihad
  []
 
 
 Underfull \hbox (badness 3138) in paragraph at lines 496--496
 []|\EU1/ArialUnicodeMS(0)/m/n/10 به خاطر فراجنسیتی
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 496--496
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 be khatere fara-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 496--496
+\EU1/ArialUnicodeMS(0)/m/n/10 jensi boodanam
  []
 
 
@@ -2158,23 +2210,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 497--497
  []
 
 
-Underfull \hbox (badness 6842) in paragraph at lines 497--497
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 لا اشعر بأمان في
- []
-
-
-Underfull \hbox (badness 6758) in paragraph at lines 497--497
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ami amar thakar
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 497--497
-\EU1/ArialUnicodeMS(0)/m/n/10 jaygatay nirapod
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 497--497
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 jaayi ke astam
+\EU1/ArialUnicodeMS(0)/m/n/10 man fi makan
  []
 
 
@@ -2188,13 +2225,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 498--498
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 498--498
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ami amar lingo
+Underfull \hbox (badness 1168) in paragraph at lines 498--498
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ana amel amaliet
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 498--498
 []|\EU1/ArialUnicodeMS(0)/m/n/10 من در حال گذار
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--498
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 man dar hale
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 498--498
+\EU1/ArialUnicodeMS(0)/m/n/10 gozare jensiati
  []
 
 
@@ -2214,22 +2261,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 499--499
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 499--499
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 أنا أتعاطى/ يلزمني
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ana bakhod /
  []
 
 
-Underfull \hbox (badness 2980) in paragraph at lines 499--499
-\EU1/ArialUnicodeMS(0)/m/n/10 هرمون تستسترون /
+Underfull \hbox (badness 1173) in paragraph at lines 499--499
+\EU1/ArialUnicodeMS(0)/m/n/10 Ana Lazimni Her-
+ []
+
+
+Underfull \hbox (badness 7099) in paragraph at lines 499--499
+\EU1/ArialUnicodeMS(0)/m/n/10 mon Testosteron,
+ []
+
+
+Underfull \hbox (badness 3375) in paragraph at lines 499--499
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ميں ليتا ہوں مجھے
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 499--499
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 amar hor-
+\EU1/ArialUnicodeMS(0)/m/n/10 ضرورت ہے ہارمون
  []
 
 
-Overfull \hbox (26.49239pt too wide) in paragraph at lines 499--499
-\EU1/ArialUnicodeMS(0)/m/n/10 mon/testosteron/estrojen
+Underfull \hbox (badness 10000) in paragraph at lines 499--499
+\EU1/ArialUnicodeMS(0)/m/n/10 / ٹيسٹوسٹيرون /
  []
 
 
@@ -2264,22 +2321,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 499--499
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 500--500
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 amar injek-
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 مجھے ضرورت ہے
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 500--500
-\EU1/ArialUnicodeMS(0)/m/n/10 shon/jel/bori
+Underfull \hbox (badness 5446) in paragraph at lines 500--500
+\EU1/ArialUnicodeMS(0)/m/n/10 (ہارمون) انجکشن /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 500--500
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 man shot/
+Underfull \hbox (badness 2042) in paragraph at lines 500--500
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 man shot / gel /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 500--500
-\EU1/ArialUnicodeMS(0)/m/n/10 geld/hormon
+Underfull \hbox (badness 1509) in paragraph at lines 500--500
+\EU1/ArialUnicodeMS(0)/m/n/10 ghors e (hormon)
  []
 
 
@@ -2287,7 +2344,7 @@ Overfull \hbox (4.84106pt too wide) in alignment at lines 481--501
  [] [] [] [] [] [] [] [] [] [] 
  []
 
-[17]
+[18]
 Underfull \hbox (badness 8019) in paragraph at lines 501--501
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Wo gibt es Be-
  []
@@ -2299,37 +2356,22 @@ Underfull \hbox (badness 3492) in paragraph at lines 501--501
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 501--501
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 أيوجد هنا مكان
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Win fi Muraga’
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 501--501
-\EU1/ArialUnicodeMS(0)/m/n/10 (مساعدة) للمثليين
+\EU1/ArialUnicodeMS(0)/m/n/10 (Musa’de) llmuth-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 501--501
-\EU1/ArialUnicodeMS(0)/m/n/10 جنسياً أو عابري
+\EU1/ArialUnicodeMS(0)/m/n/10 leen jenseeyan/
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 501--501
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 shomokamitar
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 501--501
-\EU1/ArialUnicodeMS(0)/m/n/10 bapare kar
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 501--501
-\EU1/ArialUnicodeMS(0)/m/n/10 shonge alochona
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 501--501
-\EU1/ArialUnicodeMS(0)/m/n/10 kora/kotha bola
+Underfull \hbox (badness 4316) in paragraph at lines 501--501
+\EU1/ArialUnicodeMS(0)/m/n/10 مشورہ دينے والا ہے
  []
 
 
@@ -2338,23 +2380,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 501--501
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 502--502
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 من فضلك خاطبني
+Underfull \hbox (badness 10000) in paragraph at lines 501--501
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Aya moshaveri
  []
 
 
-Underfull \hbox (badness 1502) in paragraph at lines 502--502
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 amake doya kore
+Underfull \hbox (badness 10000) in paragraph at lines 501--501
+\EU1/ArialUnicodeMS(0)/m/n/10 ba takhasose
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 501--501
+\EU1/ArialUnicodeMS(0)/m/n/10 hamjensgarayi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 501--501
+\EU1/ArialUnicodeMS(0)/m/n/10 / farajensgarayi
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 502--502
-\EU1/ArialUnicodeMS(0)/m/n/10 purush (chhele)
+\EU1/ArialUnicodeMS(0)/m/n/10 bel Muanath /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 502--502
-\EU1/ArialUnicodeMS(0)/m/n/10 /nari (meye)
+Underfull \hbox (badness 5696) in paragraph at lines 502--502
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 براے مہربانی مجھے
  []
 
 
@@ -2368,33 +2420,23 @@ Underfull \hbox (badness 3492) in paragraph at lines 503--503
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 503--503
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ami chai amake
+Underfull \hbox (badness 2884) in paragraph at lines 503--503
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ana ourid Fahssi
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 503--503
-\EU1/ArialUnicodeMS(0)/m/n/10 ekjon pu-
+\EU1/ArialUnicodeMS(0)/m/n/10 min kebal Rajol/
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 503--503
-\EU1/ArialUnicodeMS(0)/m/n/10 rush/mohila
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 doos daram ba
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 503--503
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 Mekhaayam ke
- []
-
-
-Underfull \hbox (badness 4846) in paragraph at lines 503--503
-\EU1/ArialUnicodeMS(0)/m/n/10 baa yaki mard /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 503--503
-\EU1/ArialUnicodeMS(0)/m/n/10 zan moaayena
+\EU1/ArialUnicodeMS(0)/m/n/10 ye mard / zan
  []
 
 
@@ -2591,8 +2633,23 @@ Overfull \hbox (137.10762pt too wide) in paragraph at lines 507--507
  []
 
 
-Underfull \hbox (badness 1460) in paragraph at lines 511--511
-\EU1/ArialUnicodeMS(0)/m/n/10 echhe / ami pani
+Underfull \hbox (badness 6758) in paragraph at lines 512--512
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Khlial yawm wa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 512--512
+\EU1/ArialUnicodeMS(0)/m/n/10 hed / Beyoum
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 512--513
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 wrosta la yawe
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--513
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Khilal sa’a wah-
  []
 
 
@@ -2601,26 +2658,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 514--514
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 514--514
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 amar matha
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 514--514
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 Saram dard
- []
-
-
-Underfull \hbox (badness 3482) in paragraph at lines 517--517
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 qaashoq / cham-
- []
-
-
 Overfull \hbox (4.84106pt too wide) in alignment at lines 501--521
  [] [] [] [] [] [] [] [] [] [] 
  []
 
-[18]
+[19]
 Underfull \hbox (badness 10000) in paragraph at lines 534--534
 []|\EU1/ArialUnicodeMS(0)/m/n/10 (die) Feuer-
  []
@@ -2630,7 +2672,7 @@ Overfull \hbox (4.84106pt too wide) in alignment at lines 521--541
  [] [] [] [] [] [] [] [] [] [] 
  []
 
-[19] [20] [21])
+[20] [21])
 Overfull \hbox (4.84106pt too wide) in alignment at lines 541--105
  [] [] [] [] [] [] [] [] [] [] 
  []
