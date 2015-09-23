@@ -1,1 +1,1 @@
- German  & English & French & Syrian/Arabic alphabet  & Tigrinya & Italian  \\ \hline   
+ German  & English & French & Bangla & Italian & Greek alphabet \\ 

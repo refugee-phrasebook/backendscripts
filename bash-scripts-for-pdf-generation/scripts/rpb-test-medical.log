@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.15)  23 SEP 2015 02:09
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.15)  23 SEP 2015 07:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -750,8 +750,18 @@ Underfull \hbox (badness 3068) in paragraph at lines 1--1
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--2
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Je dois voir un
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--1
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ho bisogno di
+ []
+
+
+Underfull \hbox (badness 2293) in paragraph at lines 1--2
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Πρέπει να με δει
  []
 
 
@@ -765,7 +775,7 @@ Underfull \hbox (badness 2277) in paragraph at lines 2--2
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--3
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Je dois aller à
  []
 
@@ -775,8 +785,18 @@ Underfull \hbox (badness 1708) in paragraph at lines 3--3
  []
 
 
-Underfull \hbox (badness 3471) in paragraph at lines 3--4
+Underfull \hbox (badness 3471) in paragraph at lines 3--3
 []|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai besoin d’une
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ho bisogno di
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Χρειάζομαι
  []
 
 
@@ -795,6 +815,16 @@ Underfull \hbox (badness 2990) in paragraph at lines 4--4
  []
 
 
+Underfull \hbox (badness 4168) in paragraph at lines 4--4
+\EU1/ArialUnicodeMS(0)/m/n/10 prare questo far-
+ []
+
+
+Underfull \hbox (badness 4518) in paragraph at lines 4--5
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Από πού μπορώ
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 5--5
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Wann muss ich
  []
@@ -805,8 +835,18 @@ Underfull \hbox (badness 1796) in paragraph at lines 5--5
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Quand dois-je
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Quando devo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Πότε πρέπει να
  []
 
 
@@ -825,13 +865,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--8
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Έχω χρόνια
+ []
+
+
 Underfull \hbox (badness 4940) in paragraph at lines 9--9
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich habe Herzin-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
 []|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai une insuffi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Soffro di insuffi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Έχω καρδιακή
  []
 
 
@@ -845,23 +900,58 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--10
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Εχω περάσει
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+\EU1/ArialUnicodeMS(0)/m/n/10 καρδιακό
+ []
+
+
+Underfull \hbox (badness 2875) in paragraph at lines 12--12
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Sono malata/o di
+ []
+
+
+Underfull \hbox (badness 2875) in paragraph at lines 15--15
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Sono malata/o di
+ []
+
+
 Underfull \hbox (badness 1715) in paragraph at lines 17--17
 []|\EU1/ArialUnicodeMS(0)/m/n/10 I have sickle cell
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--18
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
 []|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai une sick-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--18
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
 \EU1/ArialUnicodeMS(0)/m/n/10 lanémie (Syn:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--18
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
 \EU1/ArialUnicodeMS(0)/m/n/10 , Drépanocytose
+ []
+
+
+Underfull \hbox (badness 5787) in paragraph at lines 17--17
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Soffro di anemia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Έχω
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+\EU1/ArialUnicodeMS(0)/m/n/10 δρεπανοκυτταρική
  []
 
 
@@ -880,8 +970,13 @@ Underfull \hbox (badness 3417) in paragraph at lines 19--19
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Je suis dépres-
+ []
+
+
+Underfull \hbox (badness 4168) in paragraph at lines 19--19
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Soffro di depres-
  []
 
 
@@ -895,13 +990,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--20
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Je souffre de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Sono
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 21--21
 []|\EU1/ArialUnicodeMS(0)/m/n/10 لدي الاضطراب
+ []
+
+
+Underfull \hbox (badness 6741) in paragraph at lines 21--21
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Soffro di disturbi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Έχω διπολική
  []
 
 
@@ -915,8 +1025,28 @@ Underfull \hbox (badness 2435) in paragraph at lines 22--22
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--23
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ce sont mes
+ []
+
+
+Underfull \hbox (badness 8019) in paragraph at lines 22--22
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Questo è il far-
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 22--22
+\EU1/ArialUnicodeMS(0)/m/n/10 maco che prendo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Αυτά είναι τα
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+\EU1/ArialUnicodeMS(0)/m/n/10 φάρμακα που
  []
 
 
@@ -930,8 +1060,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--23
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Je prends ces
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Assumo questo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
+\EU1/ArialUnicodeMS(0)/m/n/10 farmaco giornal-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Παίρνω αυτά τα
  []
 
 
@@ -950,13 +1095,23 @@ Underfull \hbox (badness 3701) in paragraph at lines 24--24
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Je prends ces
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
 \EU1/ArialUnicodeMS(0)/m/n/10 médicaments
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Παίρνω αυτά τα
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+\EU1/ArialUnicodeMS(0)/m/n/10 φάρμακα πολλά
  []
 
 
@@ -970,18 +1125,43 @@ Underfull \hbox (badness 4168) in paragraph at lines 25--25
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
 \EU1/ArialUnicodeMS(0)/m/n/10 de ces médica-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+\EU1/ArialUnicodeMS(0)/m/n/10 prescrizione per
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Χρειάζομαι
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+\EU1/ArialUnicodeMS(0)/m/n/10 περισσότερο από
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Je suis
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
 []|\EU1/ArialUnicodeMS(0)/m/n/10 On m’a
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 27--27
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Sono stata/o col-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Κάποιος με
  []
 
 
@@ -995,13 +1175,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--28
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
 []|\EU1/ArialUnicodeMS(0)/m/n/10 On m’a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
 \EU1/ArialUnicodeMS(0)/m/n/10 frappé/frappée
+ []
+
+
+Underfull \hbox (badness 4913) in paragraph at lines 28--28
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Sono stata/o ag-
+ []
+
+
+Underfull \hbox (badness 7740) in paragraph at lines 28--28
+\EU1/ArialUnicodeMS(0)/m/n/10 gredita/o con un
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Κάποιος με
  []
 
 
@@ -1010,13 +1205,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--29
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
 []|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai été ren-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
 \EU1/ArialUnicodeMS(0)/m/n/10 versé/renversée
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Sono stata/o in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+\EU1/ArialUnicodeMS(0)/m/n/10 vestita/o da una
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Με χτύπησε ένα
  []
 
 
@@ -1030,13 +1240,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--30
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
 []|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai été
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
 \EU1/ArialUnicodeMS(0)/m/n/10 piqué/piquée
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Sono stata/o
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+\EU1/ArialUnicodeMS(0)/m/n/10 punta/o da un
+ []
+
+
+Underfull \hbox (badness 4108) in paragraph at lines 30--31
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Με τσίμπησε ένα
  []
 
 
@@ -1050,33 +1275,48 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--31
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--32
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
 []|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai été
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
+Underfull \hbox (badness 10000) in paragraph at lines 31--31
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Sono stata/o
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Je suis
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
 \EU1/ArialUnicodeMS(0)/m/n/10 tombé/tombée
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
+Underfull \hbox (badness 10000) in paragraph at lines 32--32
 \EU1/ArialUnicodeMS(0)/m/n/10 d’une certaine
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Je suis
  []
 
 
 Underfull \hbox (badness 6725) in paragraph at lines 35--35
 []|\EU1/ArialUnicodeMS(0)/m/n/10 The pain started
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ο πόνος αρχίζει
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+\EU1/ArialUnicodeMS(0)/m/n/10 από εδώ και
  []
 
 
@@ -1090,6 +1330,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--36
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ο πόνος είναι
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 37--37
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Der Schmerz
  []
@@ -1100,8 +1345,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--37
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
 []|\EU1/ArialUnicodeMS(0)/m/n/10 La douleur n’est
+ []
+
+
+Underfull \hbox (badness 6542) in paragraph at lines 37--38
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ο πόνος έρχεται
  []
 
 
@@ -1120,8 +1370,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--38
  []
 
 
+Underfull \hbox (badness 6708) in paragraph at lines 38--38
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Fa male quando
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Πονάει όταν το
+ []
+
+
 Underfull \hbox (badness 5832) in paragraph at lines 39--39
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Es ist schlimmer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Peggiora quando
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Είναι χειρότερο
  []
 
 
@@ -1134,9 +1404,29 @@ Underfull \hbox (badness 1515) in paragraph at lines 40--40
 []|\EU1/ArialUnicodeMS(0)/m/n/10 انه يزيد سوءا عندما
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Peggiora quando
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Είναι χειρότερα
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+\EU1/ArialUnicodeMS(0)/m/n/10 όταν είμαι
+ []
+
 [1
 
 ]
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Είναι αμβλύς
+ []
+
+
 Underfull \hbox (badness 2376) in paragraph at lines 43--43
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Der Schmerz be-
  []
@@ -1147,8 +1437,13 @@ Underfull \hbox (badness 6725) in paragraph at lines 43--43
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
 []|\EU1/ArialUnicodeMS(0)/m/n/10 La douleur est
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ο πόνος άρχισε
  []
 
 
@@ -1162,13 +1457,18 @@ Underfull \hbox (badness 6725) in paragraph at lines 44--44
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
 []|\EU1/ArialUnicodeMS(0)/m/n/10 La douleur est
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
 \EU1/ArialUnicodeMS(0)/m/n/10 venue progres-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ο πόνος άρχισε
  []
 
 
@@ -1182,8 +1482,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--45
  []
 
 
-Underfull \hbox (badness 3492) in paragraph at lines 45--46
+Underfull \hbox (badness 3492) in paragraph at lines 45--45
 []|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai déjà ressenti
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ho già avuto
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+\EU1/ArialUnicodeMS(0)/m/n/10 questo dolore in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Πονούσα και
  []
 
 
@@ -1202,13 +1517,28 @@ Underfull \hbox (badness 1028) in paragraph at lines 46--46
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Je n’ai jamais
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--47
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
 \EU1/ArialUnicodeMS(0)/m/n/10 ressenti cette
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 46--46
+\EU1/ArialUnicodeMS(0)/m/n/10 prima questo do-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Δεν έχω
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+\EU1/ArialUnicodeMS(0)/m/n/10 ξανανιώσει τέτοιο
  []
 
 
@@ -1222,6 +1552,11 @@ Underfull \hbox (badness 1231) in paragraph at lines 48--48
  []
 
 
+Underfull \hbox (badness 6691) in paragraph at lines 48--48
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ho sangue nelle
+ []
+
+
 Underfull \hbox (badness 2302) in paragraph at lines 49--49
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich habe Blut im
  []
@@ -1229,6 +1564,16 @@ Underfull \hbox (badness 2302) in paragraph at lines 49--49
 
 Underfull \hbox (badness 1231) in paragraph at lines 49--49
 []|\EU1/ArialUnicodeMS(0)/m/n/10 There is blood in
+ []
+
+
+Underfull \hbox (badness 6691) in paragraph at lines 49--49
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ho sangue nelle
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Έχω αίμα στα
  []
 
 
@@ -1242,8 +1587,38 @@ Underfull \hbox (badness 1231) in paragraph at lines 50--50
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ho sangue nel
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Έκανα εμετό με
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Έφτυσα αίμα
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Έχω αιμορραγία
+ []
+
+
+Underfull \hbox (badness 6220) in paragraph at lines 52--53
+\EU1/ArialUnicodeMS(0)/m/n/10 από τον πρωκτό
+ []
+
+
 Underfull \hbox (badness 4927) in paragraph at lines 53--53
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich habe Nasen-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Έχω αιμορραγία
  []
 
 
@@ -1252,13 +1627,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--54
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Je saigne entre
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
 \EU1/ArialUnicodeMS(0)/m/n/10 mes menstrua-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ho perdite in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Έχω αιμορραγία
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+\EU1/ArialUnicodeMS(0)/m/n/10 στη μέση της
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+\EU1/ArialUnicodeMS(0)/m/n/10 περιόδου \του
  []
 
 
@@ -1282,28 +1677,58 @@ Underfull \hbox (badness 6300) in paragraph at lines 55--55
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Je suis
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
 \EU1/ArialUnicodeMS(0)/m/n/10 ménopausée,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
 \EU1/ArialUnicodeMS(0)/m/n/10 mais je saigne
  []
 
-[2] [3]
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Sono in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+\EU1/ArialUnicodeMS(0)/m/n/10 menopausa ma
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Αιμορραγώ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+\EU1/ArialUnicodeMS(0)/m/n/10 ενώ είμαι στην
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Το δάχτυλο του
+ []
+
+[3]
 Underfull \hbox (badness 10000) in paragraph at lines 87--87
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich fühle mich
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--88
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Je me sens
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Αισθάνομαι
  []
 
 
@@ -1312,7 +1737,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 91--91
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
+Underfull \hbox (badness 10000) in paragraph at lines 91--91
 []|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai des sueurs
  []
 
@@ -1322,12 +1747,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 92--92
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--93
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Je me suis
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--94
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
 []|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai la tête qui
  []
 
@@ -1347,8 +1772,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--94
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--95
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
 []|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai fait une at-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ho perso
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Έμεινα
  []
 
 
@@ -1362,11 +1797,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 97--97
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 98--99
+Underfull \hbox (badness 1997) in paragraph at lines 98--98
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Je fais une crise
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Σφυρίζουν οι
+ []
+
+[4]
 Underfull \hbox (badness 10000) in paragraph at lines 101--101
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich habe
  []
@@ -1382,7 +1822,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 102--102
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
 []|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai des palpita-
  []
 
@@ -1392,8 +1832,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--103
  []
 
 
-Underfull \hbox (badness 2884) in paragraph at lines 103--104
+Underfull \hbox (badness 2884) in paragraph at lines 103--103
 []|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai des douleurs
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Με πονάει το
  []
 
 
@@ -1407,8 +1852,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 104--104
  []
 
 
-Underfull \hbox (badness 2884) in paragraph at lines 104--105
+Underfull \hbox (badness 2884) in paragraph at lines 104--104
 []|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai des douleurs
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Έχω
  []
 
 
@@ -1417,8 +1867,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 106--106
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--109
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Je suis con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Έχω
  []
 
 
@@ -1427,7 +1882,7 @@ Underfull \hbox (badness 4673) in paragraph at lines 109--109
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--110
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Je vomis toute
  []
 
@@ -1437,13 +1892,28 @@ Underfull \hbox (badness 2894) in paragraph at lines 110--110
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--111
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Je dois uriner
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--112
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Devo urinare
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
 []|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai mal lorsque
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ho bruciore
+ []
+
+
+Underfull \hbox (badness 1983) in paragraph at lines 111--112
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Κατά την ούρηση
  []
 
 
@@ -1462,8 +1932,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--112
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Mon urine sent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Τα ούρα μου
  []
 
 
@@ -1472,13 +1947,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 113--113
  []
 
 
-Underfull \hbox (badness 5374) in paragraph at lines 113--114
+Underfull \hbox (badness 5374) in paragraph at lines 113--113
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Je ne peux pas
  []
 
 
-Underfull \hbox (badness 2894) in paragraph at lines 114--115
+Underfull \hbox (badness 10000) in paragraph at lines 113--113
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Non riesco a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Δεν μπορώ να
+ []
+
+
+Underfull \hbox (badness 2894) in paragraph at lines 114--114
 []|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai des crampes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Έχω κόλικο στα
  []
 
 
@@ -1497,7 +1987,7 @@ Underfull \hbox (badness 1117) in paragraph at lines 117--117
  []
 
 
-Underfull \hbox (badness 5802) in paragraph at lines 117--118
+Underfull \hbox (badness 5802) in paragraph at lines 117--117
 []|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai des contrac-
  []
 
@@ -1512,13 +2002,23 @@ Underfull \hbox (badness 2521) in paragraph at lines 118--118
  []
 
 
-Underfull \hbox (badness 4846) in paragraph at lines 118--119
+Underfull \hbox (badness 4846) in paragraph at lines 118--118
 []|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai eu des rap-
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 118--119
+Underfull \hbox (badness 1442) in paragraph at lines 118--118
 \EU1/ArialUnicodeMS(0)/m/n/10 ports il y a deux
+ []
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 118--118
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ho avuto rapporti
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Τελευταία φορά
  []
 
 
@@ -1537,8 +2037,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 119--119
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
+Underfull \hbox (badness 10000) in paragraph at lines 119--119
 \EU1/ArialUnicodeMS(0)/m/n/10 rapports sexuels
+ []
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 119--119
+\EU1/ArialUnicodeMS(0)/m/n/10 porti sessuali per
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+\EU1/ArialUnicodeMS(0)/m/n/10 μεγάλο χρονικό
  []
 
 
@@ -1546,19 +2056,39 @@ Underfull \hbox (badness 10000) in paragraph at lines 120--120
 []|\EU1/ArialUnicodeMS(0)/m/n/10 عندي افرازات من
  []
 
-[4]
+
 Underfull \hbox (badness 10000) in paragraph at lines 121--121
 []|\EU1/ArialUnicodeMS(0)/m/n/10 عندي افرازات من
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--122
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
 []|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai des écoule-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ho perdite
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 122--122
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich bin verge-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ho subito vio-
+ []
+
+
+Underfull \hbox (badness 7759) in paragraph at lines 122--122
+\EU1/ArialUnicodeMS(0)/m/n/10 lenza sessuale /
+ []
+
+
+Underfull \hbox (badness 1708) in paragraph at lines 122--122
+\EU1/ArialUnicodeMS(0)/m/n/10 tato / Sono stata
  []
 
 
@@ -1577,8 +2107,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 123--123
  []
 
 
-Overfull \hbox (0.93086pt too wide) in paragraph at lines 123--124
+Overfull \hbox (0.93086pt too wide) in paragraph at lines 123--123
 \EU1/ArialUnicodeMS(0)/m/n/10 d’engourdissement
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Έχω
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+\EU1/ArialUnicodeMS(0)/m/n/10 μυρμήγκιασμα
  []
 
 
@@ -1587,13 +2127,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--125
  []
 
 
-Underfull \hbox (badness 4168) in paragraph at lines 125--126
+Underfull \hbox (badness 4168) in paragraph at lines 125--125
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ma/mon ... est
  []
 
 
-Underfull \hbox (badness 2617) in paragraph at lines 126--127
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Το..... είναι
+ []
+
+
+Underfull \hbox (badness 2617) in paragraph at lines 126--126
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ma/mon .... est
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Το.... είναι
  []
 
 
@@ -1602,8 +2152,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 127--127
  []
 
 
-Underfull \hbox (badness 5374) in paragraph at lines 127--128
+Underfull \hbox (badness 5374) in paragraph at lines 127--127
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Je ne peux pas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Δεν μπορώ να
  []
 
 
@@ -1622,8 +2177,18 @@ Underfull \hbox (badness 3428) in paragraph at lines 130--130
  []
 
 
-Underfull \hbox (badness 1460) in paragraph at lines 130--131
+Underfull \hbox (badness 1460) in paragraph at lines 130--130
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Je n’arrive pas à
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Non posso pie-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Δεν μπορώ να
  []
 
 
@@ -1637,8 +2202,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 133--133
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--134
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Je me sens
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Αισθάνομαι
  []
 
 
@@ -1647,8 +2217,13 @@ Underfull \hbox (badness 1460) in paragraph at lines 135--135
  []
 
 
-Underfull \hbox (badness 1460) in paragraph at lines 135--136
+Underfull \hbox (badness 1460) in paragraph at lines 135--135
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Je pense au sui-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Σκέφτομαι να
  []
 
 
@@ -1657,8 +2232,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 136--136
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--137
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
 \EU1/ArialUnicodeMS(0)/m/n/10 lorsque je suis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Sento delle voci
  []
 
 
@@ -1666,19 +2246,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 137--137
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich fühle mich
  []
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 137--105
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
 []|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai l’impression
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--105
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
 \EU1/ArialUnicodeMS(0)/m/n/10 d’être
  []
 
-[5] [6]
+
+Underfull \hbox (badness 1496) in paragraph at lines 137--137
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ho la sensazione
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 137--105
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Νιώθω ότι με
+ []
+
+[5] [6] [7]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
- [7]
+ [8]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
  (./rpb-test-medical.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 106.
@@ -1688,10 +2278,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 106.
 Here is how much of TeX's memory you used:
  21384 strings out of 493706
  399388 string characters out of 6145769
- 462836 words of memory out of 5000000
+ 478846 words of memory out of 5000000
  24641 multiletter control sequences out of 15000+600000
  4064 words of font info for 23 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  46i,5n,65p,10367b,418s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on rpb-test-medical.pdf (7 pages).
+Output written on rpb-test-medical.pdf (8 pages).
