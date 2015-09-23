@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.15)  22 SEP 2015 22:42
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.15)  23 SEP 2015 02:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -745,21 +745,13 @@ LaTeX Info: Redefining \nameref on input line 96.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (../temp/medical.h.bs) (../temp/medical.d.bs
-Missing character: There is no ٔ in font Arial Unicode MS/OT:mapping=tex-text;!
-Missing character: There is no ٔ in font Arial Unicode MS/OT:mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--1
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 زه په ډاکټر ځان
+Underfull \hbox (badness 3068) in paragraph at lines 1--1
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I need to see a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--1
-\EU1/ArialUnicodeMS(0)/m/n/10 معاېٔنه کوم
- []
-
-
-Underfull \hbox (badness 7221) in paragraph at lines 1--1
-\EU1/ArialUnicodeMS(0)/m/n/10 \زه ډاکټر تة ځان
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je dois voir un
  []
 
 
@@ -773,24 +765,18 @@ Underfull \hbox (badness 2277) in paragraph at lines 2--2
  []
 
 
-Underfull \hbox (badness 2922) in paragraph at lines 2--2
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ماله هسپتال ته تګ
- []
-
-Missing character: There is no ٔ in font Arial Unicode MS/OT:mapping=tex-text;!
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 \ماله اېمبولینس
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je dois aller à
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\EU1/ArialUnicodeMS(0)/m/n/10 راولٔے ماته
+Underfull \hbox (badness 1708) in paragraph at lines 3--3
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I need an ambu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--3
-\EU1/ArialUnicodeMS(0)/m/n/10 اېمبولینس پکار
+Underfull \hbox (badness 3471) in paragraph at lines 3--4
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai besoin d’une
  []
 
 
@@ -809,21 +795,6 @@ Underfull \hbox (badness 2990) in paragraph at lines 4--4
  []
 
 
-Underfull \hbox (badness 4316) in paragraph at lines 4--4
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 دا نسخہ دارو چرتا
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 میں یہ نسخے کی
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-\EU1/ArialUnicodeMS(0)/m/n/10 دوائی کہاں سے
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 5--5
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Wann muss ich
  []
@@ -831,6 +802,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--5
 
 Underfull \hbox (badness 1796) in paragraph at lines 5--5
 []|\EU1/ArialUnicodeMS(0)/m/n/10 متي يمكنني أن آتي
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Quand dois-je
  []
 
 
@@ -844,8 +820,18 @@ Underfull \hbox (badness 1502) in paragraph at lines 8--8
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I have chronic
+ []
+
+
 Underfull \hbox (badness 4940) in paragraph at lines 9--9
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich habe Herzin-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai une insuffi-
  []
 
 
@@ -859,13 +845,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--10
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 مجھے ذیابطس
+Underfull \hbox (badness 1715) in paragraph at lines 17--17
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I have sickle cell
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--17
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 من بیماری سلول
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai une sick-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+\EU1/ArialUnicodeMS(0)/m/n/10 lanémie (Syn:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--18
+\EU1/ArialUnicodeMS(0)/m/n/10 , Drépanocytose
  []
 
 
@@ -874,13 +870,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--18
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I have thalas-
+ []
+
+
 Underfull \hbox (badness 3417) in paragraph at lines 19--19
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich leide an De-
  []
 
 
-Underfull \hbox (badness 1354) in paragraph at lines 19--20
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 مجھے شدید ڈپریشن
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je suis dépres-
  []
 
 
@@ -894,20 +895,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--20
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je souffre de
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 21--21
 []|\EU1/ArialUnicodeMS(0)/m/n/10 لدي الاضطراب
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--21
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 من (افسردگی)
- []
-
-! Text line contains an invalid character.
-l.21 ...�ردگی) دوقطبی دارم. &  & ^^D
-                                                  مجھے بآے پولر �...
-
-? 
 
 Underfull \hbox (badness 10000) in paragraph at lines 22--22
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Das sind meine
@@ -919,6 +915,11 @@ Underfull \hbox (badness 2435) in paragraph at lines 22--22
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ce sont mes
+ []
+
+
 Underfull \hbox (badness 4927) in paragraph at lines 23--23
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich nehme diese
  []
@@ -926,6 +927,11 @@ Underfull \hbox (badness 4927) in paragraph at lines 23--23
 
 Underfull \hbox (badness 10000) in paragraph at lines 23--23
 \EU1/ArialUnicodeMS(0)/m/n/10 Medikamente
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je prends ces
  []
 
 
@@ -944,6 +950,16 @@ Underfull \hbox (badness 3701) in paragraph at lines 24--24
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je prends ces
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+\EU1/ArialUnicodeMS(0)/m/n/10 médicaments
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 25--25
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich brauche
  []
@@ -954,13 +970,18 @@ Underfull \hbox (badness 4168) in paragraph at lines 25--25
  []
 
 
-Underfull \hbox (badness 6526) in paragraph at lines 25--26
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 مجھے مزید یہ دوا
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+\EU1/ArialUnicodeMS(0)/m/n/10 de ces médica-
  []
 
 
-Underfull \hbox (badness 2393) in paragraph at lines 27--27
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 یک نفر من را زده
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je suis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 On m’a
  []
 
 
@@ -974,8 +995,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--28
  []
 
 
-Underfull \hbox (badness 4913) in paragraph at lines 28--28
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 من با چاقو زخمی
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 On m’a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+\EU1/ArialUnicodeMS(0)/m/n/10 frappé/frappée
  []
 
 
@@ -984,13 +1010,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--29
  []
 
 
-Underfull \hbox (badness 6910) in paragraph at lines 29--29
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ماشین به من زده
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai été ren-
  []
 
 
-Underfull \hbox (badness 2401) in paragraph at lines 29--30
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ایک گاڑی نے مجھے
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+\EU1/ArialUnicodeMS(0)/m/n/10 versé/renversée
  []
 
 
@@ -1004,6 +1030,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--30
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai été
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+\EU1/ArialUnicodeMS(0)/m/n/10 piqué/piquée
+ []
+
+
 Underfull \hbox (badness 4940) in paragraph at lines 31--31
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich wurde gebis-
  []
@@ -1014,8 +1050,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--31
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--33
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 za ooghar ze
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai été
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je suis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+\EU1/ArialUnicodeMS(0)/m/n/10 tombé/tombée
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+\EU1/ArialUnicodeMS(0)/m/n/10 d’une certaine
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je suis
+ []
+
+
+Underfull \hbox (badness 6725) in paragraph at lines 35--35
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 The pain started
  []
 
 
@@ -1034,6 +1095,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--37
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 The pain comes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 La douleur n’est
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 38--38
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Es schmerzt bei
  []
@@ -1045,17 +1116,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--38
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 38--38
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 وقتی بهش دست
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 It hurts when I
  []
 
 
 Underfull \hbox (badness 5832) in paragraph at lines 39--39
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Es ist schlimmer
- []
-
-
-Underfull \hbox (badness 1057) in paragraph at lines 39--39
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 وقتی بلند میشم درد
  []
 
 
@@ -1068,26 +1134,41 @@ Underfull \hbox (badness 1515) in paragraph at lines 40--40
 []|\EU1/ArialUnicodeMS(0)/m/n/10 انه يزيد سوءا عندما
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 وقتی دراز میکشم
- []
-
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 42--42
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 دردش فشار گونه
- []
-
-
 Underfull \hbox (badness 2376) in paragraph at lines 43--43
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Der Schmerz be-
  []
 
 
+Underfull \hbox (badness 6725) in paragraph at lines 43--43
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 The pain started
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 La douleur est
+ []
+
+
 Underfull \hbox (badness 2376) in paragraph at lines 44--44
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Der Schmerz be-
+ []
+
+
+Underfull \hbox (badness 6725) in paragraph at lines 44--44
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 The pain started
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 La douleur est
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+\EU1/ArialUnicodeMS(0)/m/n/10 venue progres-
  []
 
 
@@ -1101,8 +1182,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--45
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 45--45
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 این درد را قبلا هم
+Underfull \hbox (badness 3492) in paragraph at lines 45--46
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai déjà ressenti
  []
 
 
@@ -1116,8 +1197,18 @@ Underfull \hbox (badness 1515) in paragraph at lines 46--46
  []
 
 
-Underfull \hbox (badness 7851) in paragraph at lines 46--47
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 مجھے یہ درد پہلے
+Underfull \hbox (badness 1028) in paragraph at lines 46--46
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I have never had
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je n’ai jamais
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+\EU1/ArialUnicodeMS(0)/m/n/10 ressenti cette
  []
 
 
@@ -1126,8 +1217,8 @@ Underfull \hbox (badness 2302) in paragraph at lines 48--48
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--48
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 در ادرار من خون
+Underfull \hbox (badness 1231) in paragraph at lines 48--48
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 There is blood in
  []
 
 
@@ -1136,13 +1227,18 @@ Underfull \hbox (badness 2302) in paragraph at lines 49--49
  []
 
 
-Underfull \hbox (badness 2376) in paragraph at lines 49--49
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 در مدفوع من خون
+Underfull \hbox (badness 1231) in paragraph at lines 49--49
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 There is blood in
  []
 
 
 Underfull \hbox (badness 1460) in paragraph at lines 50--50
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich habe Blut er-
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 50--50
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 There is blood in
  []
 
 
@@ -1156,8 +1252,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--54
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--54
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 خونریزی‌های مکرر
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je saigne entre
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+\EU1/ArialUnicodeMS(0)/m/n/10 mes menstrua-
  []
 
 
@@ -1172,17 +1273,37 @@ Underfull \hbox (badness 6691) in paragraph at lines 55--55
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 55--55
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 خونریزی بعد از
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 My periods fin-
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 55--55
+\EU1/ArialUnicodeMS(0)/m/n/10 ished, but I am
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je suis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+\EU1/ArialUnicodeMS(0)/m/n/10 ménopausée,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+\EU1/ArialUnicodeMS(0)/m/n/10 mais je saigne
  []
 
 [2] [3]
-Underfull \hbox (badness 10000) in paragraph at lines 84--85
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 فرج رحم کا
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ich fühle mich
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 87--87
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ich fühle mich
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je me sens
  []
 
 
@@ -1192,12 +1313,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 91--91
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 91--92
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 مجھے
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai des sueurs
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 92--92
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich war ohn-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je me suis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai la tête qui
  []
 
 
@@ -1216,23 +1347,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 94--94
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai fait une at-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 97--97
 []|\EU1/ArialUnicodeMS(0)/m/n/10 أشعر بصعوبة في
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 میری کھانسی میں
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I have difficulty
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 98--99
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je fais une crise
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 101--101
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich habe
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 101--102
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 میرا دل تیزی سے
  []
 
 
@@ -1246,8 +1382,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 102--102
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai des palpita-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 103--103
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich habe
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 103--104
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai des douleurs
  []
 
 
@@ -1256,8 +1402,13 @@ Underfull \hbox (badness 2875) in paragraph at lines 104--104
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 105--105
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 من احساس مریضی
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I have stomach
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 104--105
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai des douleurs
  []
 
 
@@ -1266,23 +1417,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 106--106
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je suis con-
+ []
+
+
 Underfull \hbox (badness 4673) in paragraph at lines 109--109
 []|\EU1/ArialUnicodeMS(0)/m/n/10 أستفرغ كل ما آكله
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--109
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 من همه غذا و
- []
-
-
-Underfull \hbox (badness 2970) in paragraph at lines 109--109
-\EU1/ArialUnicodeMS(0)/m/n/10 نوشیدنی ها رو بالا
- []
-
-
-Underfull \hbox (badness 4036) in paragraph at lines 109--110
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 میں تمام کھانا پینا
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je vomis toute
  []
 
 
@@ -1291,8 +1437,13 @@ Underfull \hbox (badness 2894) in paragraph at lines 110--110
  []
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 110--111
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 میں ہر گھنٹے پیشاب
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je dois uriner
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai mal lorsque
  []
 
 
@@ -1306,8 +1457,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--112
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 My urine smells
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Mon urine sent
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 113--113
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich kann nicht
+ []
+
+
+Underfull \hbox (badness 5374) in paragraph at lines 113--114
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je ne peux pas
+ []
+
+
+Underfull \hbox (badness 2894) in paragraph at lines 114--115
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai des crampes
  []
 
 
@@ -1321,23 +1492,33 @@ Underfull \hbox (badness 1881) in paragraph at lines 116--116
  []
 
 
-Underfull \hbox (badness 3701) in paragraph at lines 116--116
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 من حامله هستم و
- []
-
-
-Underfull \hbox (badness 3460) in paragraph at lines 116--117
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 میں حاملہ ہوں اور
- []
-
-
 Underfull \hbox (badness 1117) in paragraph at lines 117--117
 []|\EU1/ArialUnicodeMS(0)/m/n/10 عندي الام الولاده او
  []
 
 
+Underfull \hbox (badness 5802) in paragraph at lines 117--118
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai des contrac-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 118--118
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich hatte vor 2
+ []
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 118--118
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I last had sex 2
+ []
+
+
+Underfull \hbox (badness 4846) in paragraph at lines 118--119
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai eu des rap-
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 118--119
+\EU1/ArialUnicodeMS(0)/m/n/10 ports il y a deux
  []
 
 
@@ -1356,18 +1537,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 119--119
  []
 
 
-Underfull \hbox (badness 1264) in paragraph at lines 119--119
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 مدت زیادی است که
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+\EU1/ArialUnicodeMS(0)/m/n/10 rapports sexuels
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 120--120
 []|\EU1/ArialUnicodeMS(0)/m/n/10 عندي افرازات من
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 120--121
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 میری شرم گاہ
  []
 
 [4]
@@ -1376,13 +1552,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 121--121
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--122
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ich bin verge-
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai des écoule-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--123
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 میرے ساتھ جنسی
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ich bin verge-
  []
 
 
@@ -1401,8 +1577,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 123--123
  []
 
 
+Overfull \hbox (0.93086pt too wide) in paragraph at lines 123--124
+\EU1/ArialUnicodeMS(0)/m/n/10 d’engourdissement
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 125--125
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Mein ... ist
+ []
+
+
+Underfull \hbox (badness 4168) in paragraph at lines 125--126
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ma/mon ... est
+ []
+
+
+Underfull \hbox (badness 2617) in paragraph at lines 126--127
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ma/mon .... est
  []
 
 
@@ -1411,8 +1602,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 127--127
  []
 
 
-Underfull \hbox (badness 7888) in paragraph at lines 127--127
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 من نمیتوانم صحبت
+Underfull \hbox (badness 5374) in paragraph at lines 127--128
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je ne peux pas
  []
 
 
@@ -1425,7 +1616,16 @@ Underfull \hbox (badness 3118) in paragraph at lines 130--130
 []|\EU1/ArialUnicodeMS(0)/m/n/10 لا استطيع ان احني
  []
 
-Missing character: There is no ؓ in font Arial Unicode MS/OT:mapping=tex-text;!
+
+Underfull \hbox (badness 3428) in paragraph at lines 130--130
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I cannot flex my
+ []
+
+
+Underfull \hbox (badness 1460) in paragraph at lines 130--131
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je n’arrive pas à
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 133--133
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich bin
@@ -1437,13 +1637,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 133--133
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--133
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 احساس افسردگی
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je me sens
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--135
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 به خودکشی فکر
+Underfull \hbox (badness 1460) in paragraph at lines 135--135
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I think about sui-
+ []
+
+
+Underfull \hbox (badness 1460) in paragraph at lines 135--136
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je pense au sui-
  []
 
 
@@ -1451,10 +1656,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 136--136
 []|\EU1/ArialUnicodeMS(0)/m/n/10 أسمع أصواتاً حين
  []
 
-Missing character: There is no ؓ in font Arial Unicode MS/OT:mapping=tex-text;!
 
 Underfull \hbox (badness 10000) in paragraph at lines 136--137
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 مجھے اکیلے میں
+\EU1/ArialUnicodeMS(0)/m/n/10 lorsque je suis
  []
 
 
@@ -1462,7 +1666,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 137--137
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich fühle mich
  []
 
-) [5] [6]
+)
+Underfull \hbox (badness 10000) in paragraph at lines 137--105
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai l’impression
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--105
+\EU1/ArialUnicodeMS(0)/m/n/10 d’être
+ []
+
+[5] [6]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
  [7]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
@@ -1474,7 +1688,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 106.
 Here is how much of TeX's memory you used:
  21384 strings out of 493706
  399388 string characters out of 6145769
- 467841 words of memory out of 5000000
+ 462836 words of memory out of 5000000
  24641 multiletter control sequences out of 15000+600000
  4064 words of font info for 23 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191

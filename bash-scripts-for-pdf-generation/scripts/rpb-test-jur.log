@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.15)  22 SEP 2015 22:42
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.8.15)  23 SEP 2015 02:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -756,12 +756,7 @@ Underfull \hbox (badness 5175) in paragraph at lines 105--1
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 1--1
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 شناخت وضعیت
- []
-
-
-Underfull \hbox (badness 1221) in paragraph at lines 1--1
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 پناہ گزین کی حیثیت
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 grant of refugee
  []
 
 
@@ -771,22 +766,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--2
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 2--2
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 مصاحبه پناهندگی
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 asylum interview
  []
 
 
-Underfull \hbox (badness 1953) in paragraph at lines 2--2
-\EU1/ArialUnicodeMS(0)/m/n/10 (مصاحبه اصلی برای
+Underfull \hbox (badness 6608) in paragraph at lines 2--2
+\EU1/ArialUnicodeMS(0)/m/n/10 cadre de la de-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--2
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Colloquio per la
+ []
+
+
+Underfull \hbox (badness 6725) in paragraph at lines 2--2
+\EU1/ArialUnicodeMS(0)/m/n/10 garanzia di asilo
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 3--3
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 taqdīm talab al-
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Presentare una
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 chiedere asilo
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 5--5
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 sayru mu‘āmalat
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 asylum proceed-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 la procédure
  []
 
 
@@ -795,8 +810,23 @@ Overfull \hbox (27.07344pt too wide) in paragraph at lines 7--7
  []
 
 
-Underfull \hbox (badness 1178) in paragraph at lines 8--8
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 markiz istiqbāl al-
+Underfull \hbox (badness 1509) in paragraph at lines 7--7
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 permesso di sog-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 centre d’accueil
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+\EU1/ArialUnicodeMS(0)/m/n/10 de demandeurs
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 campo di ac-
  []
 
 
@@ -806,7 +836,7 @@ Overfull \hbox (9.25606pt too wide) in paragraph at lines 12--12
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 12--12
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 markiz istiqbāl
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 centre d’accueil
  []
 
 
@@ -816,12 +846,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--13
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 13--13
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 mouqābala /
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 oral hear-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 سماعت/ عدالتی
+Underfull \hbox (badness 1168) in paragraph at lines 14--14
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 border crossing //
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 14--14
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 point de passage
+ []
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 14--14
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 valico di frontiera
+ []
+
+
+Underfull \hbox (badness 7099) in paragraph at lines 14--14
+\EU1/ArialUnicodeMS(0)/m/n/10 / attraversamento
  []
 
 
@@ -830,8 +875,33 @@ Overfull \hbox (47.06367pt too wide) in paragraph at lines 15--15
  []
 
 
-Underfull \hbox (badness 2310) in paragraph at lines 15--15
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 سرحد عبور کرنے کا
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 border crossing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 un certificat de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 certificato
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+\EU1/ArialUnicodeMS(0)/m/n/10 che attesta
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+\EU1/ArialUnicodeMS(0)/m/n/10 l’attraversamento
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 asile dans une
  []
 
 
@@ -840,18 +910,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--16
  []
 
 
+Underfull \hbox (badness 4846) in paragraph at lines 16--16
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 asilo in chiesa /
+ []
+
+
 Overfull \hbox (3.71895pt too wide) in paragraph at lines 17--17
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Kontingentflüchtling| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--17
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 lāji’ Dimn
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--17
-\EU1/ArialUnicodeMS(0)/m/n/10 al-Hissa’l-
  []
 
 
@@ -865,13 +930,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--18
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--18
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 min al-wādeH
+Underfull \hbox (badness 2547) in paragraph at lines 18--18
+\EU1/ArialUnicodeMS(0)/m/n/10 manifestement in-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--19
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 اپ کو وکیل کی
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 manifestatamente
  []
 
 
@@ -901,6 +966,11 @@ Overfull \hbox (24.28535pt too wide) in paragraph at lines 24--24
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 l’indication des
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
 []|\EU1/ArialUnicodeMS(0)/m/n/10 التعليمات في شأن
  []
 
@@ -910,13 +980,43 @@ Overfull \hbox (39.27559pt too wide) in paragraph at lines 26--26
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 re-admission
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--26
+\EU1/ArialUnicodeMS(0)/m/n/10 agreement (be-
+ []
+
+
+Underfull \hbox (badness 5787) in paragraph at lines 26--26
+\EU1/ArialUnicodeMS(0)/m/n/10 tween two coun-
+ []
+
+
+Underfull \hbox (badness 3492) in paragraph at lines 26--26
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 l’accord de réad-
+ []
+
+
 Underfull \hbox (badness 3735) in paragraph at lines 26--26
 []|\EU1/ArialUnicodeMS(0)/m/n/10 اتفاقية إعادة القبول
  []
 
 
+Underfull \hbox (badness 3735) in paragraph at lines 27--27
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 subsidiary protec-
+ []
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 27--27
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 la protection sub-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 27--27
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 al-Himāya ath-
+\EU1/ArialUnicodeMS(0)/m/n/10 sidiaire selon le
  []
 
 
@@ -925,13 +1025,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--27
  []
 
 
-Underfull \hbox (badness 3965) in paragraph at lines 27--27
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 حمایت تکمیلی تحت
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 protezione sus-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 امتناع از درخواست
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+\EU1/ArialUnicodeMS(0)/m/n/10 sidiaria ai sensi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--27
+\EU1/ArialUnicodeMS(0)/m/n/10 della legislazione
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 assigned coun-
+ []
+
+
+Underfull \hbox (badness 7186) in paragraph at lines 33--33
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 l’avocat (commis)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--34
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 counsel for de-
  []
 
 
@@ -945,13 +1065,18 @@ Underfull \hbox (badness 5388) in paragraph at lines 37--37
  []
 
 
-Underfull \hbox (badness 4954) in paragraph at lines 38--38
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ash-shaTaT / at-
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 s’abstenir de /
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 38--38
-\EU1/ArialUnicodeMS(0)/m/n/10 ta‘assuf fi’isti‘māl
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 abuse of of-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+\EU1/ArialUnicodeMS(0)/m/n/10 fice/abuse of
  []
 
 
@@ -960,18 +1085,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--38
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--41
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 دسترسی به قوه
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 concordare qual-
  []
 
 
-Underfull \hbox (badness 1194) in paragraph at lines 42--42
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 اجازه / دسترسی به
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 l’accès au loge-
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 accesso
+ []
+
+[1
+
+]
 Overfull \hbox (13.17207pt too wide) in paragraph at lines 43--43
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Zugangsberechtigung| 
+ []
+
+
+Underfull \hbox (badness 5231) in paragraph at lines 43--43
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 access authorisa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--43
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 autorizzazione di
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 procedura
  []
 
 
@@ -980,8 +1127,78 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--47
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 acceleration of
+ []
+
+
+Underfull \hbox (badness 6725) in paragraph at lines 47--47
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 la procédure ac-
+ []
+
+
+Underfull \hbox (badness 7047) in paragraph at lines 47--47
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 accelerazione dei
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 accettare
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 accommodate
+ []
+
+
+Underfull \hbox (badness 4168) in paragraph at lines 49--49
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 venire incontro a
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 50--50
 []|\EU1/ArialUnicodeMS(0)/m/n/10 in Anspruch
+ []
+
+
+Underfull \hbox (badness 3019) in paragraph at lines 50--50
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 to call on some-
+ []
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 50--50
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 chiedere / convo-
+ []
+
+
+Underfull \hbox (badness 3029) in paragraph at lines 50--50
+\EU1/ArialUnicodeMS(0)/m/n/10 care / fare riferi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 permanent assis-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 l’assistance per-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 (gruppo/missione)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+\EU1/ArialUnicodeMS(0)/m/n/10 permanente di
+ []
+
+
+Overfull \hbox (1.4875pt too wide) in paragraph at lines 53--53
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 accompagnamento| 
  []
 
 
@@ -991,12 +1208,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--54
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 54--54
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 at-taHarrush aj-
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 le harcèlement
  []
 
 
-Underfull \hbox (badness 7777) in paragraph at lines 55--55
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 taSdīq / muSad-
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 molestie sessuali
  []
 
 
@@ -1010,13 +1227,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--56
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 56--56
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ithbātu’j-jinsiyya
+Underfull \hbox (badness 1173) in paragraph at lines 56--56
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 attester // certifier
  []
 
 
-Underfull \hbox (badness 2103) in paragraph at lines 56--56
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 تایید گواهی ملیت و
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+\EU1/ArialUnicodeMS(0)/m/n/10 la nationalité et
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+\EU1/ArialUnicodeMS(0)/m/n/10 inanza/documento
  []
 
 
@@ -1025,8 +1247,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--57
  []
 
 
-Underfull \hbox (badness 4168) in paragraph at lines 57--57
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 wathīqat wilāda /
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 certificato di
  []
 
 
@@ -1036,27 +1258,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--59
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 59--59
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 nashāT ghayr
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 فعالیت های غیر
- []
-
-
-Underfull \hbox (badness 1902) in paragraph at lines 60--60
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ijrā’āt qaDā’iyya /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--60
-\EU1/ArialUnicodeMS(0)/m/n/10 (al-ijrā’āt al-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--60
-\EU1/ArialUnicodeMS(0)/m/n/10 mistariyya -
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 les activités illé-
  []
 
 
@@ -1074,16 +1276,24 @@ Underfull \hbox (badness 1509) in paragraph at lines 60--60
 \EU1/ArialUnicodeMS(0)/m/n/10 (الإجراءات المسطرية
  []
 
-[1
 
-]
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 procedimenti
+ []
+
+[2]
 Overfull \hbox (28.7336pt too wide) in paragraph at lines 61--61
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Deportation/Abschiebung| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 67--67
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 kull min’aT-
+Overfull \hbox (24.84688pt too wide) in paragraph at lines 61--61
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 deportazione/espulsione| 
+ []
+
+
+Overfull \hbox (3.70918pt too wide) in paragraph at lines 64--64
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 illegale/illegalmente| 
  []
 
 
@@ -1097,18 +1307,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 68--68
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 68--68
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 minTaqa jughrā-
+Underfull \hbox (badness 2351) in paragraph at lines 68--68
+\EU1/ArialUnicodeMS(0)/m/n/10 scope of applica-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 68--68
-\EU1/ArialUnicodeMS(0)/m/n/10 fiyya murakhkha-
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 une zone géo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+\EU1/ArialUnicodeMS(0)/m/n/10 graphique au-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 68--68
 []|\EU1/ArialUnicodeMS(0)/m/n/10 منطقة جغرافية
+ []
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 68--68
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ambito geografico
  []
 
 
@@ -1122,18 +1342,28 @@ Overfull \hbox (4.26582pt too wide) in paragraph at lines 72--72
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 appeal proceed-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 processo di ap-
+ []
+
+
 Overfull \hbox (45.41817pt too wide) in paragraph at lines 73--73
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Aufschiebung/Verlaengerung| 
  []
 
 
-Underfull \hbox (badness 7397) in paragraph at lines 73--73
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 به تعویق افتادن /
+Overfull \hbox (25.39864pt too wide) in paragraph at lines 73--73
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 postponement/extension| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 75--75
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 tawqīf / ilqā’u’l-
+Underfull \hbox (badness 1163) in paragraph at lines 74--74
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 senso di apparte-
  []
 
 
@@ -1142,8 +1372,48 @@ Overfull \hbox (12.60078pt too wide) in paragraph at lines 78--78
  []
 
 
+Underfull \hbox (badness 5756) in paragraph at lines 78--78
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 the refugee con-
+ []
+
+
+Underfull \hbox (badness 2343) in paragraph at lines 78--78
+\EU1/ArialUnicodeMS(0)/m/n/10 vention / Geneva
+ []
+
+
+Underfull \hbox (badness 2865) in paragraph at lines 78--78
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 la Convention de
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 78--78
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ittifāqiyyatu
+\EU1/ArialUnicodeMS(0)/m/n/10 1951 relative au
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Convenzione
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+\EU1/ArialUnicodeMS(0)/m/n/10 sui rifugiati
+ []
+
+
+Overfull \hbox (37.60078pt too wide) in paragraph at lines 78--78
+\EU1/ArialUnicodeMS(0)/m/n/10 (http://tinyurl.com/pnu53k7)| 
+ []
+
+
+Overfull \hbox (12.58125pt too wide) in paragraph at lines 79--79
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Direttiva/Disposizione| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 particular social
  []
 
 
@@ -1151,7 +1421,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--80
 []|\EU1/ArialUnicodeMS(0)/m/n/10 مجموعة اجتماعية
  []
 
-[2]
+[3]
 Underfull \hbox (badness 10000) in paragraph at lines 84--84
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Einspruch; Revi-
  []
@@ -1167,6 +1437,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 88--88
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 l’orientation sex-
+ []
+
+
+Underfull \hbox (badness 1635) in paragraph at lines 88--88
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 orientamento ses-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 89--89
 []|\EU1/ArialUnicodeMS(0)/m/n/10 soziales
  []
@@ -1178,7 +1458,12 @@ Underfull \hbox (badness 2103) in paragraph at lines 89--89
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 92--92
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 jarā’im Did’al-
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 le crime contre
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 crimine contro
  []
 
 
@@ -1187,18 +1472,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--96
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--96
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 al-i‘ādatu’l-
+Overfull \hbox (14.2707pt too wide) in paragraph at lines 96--96
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 expulsion/refoulement| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--97
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 Haqq / qanūn,
+Underfull \hbox (badness 2884) in paragraph at lines 96--96
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 l’éloignement / le
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 98--98
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 Haqq min
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 les droits de
  []
 
 
@@ -1206,14 +1491,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 98--98
 []|\EU1/ArialUnicodeMS(0)/m/n/10 حق من حقوق
  []
 
-[3]
+[4]
 Underfull \hbox (badness 1895) in paragraph at lines 104--104
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich möchte einen
  []
 
 
+Underfull \hbox (badness 4940) in paragraph at lines 104--104
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je voudrais faire
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 104--104
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ’urīdu ’an ’uqad-
+\EU1/ArialUnicodeMS(0)/m/n/10 une demande
  []
 
 
@@ -1223,12 +1513,7 @@ Underfull \hbox (badness 6428) in paragraph at lines 104--104
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 104--104
-\EU1/ArialUnicodeMS(0)/m/n/10 درخواست پناهندگی
- []
-
-
-Underfull \hbox (badness 1762) in paragraph at lines 104--104
-\EU1/ArialUnicodeMS(0)/m/n/10 درخواست کرنا چاہتے
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Desidero pre-
  []
 
 
@@ -1238,17 +1523,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 105--105
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 105--105
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 laysa ladayya
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I don’t have
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 105--105
-\EU1/ArialUnicodeMS(0)/m/n/10 awrāq thubūtiyya
+\EU1/ArialUnicodeMS(0)/m/n/10 an iden-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 105--105
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 میرے پاس شناجتی
+\EU1/ArialUnicodeMS(0)/m/n/10 tity/identification
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 105--105
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Non ho un docu-
  []
 
 
@@ -1263,12 +1553,17 @@ Overfull \hbox (35.38887pt too wide) in paragraph at lines 106--106
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 106--106
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ana mithliy -
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I am homosex-
  []
 
 
-Underfull \hbox (badness 4967) in paragraph at lines 106--106
-\EU1/ArialUnicodeMS(0)/m/n/10 mithliyya - muta-
+Overfull \hbox (20.39375pt too wide) in paragraph at lines 106--106
+\EU1/ArialUnicodeMS(0)/m/n/10 ual/lesbian/transgender| 
+ []
+
+
+Overfull \hbox (25.95528pt too wide) in paragraph at lines 106--106
+\EU1/ArialUnicodeMS(0)/m/n/10 uel/lesbienne/transgenre| 
  []
 
 
@@ -1282,18 +1577,28 @@ Underfull \hbox (badness 6961) in paragraph at lines 106--106
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Sono omoses-
+ []
+
+
+Overfull \hbox (33.72383pt too wide) in paragraph at lines 106--106
+\EU1/ArialUnicodeMS(0)/m/n/10 suale/lesbica/transessuale| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--107
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 violenza domes-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 108--108
 []|\EU1/ArialUnicodeMS(0)/m/n/10 ich wurde mis-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 108--108
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 kuntu ’ata‘arradu
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--108
-\EU1/ArialUnicodeMS(0)/m/n/10 li’l-ta‘nīfi ‘ala
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai été mal-
  []
 
 
@@ -1302,8 +1607,8 @@ Underfull \hbox (badness 2707) in paragraph at lines 108--108
  []
 
 
-Underfull \hbox (badness 5939) in paragraph at lines 108--108
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 من مورد آزار قرار
+Underfull \hbox (badness 5787) in paragraph at lines 108--108
+\EU1/ArialUnicodeMS(0)/m/n/10 Mi hanno picchi-
  []
 
 
@@ -1312,8 +1617,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 109--109
  []
 
 
+Underfull \hbox (badness 6758) in paragraph at lines 109--109
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je suis maltraité
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 109--109
 []|\EU1/ArialUnicodeMS(0)/m/n/10 أنا أتعرض للتعنيف
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--109
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Sono vittima di
  []
 
 
@@ -1322,8 +1637,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 110--110
  []
 
 
+Underfull \hbox (badness 4927) in paragraph at lines 110--110
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai été obligé(e)
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 110--110
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ’ujbirtu ‘ala’z-
+\EU1/ArialUnicodeMS(0)/m/n/10 de m’engager
+ []
+
+
+Underfull \hbox (badness 3482) in paragraph at lines 110--110
+\EU1/ArialUnicodeMS(0)/m/n/10 dans un mariage
  []
 
 
@@ -1332,8 +1657,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 110--110
  []
 
 
-Underfull \hbox (badness 1242) in paragraph at lines 110--110
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 من مجبور به ازدواج
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Mi hanno
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+\EU1/ArialUnicodeMS(0)/m/n/10 costretto/a al
  []
 
 
@@ -1347,18 +1677,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 111--111
  []
 
 
-Underfull \hbox (badness 5231) in paragraph at lines 111--111
-\EU1/ArialUnicodeMS(0)/m/n/10 tahdīdi bi’z-zawāji
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+\EU1/ArialUnicodeMS(0)/m/n/10 been threatened
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+\EU1/ArialUnicodeMS(0)/m/n/10 with a forced
+ []
+
+
+Underfull \hbox (badness 8019) in paragraph at lines 111--111
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je suis sous la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--111
+\EU1/ArialUnicodeMS(0)/m/n/10 menace d’un
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 111--111
 []|\EU1/ArialUnicodeMS(0)/m/n/10 أنا أتعرض للتهديد
- []
-
-
-Underfull \hbox (badness 3333) in paragraph at lines 111--111
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 من تهدید به ازدواج
  []
 
 
@@ -1372,13 +1712,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 112--112
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 kayfa bi’imkāni
+Underfull \hbox (badness 10000) in paragraph at lines 112--112
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ineguaglianza di
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
-\EU1/ArialUnicodeMS(0)/m/n/10 taqdīm Talab’al-
+Underfull \hbox (badness 3029) in paragraph at lines 113--113
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 How can I claim
  []
 
 
@@ -1387,13 +1727,8 @@ Underfull \hbox (badness 7308) in paragraph at lines 113--113
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 چگونه می توانم
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
-\EU1/ArialUnicodeMS(0)/m/n/10 درخواست پناهندگی
+Underfull \hbox (badness 1509) in paragraph at lines 113--113
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Come posso pre-
  []
 
 
@@ -1408,12 +1743,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 114--114
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 114--114
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 kuntu ’ata‘arradu
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I was discrimi-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 114--114
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 من کشورم مورد
+\EU1/ArialUnicodeMS(0)/m/n/10 nated against in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai été victime
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+\EU1/ArialUnicodeMS(0)/m/n/10 de discrimination
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+\EU1/ArialUnicodeMS(0)/m/n/10 dans mon pays
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Sono stato/a
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 114--114
+\EU1/ArialUnicodeMS(0)/m/n/10 vittima di discrim-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+\EU1/ArialUnicodeMS(0)/m/n/10 inazioni nel mio
  []
 
 
@@ -1428,7 +1793,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 115--115
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 115--115
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 kuntu ’ata‘arradu
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai été victime
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+\EU1/ArialUnicodeMS(0)/m/n/10 de discrimination
+ []
+
+
+Underfull \hbox (badness 2302) in paragraph at lines 115--115
+\EU1/ArialUnicodeMS(0)/m/n/10 en raison de ma
  []
 
 
@@ -1438,12 +1813,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 115--115
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 115--115
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 من به دلیل رنگ
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Sono stato/a
  []
 
 
-Underfull \hbox (badness 4660) in paragraph at lines 115--115
-\EU1/ArialUnicodeMS(0)/m/n/10 پوستم مورد تبعیض
+Underfull \hbox (badness 1184) in paragraph at lines 115--115
+\EU1/ArialUnicodeMS(0)/m/n/10 vittima di discrim-
+ []
+
+
+Underfull \hbox (badness 7759) in paragraph at lines 115--115
+\EU1/ArialUnicodeMS(0)/m/n/10 inazioni a causa
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+\EU1/ArialUnicodeMS(0)/m/n/10 del colore della
  []
 
 
@@ -1463,7 +1848,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 116--116
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 116--116
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 kuntu ’ata‘arradu
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai été victime
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+\EU1/ArialUnicodeMS(0)/m/n/10 de discrimination
  []
 
 
@@ -1472,13 +1862,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 116--116
  []
 
 
-Underfull \hbox (badness 2158) in paragraph at lines 116--116
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 من به دلیل جنسیتم
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Sono stato/a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--116
-\EU1/ArialUnicodeMS(0)/m/n/10 مورد تبعیض قرار
+Underfull \hbox (badness 1184) in paragraph at lines 116--116
+\EU1/ArialUnicodeMS(0)/m/n/10 vittima di discrim-
+ []
+
+
+Underfull \hbox (badness 7759) in paragraph at lines 116--116
+\EU1/ArialUnicodeMS(0)/m/n/10 inazioni a causa
  []
 
 
@@ -1493,12 +1888,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 117--117
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 117--117
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 kuntu ’ata‘arradu
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai été victime
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+\EU1/ArialUnicodeMS(0)/m/n/10 de discrimination
+ []
+
+
+Underfull \hbox (badness 2302) in paragraph at lines 117--117
+\EU1/ArialUnicodeMS(0)/m/n/10 en raison de ma
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 117--117
 []|\EU1/ArialUnicodeMS(0)/m/n/10 كنت أتعرض للتمييز
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Sono stato/a
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 117--117
+\EU1/ArialUnicodeMS(0)/m/n/10 vittima di discrim-
+ []
+
+
+Underfull \hbox (badness 7759) in paragraph at lines 117--117
+\EU1/ArialUnicodeMS(0)/m/n/10 inazioni a causa
  []
 
 
@@ -1513,7 +1933,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 118--118
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 118--118
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 kuntu ’ata‘arradu
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai été victime
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+\EU1/ArialUnicodeMS(0)/m/n/10 de discrimination
+ []
+
+
+Underfull \hbox (badness 2302) in paragraph at lines 118--118
+\EU1/ArialUnicodeMS(0)/m/n/10 en raison de ma
  []
 
 
@@ -1522,8 +1952,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 118--118
  []
 
 
-Underfull \hbox (badness 3219) in paragraph at lines 118--118
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 من به دلیل دین و
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Sono stato/a
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 118--118
+\EU1/ArialUnicodeMS(0)/m/n/10 vittima di discrim-
+ []
+
+
+Underfull \hbox (badness 7759) in paragraph at lines 118--118
+\EU1/ArialUnicodeMS(0)/m/n/10 inazioni a causa
  []
 
 
@@ -1548,27 +1988,12 @@ Underfull \hbox (badness 1895) in paragraph at lines 119--119
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 119--119
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 kuntu ’ata‘arradu
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai été victime
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 119--119
-\EU1/ArialUnicodeMS(0)/m/n/10 li’t-tamyīzi bis-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
-\EU1/ArialUnicodeMS(0)/m/n/10 abab intimā’iya
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
-\EU1/ArialUnicodeMS(0)/m/n/10 li-majmū‘a ’aw
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
-\EU1/ArialUnicodeMS(0)/m/n/10 fi’a mujtama‘iyya
+\EU1/ArialUnicodeMS(0)/m/n/10 de discrimination
  []
 
 
@@ -1587,13 +2012,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 119--119
  []
 
 
-Underfull \hbox (badness 1436) in paragraph at lines 119--119
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 من به دلیل عضویت
+Underfull \hbox (badness 10000) in paragraph at lines 119--119
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Sono stato/a
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 119--119
+\EU1/ArialUnicodeMS(0)/m/n/10 vittima di discrim-
+ []
+
+
+Underfull \hbox (badness 7759) in paragraph at lines 119--119
+\EU1/ArialUnicodeMS(0)/m/n/10 inazioni a causa
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 119--119
-\EU1/ArialUnicodeMS(0)/m/n/10 مورد تبعیض قرار
+\EU1/ArialUnicodeMS(0)/m/n/10 dell’appartenenza
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--119
+\EU1/ArialUnicodeMS(0)/m/n/10 a un gruppo
  []
 
 
@@ -1608,17 +2048,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 120--120
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 120--120
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 kuntu ’ata‘arradu
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai été victime
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 120--120
-\EU1/ArialUnicodeMS(0)/m/n/10 li’t-tamyīzi bis-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 120--120
-\EU1/ArialUnicodeMS(0)/m/n/10 abab qanā‘āti
+\EU1/ArialUnicodeMS(0)/m/n/10 de discrimination
  []
 
 
@@ -1632,11 +2067,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 120--120
  []
 
 
-Underfull \hbox (badness 5274) in paragraph at lines 120--120
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 من به دلیل دیدگاه
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Sono stato/a
  []
 
-[4]
+
+Underfull \hbox (badness 1184) in paragraph at lines 120--120
+\EU1/ArialUnicodeMS(0)/m/n/10 vittima di discrim-
+ []
+
+
+Underfull \hbox (badness 7759) in paragraph at lines 120--120
+\EU1/ArialUnicodeMS(0)/m/n/10 inazioni a causa
+ []
+
+
 Underfull \hbox (badness 5817) in paragraph at lines 121--121
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich wurde diskri-
  []
@@ -1653,7 +2098,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 121--121
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 121--121
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 kuntu ’ata‘arradu
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai été victime
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+\EU1/ArialUnicodeMS(0)/m/n/10 de discrimination
  []
 
 
@@ -1663,17 +2113,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 121--121
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 121--121
-\EU1/ArialUnicodeMS(0)/m/n/10 قومی یا اجتماعی
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Sono stato/a
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 121--121
-\EU1/ArialUnicodeMS(0)/m/n/10 مورد تبعیض قرار
+\EU1/ArialUnicodeMS(0)/m/n/10 vittima di dis-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+\EU1/ArialUnicodeMS(0)/m/n/10 criminazioni a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+\EU1/ArialUnicodeMS(0)/m/n/10 causa della mia
+ []
+
+
+Underfull \hbox (badness 1629) in paragraph at lines 121--121
+\EU1/ArialUnicodeMS(0)/m/n/10 estrazione sociale
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+\EU1/ArialUnicodeMS(0)/m/n/10 o appartenenza
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 122--122
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 kuntu ’ata‘arradu
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai été victime
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
+\EU1/ArialUnicodeMS(0)/m/n/10 de discrimination
  []
 
 
@@ -1683,7 +2158,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 122--122
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 122--122
-\EU1/ArialUnicodeMS(0)/m/n/10 مورد تبعیض قرار
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Sono stato/a
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 122--122
+\EU1/ArialUnicodeMS(0)/m/n/10 vittima di discrim-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--122
+\EU1/ArialUnicodeMS(0)/m/n/10 inazioni perché
  []
 
 
@@ -1698,7 +2183,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 123--123
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 123--123
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 kuntu ’ata‘arradu
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai été torturé
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
+\EU1/ArialUnicodeMS(0)/m/n/10 dans mon pays
  []
 
 
@@ -1707,8 +2197,13 @@ Underfull \hbox (badness 1609) in paragraph at lines 123--123
  []
 
 
-Underfull \hbox (badness 5504) in paragraph at lines 123--123
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 من در کشورم من
+Underfull \hbox (badness 4168) in paragraph at lines 123--123
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Sono stato/a tor-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--123
+\EU1/ArialUnicodeMS(0)/m/n/10 turato/a nel mio
  []
 
 
@@ -1727,38 +2222,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 124--124
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 124--124
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ’awaddu ilHāq
+Underfull \hbox (badness 2318) in paragraph at lines 124--124
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I want my family
+ []
+
+
+Underfull \hbox (badness 4954) in paragraph at lines 124--124
+\EU1/ArialUnicodeMS(0)/m/n/10 quickly as possi-
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 124--124
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je veux que ma
+ []
+
+
+Underfull \hbox (badness 1460) in paragraph at lines 124--124
+\EU1/ArialUnicodeMS(0)/m/n/10 ici aussi vite que
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 124--124
-\EU1/ArialUnicodeMS(0)/m/n/10 ‘ā’ilati bi (lamm
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Desidero che la
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 124--124
-\EU1/ArialUnicodeMS(0)/m/n/10 ash-shamil) fi
+\EU1/ArialUnicodeMS(0)/m/n/10 mia famiglia mi
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 124--124
-\EU1/ArialUnicodeMS(0)/m/n/10 asra‘i waqten
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 124--124
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 من می خواهم
- []
-
-
-Underfull \hbox (badness 1194) in paragraph at lines 124--124
-\EU1/ArialUnicodeMS(0)/m/n/10 خانواده ام در سریع
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 124--124
-\EU1/ArialUnicodeMS(0)/m/n/10 ترین وقت به من
+\EU1/ArialUnicodeMS(0)/m/n/10 raggiunga al più
  []
 
 
@@ -1777,8 +2272,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--125
  []
 
 
+Underfull \hbox (badness 1895) in paragraph at lines 125--125
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I have completed
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 125--125
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 laqad akmaltu
+\EU1/ArialUnicodeMS(0)/m/n/10 my vocational
  []
 
 
@@ -1787,8 +2287,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--125
  []
 
 
-Underfull \hbox (badness 3049) in paragraph at lines 125--125
-\EU1/ArialUnicodeMS(0)/m/n/10 ای من را به اتمام
+Underfull \hbox (badness 10000) in paragraph at lines 125--125
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ho terminato la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--125
+\EU1/ArialUnicodeMS(0)/m/n/10 mia formazione
  []
 
 
@@ -1823,32 +2328,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 126--126
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 126--126
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 yumkinuni ’an
- []
-
-
-Underfull \hbox (badness 1902) in paragraph at lines 126--126
-\EU1/ArialUnicodeMS(0)/m/n/10 ’atluba min ‘ā’ilati
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 My family back
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 126--126
-\EU1/ArialUnicodeMS(0)/m/n/10 ’an tursila li al-
+\EU1/ArialUnicodeMS(0)/m/n/10 home can send
+ []
+
+
+Underfull \hbox (badness 1910) in paragraph at lines 126--126
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ma famille restée
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 126--126
-\EU1/ArialUnicodeMS(0)/m/n/10 awrāq/al-wathā’iq
+\EU1/ArialUnicodeMS(0)/m/n/10 là-bas peut
  []
 
 
-Underfull \hbox (badness 1810) in paragraph at lines 126--126
-\EU1/ArialUnicodeMS(0)/m/n/10 al-maTlūba. wa-
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+\EU1/ArialUnicodeMS(0)/m/n/10 m’envoyer les
  []
 
 
-Underfull \hbox (badness 4927) in paragraph at lines 126--126
-\EU1/ArialUnicodeMS(0)/m/n/10 lākin ’ana biHāja
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+\EU1/ArialUnicodeMS(0)/m/n/10 saires. Mais
+ []
+
+
+Underfull \hbox (badness 7740) in paragraph at lines 126--126
+\EU1/ArialUnicodeMS(0)/m/n/10 j’ai besoin d’une
  []
 
 
@@ -1872,8 +2382,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 126--126
  []
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 126--126
-\EU1/ArialUnicodeMS(0)/m/n/10 لازم را برایم ارسال
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 La mia famiglia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+\EU1/ArialUnicodeMS(0)/m/n/10 può inviarmi da
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 126--126
+\EU1/ArialUnicodeMS(0)/m/n/10 casa i documenti
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+\EU1/ArialUnicodeMS(0)/m/n/10 necessari, ma
+ []
+
+
+Underfull \hbox (badness 1448) in paragraph at lines 126--126
+\EU1/ArialUnicodeMS(0)/m/n/10 ho bisogno di un
  []
 
 
@@ -1882,13 +2412,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 127--127
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--127
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 laqad sabaqa
+Underfull \hbox (badness 6691) in paragraph at lines 127--127
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai déjà déposé
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 127--127
-\EU1/ArialUnicodeMS(0)/m/n/10 ’an taqaddamtu
+\EU1/ArialUnicodeMS(0)/m/n/10 une demande
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--127
+\EU1/ArialUnicodeMS(0)/m/n/10 d’asile par le
  []
 
 
@@ -1912,13 +2447,23 @@ Underfull \hbox (badness 6708) in paragraph at lines 128--128
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--128
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 sabaqa liya ’an
+Underfull \hbox (badness 2894) in paragraph at lines 128--128
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I have previously
+ []
+
+
+Underfull \hbox (badness 6691) in paragraph at lines 128--128
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai déjà déposé
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 128--128
-\EU1/ArialUnicodeMS(0)/m/n/10 taqaddamtu bi-
+\EU1/ArialUnicodeMS(0)/m/n/10 une demande
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--128
+\EU1/ArialUnicodeMS(0)/m/n/10 d’asile dans un
  []
 
 
@@ -1927,8 +2472,8 @@ Underfull \hbox (badness 2334) in paragraph at lines 128--128
  []
 
 
-Underfull \hbox (badness 6477) in paragraph at lines 128--128
-\EU1/ArialUnicodeMS(0)/m/n/10 در یک کشور دیگر
+Underfull \hbox (badness 1028) in paragraph at lines 128--128
+\EU1/ArialUnicodeMS(0)/m/n/10 esta d’asilo in un
  []
 
 
@@ -1942,13 +2487,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 129--129
  []
 
 
-Underfull \hbox (badness 7047) in paragraph at lines 129--129
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 awaddu ’l-baHtha
+Underfull \hbox (badness 1902) in paragraph at lines 129--129
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je veux chercher
  []
 
 
-Underfull \hbox (badness 5771) in paragraph at lines 129--129
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 من می خواهم به
+Underfull \hbox (badness 3179) in paragraph at lines 129--129
+\EU1/ArialUnicodeMS(0)/m/n/10 du travail. Que
+ []
+
+
+Underfull \hbox (badness 3492) in paragraph at lines 129--129
+\EU1/ArialUnicodeMS(0)/m/n/10 dois-je faire pour
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--129
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Desidero cercare
  []
 
 
@@ -1959,6 +2514,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 130--130
 
 Underfull \hbox (badness 10000) in paragraph at lines 130--130
 \EU1/ArialUnicodeMS(0)/m/n/10 Ehefähigkeit-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je dispose d’un
  []
 
 
@@ -2002,23 +2562,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 131--131
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--131
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ataytu ila huna
+Underfull \hbox (badness 4846) in paragraph at lines 131--131
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I came here via
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--131
-\EU1/ArialUnicodeMS(0)/m/n/10 ‘abra dawlaten
+Underfull \hbox (badness 3078) in paragraph at lines 131--131
+\EU1/ArialUnicodeMS(0)/m/n/10 try but I did not
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--131
-\EU1/ArialUnicodeMS(0)/m/n/10 lākin lam yatum
+Underfull \hbox (badness 6741) in paragraph at lines 131--131
+\EU1/ArialUnicodeMS(0)/m/n/10 have my identity
  []
 
 
-Underfull \hbox (badness 2495) in paragraph at lines 131--131
-\EU1/ArialUnicodeMS(0)/m/n/10 hunāk at-taHaquq
+Underfull \hbox (badness 2653) in paragraph at lines 131--131
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je suis arrivé ici
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 131--131
+\EU1/ArialUnicodeMS(0)/m/n/10 été soumis à un
  []
 
 
@@ -2027,8 +2592,18 @@ Underfull \hbox (badness 3250) in paragraph at lines 131--131
  []
 
 
+Underfull \hbox (badness 6691) in paragraph at lines 131--131
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Sono venuto qui
+ []
+
+
+Underfull \hbox (badness 3019) in paragraph at lines 131--131
+\EU1/ArialUnicodeMS(0)/m/n/10 sicuro ma lì non
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 131--131
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 من از طریق یک
+\EU1/ArialUnicodeMS(0)/m/n/10 hanno controllato
  []
 
 
@@ -2038,27 +2613,42 @@ Overfull \hbox (13.17207pt too wide) in paragraph at lines 132--132
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 132--132
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 taSrīH ’iqāma
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 temporary resi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--133
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 mata/’ayna bi-
+Underfull \hbox (badness 10000) in paragraph at lines 132--132
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Carte de séjour
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--133
-\EU1/ArialUnicodeMS(0)/m/n/10 stiTā‘ati ’an
+Underfull \hbox (badness 4940) in paragraph at lines 132--132
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ho un permesso
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--133
-\EU1/ArialUnicodeMS(0)/m/n/10 ataqaddama
+Underfull \hbox (badness 1168) in paragraph at lines 132--132
+\EU1/ArialUnicodeMS(0)/m/n/10 di soggiorno tem-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--133
-\EU1/ArialUnicodeMS(0)/m/n/10 bi-Talabi ’ijāzati
+Underfull \hbox (badness 3019) in paragraph at lines 133--133
+\EU1/ArialUnicodeMS(0)/m/n/10 apply for a work
+ []
+
+
+Underfull \hbox (badness 5203) in paragraph at lines 133--133
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Quand/Où puis-je
+ []
+
+
+Underfull \hbox (badness 5756) in paragraph at lines 133--133
+\EU1/ArialUnicodeMS(0)/m/n/10 déposer une de-
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 133--133
+\EU1/ArialUnicodeMS(0)/m/n/10 mande de permis
  []
 
 
@@ -2067,8 +2657,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 133--133
  []
 
 
-Underfull \hbox (badness 1067) in paragraph at lines 133--133
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 کی / کجا می توانم
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Quando/Dove
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
+\EU1/ArialUnicodeMS(0)/m/n/10 posso chiedere
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
+\EU1/ArialUnicodeMS(0)/m/n/10 un permesso di
  []
 
 
@@ -2078,17 +2678,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 134--134
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 134--134
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ’ayna bi-stiTā‘ati
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 134--134
-\EU1/ArialUnicodeMS(0)/m/n/10 naskha mus-
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Où puis-je faire
  []
 
 
 Underfull \hbox (badness 1303) in paragraph at lines 134--134
 []|\EU1/ArialUnicodeMS(0)/m/n/10 أين باستطاعتي نسخ
+ []
+
+
+Underfull \hbox (badness 5787) in paragraph at lines 134--134
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Dove posso fare
  []
 
 
@@ -2103,22 +2703,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 135--135
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 135--135
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 ladayya ’aqārib
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 La mia famiglia
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--135
-\EU1/ArialUnicodeMS(0)/m/n/10 / ’afrādu usra
+Underfull \hbox (badness 10000) in paragraph at lines 136--136
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai perdu des
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--135
-\EU1/ArialUnicodeMS(0)/m/n/10 yaskunūna fi
- []
-
-
-Underfull \hbox (badness 7740) in paragraph at lines 136--136
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 faqadtu ’aqārib /
+Underfull \hbox (badness 6758) in paragraph at lines 136--136
+\EU1/ArialUnicodeMS(0)/m/n/10 membres de ma
  []
 
 
@@ -2127,8 +2722,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 136--136
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--136
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 من در طول فرار
+Underfull \hbox (badness 3417) in paragraph at lines 136--136
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ho perso la mia
  []
 
 
@@ -2152,13 +2747,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 137--137
  []
 
 
-Underfull \hbox (badness 3417) in paragraph at lines 137--137
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 (lā) urīdu ’an at-
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
+\EU1/ArialUnicodeMS(0)/m/n/10 contact the em-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 137--137
-\EU1/ArialUnicodeMS(0)/m/n/10 taSila bi-safārati
+\EU1/ArialUnicodeMS(0)/m/n/10 bassy/consulat of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je (ne) veux
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
+\EU1/ArialUnicodeMS(0)/m/n/10 (pas) contacter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
+\EU1/ArialUnicodeMS(0)/m/n/10 l’ambassade de
  []
 
 
@@ -2167,8 +2777,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 137--137
  []
 
 
-Underfull \hbox (badness 3492) in paragraph at lines 137--137
-\EU1/ArialUnicodeMS(0)/m/n/10 سفارت / کنسولگری
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 (Non) voglio
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
+\EU1/ArialUnicodeMS(0)/m/n/10 contattare
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
+\EU1/ArialUnicodeMS(0)/m/n/10 l’ambasciata/il
  []
 
 
@@ -2187,13 +2807,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 138--138
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--138
-\EU1/ArialUnicodeMS(0)/m/n/10 hunā min khilāli
+Underfull \hbox (badness 1033) in paragraph at lines 138--138
+\EU1/ArialUnicodeMS(0)/m/n/10 come) here via a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--138
-\EU1/ArialUnicodeMS(0)/m/n/10 dawlaten thālitha
+Underfull \hbox (badness 1721) in paragraph at lines 138--138
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je suis arrivé (je
+ []
+
+
+Underfull \hbox (badness 8019) in paragraph at lines 138--138
+\EU1/ArialUnicodeMS(0)/m/n/10 ne suis pas ar-
+ []
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 138--138
+\EU1/ArialUnicodeMS(0)/m/n/10 par un pays tiers
  []
 
 
@@ -2202,8 +2832,13 @@ Underfull \hbox (badness 2478) in paragraph at lines 138--138
  []
 
 
-Underfull \hbox (badness 2150) in paragraph at lines 138--138
-\EU1/ArialUnicodeMS(0)/m/n/10 یک کشور امن ثالث
+Underfull \hbox (badness 2343) in paragraph at lines 138--138
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Non sono venuto
+ []
+
+
+Underfull \hbox (badness 5388) in paragraph at lines 138--138
+\EU1/ArialUnicodeMS(0)/m/n/10 qui via un terso
  []
 
 
@@ -2213,7 +2848,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 139--139
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 139--139
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je suis trauma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 []|\EU1/ArialUnicodeMS(0)/m/n/10 لقد تعرضت لصدمة
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Sono traumatiz-
  []
 
 
@@ -2222,13 +2867,18 @@ Underfull \hbox (badness 4144) in paragraph at lines 140--140
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 من نیاز به روان
+Underfull \hbox (badness 3471) in paragraph at lines 140--140
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai besoin d’une
  []
 
 [5] [6]
 Overfull \hbox (10.39375pt too wide) in paragraph at lines 141--141
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Genitalbeschneidung
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--141
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 mutilazione geni-
  []
 
 
@@ -2238,7 +2888,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 142--142
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 142--142
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 DaHiyyatu ’l-itjāri
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 victim of human
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 je suis victime
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--142
+\EU1/ArialUnicodeMS(0)/m/n/10 d’une traite des
+ []
+
+
+Overfull \hbox (60.39375pt too wide) in paragraph at lines 145--145
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 intermediary/mediator/negotiator| 
+ []
+
+
+Overfull \hbox (21.48262pt too wide) in paragraph at lines 145--145
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 intermediario/mediatore| 
  []
 
 
@@ -2251,7 +2921,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 147--147
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Übersetzung von
  []
 
-[7] [8]
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--147
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 la traduction de
+ []
+
+[7] [8] [9]
 Underfull \hbox (badness 5817) in paragraph at lines 163--163
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich wurde diskri-
  []
@@ -2268,7 +2943,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 163--163
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 163--163
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 kuntu ’ata‘arradu
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai été victime
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+\EU1/ArialUnicodeMS(0)/m/n/10 de discrimina-
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 163--163
+\EU1/ArialUnicodeMS(0)/m/n/10 tion en raison de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+\EU1/ArialUnicodeMS(0)/m/n/10 mes préférences
  []
 
 Missing character: There is no ٓ in font Arial Unicode MS/OT:mapping=tex-text;!
@@ -2278,8 +2968,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 163--163
  []
 
 
+Underfull \hbox (badness 3417) in paragraph at lines 163--163
+\EU1/ArialUnicodeMS(0)/m/n/10 a causa del mio
+ []
+
+
+Underfull \hbox (badness 1635) in paragraph at lines 163--163
+\EU1/ArialUnicodeMS(0)/m/n/10 orientamento ses-
+ []
+
+
 Overfull \hbox (5.31563pt too wide) in paragraph at lines 165--165
 []|\EU1/ArialUnicodeMS(0)/m/n/10 UNTERSTÜTZUNG
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--165
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 FINDING SUP-
  []
 
 
@@ -2293,8 +2998,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 166--166
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 166--166
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’aimerais avoir
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--166
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 vorrei avere ac-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 167--167
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich möchte
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--167
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’aimerais voir
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--167
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 vorrei vedere (il
  []
 
 
@@ -2303,8 +3028,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 168--168
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I would like to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’aimerais parler
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 169--169
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich habe einen
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--169
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’ai un.../Je n’ai
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Mon/ma...ne pas
  []
 
 
@@ -2318,8 +3063,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 171--171
  []
 
 
+Underfull \hbox (badness 3019) in paragraph at lines 171--171
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 … gave me/ will
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--171
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ...m’a donné/me
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--171
+\EU1/ArialUnicodeMS(0)/m/n/10 donnera
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 171--171
 []|\EU1/ArialUnicodeMS(0)/m/n/10 الشخص أعطاني /
+ []
+
+
+Underfull \hbox (badness 3568) in paragraph at lines 171--171
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ... datemi/vorrei
  []
 
 
@@ -2330,6 +3095,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 172--172
 
 Underfull \hbox (badness 10000) in paragraph at lines 172--172
 \EU1/ArialUnicodeMS(0)/m/n/10 Sie mit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--172
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Please speak to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--172
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Parlez s’il
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--172
+\EU1/ArialUnicodeMS(0)/m/n/10 vous plaît avec
  []
 
 
@@ -2344,6 +3124,16 @@ Overfull \hbox (10.91621pt too wide) in paragraph at lines 175--175
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 175--175
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Assigned lawyer/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 l’avocat commis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
 []|\EU1/ArialUnicodeMS(0)/m/n/10 محامي المساعدة
  []
 
@@ -2352,7 +3142,37 @@ Overfull \hbox (1.47774pt too wide) in paragraph at lines 178--178
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Asylsachbearbeiter| 
  []
 
-[9]
+
+Underfull \hbox (badness 1910) in paragraph at lines 178--178
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Asylum case offi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 la personne en
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
+\EU1/ArialUnicodeMS(0)/m/n/10 charge de mon
+ []
+
+
+Underfull \hbox (badness 6741) in paragraph at lines 179--179
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 persona di riferi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--180
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 l’ambassadeur/le
+ []
+
+
+Overfull \hbox (13.70918pt too wide) in paragraph at lines 180--180
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ambasciatore/console| 
+ []
+
+[10]
 Underfull \hbox (badness 10000) in paragraph at lines 181--181
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Das Bundesamt
  []
@@ -2369,6 +3189,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 181--181
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 181--181
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Federal Office
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 181--181
+\EU1/ArialUnicodeMS(0)/m/n/10 for Migration and
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 181--181
+\EU1/ArialUnicodeMS(0)/m/n/10 migrations et des
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--181
 []|\EU1/ArialUnicodeMS(0)/m/n/10 الوزارة الاتحادية
  []
 
@@ -2378,8 +3213,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 181--181
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Immigration au-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 la police des
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+\EU1/ArialUnicodeMS(0)/m/n/10 étrangers/le con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ufficio immi-
+ []
+
+
 Underfull \hbox (badness 3769) in paragraph at lines 183--183
 []|\EU1/ArialUnicodeMS(0)/m/n/10 ASYL BEANTRA-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 SEEKING ASY-
  []
 
 
@@ -2403,13 +3263,28 @@ Overfull \hbox (1.4875pt too wide) in paragraph at lines 185--185
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 io voglio im-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 186--186
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 186--186
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je veux deman-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 187--187
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich hatte/werde
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--187
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 J’avais/je vais
  []
 
 
@@ -2420,6 +3295,21 @@ Underfull \hbox (badness 7777) in paragraph at lines 188--188
 
 Overfull \hbox (14.26094pt too wide) in paragraph at lines 188--188
 \EU1/ArialUnicodeMS(0)/m/n/10 mein/meine…erhalten| 
+ []
+
+
+Underfull \hbox (badness 1715) in paragraph at lines 188--188
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 When will I have
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 188--188
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Quand vais-je re-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--188
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 quando avrò il
  []
 
 
@@ -2438,13 +3328,48 @@ Overfull \hbox (37.60567pt too wide) in paragraph at lines 189--189
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+\EU1/ArialUnicodeMS(0)/m/n/10 la date/l’heure
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+\EU1/ArialUnicodeMS(0)/m/n/10 de mon rendez-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 devo andare il
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 192--192
 []|\EU1/ArialUnicodeMS(0)/m/n/10 mündliche Befra-
  []
 
-[10]
+
+Underfull \hbox (badness 1502) in paragraph at lines 196--196
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 astensione (f) dal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--198
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 decisione/verdetto
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 200--200
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 interdit /
+ []
+
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 201--201
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich möchte Asyl
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--201
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 voglio chiedere
  []
 
 
@@ -2453,13 +3378,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 202--202
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 202--202
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 sono
+ []
+
+
+Overfull \hbox (13.71895pt too wide) in paragraph at lines 202--202
+\EU1/ArialUnicodeMS(0)/m/n/10 d’accordo/acconsento| 
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 203--203
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich stimme dem
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 203--203
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 je ne suis pas
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--203
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 non sono
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--203
+\EU1/ArialUnicodeMS(0)/m/n/10 d’accordo/non
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 204--204
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich war (kein)
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 204--204
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 je (ne) suis (pas)
  []
 
 
@@ -2473,6 +3428,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 205--205
  []
 
 
+Underfull \hbox (badness 3849) in paragraph at lines 205--205
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 io ho visto/io ho
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--205
+\EU1/ArialUnicodeMS(0)/m/n/10 fatto l’esperienza
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 206--206
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich bin in
  []
@@ -2483,8 +3448,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 206--206
  []
 
 
+Underfull \hbox (badness 1038) in paragraph at lines 206--206
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 je (ne) suis (pas)
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 206--206
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 io (non) sono a
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 206--206
+\EU1/ArialUnicodeMS(0)/m/n/10 rischio di/io (non)
+ []
+
+
+Underfull \hbox (badness 4168) in paragraph at lines 207--207
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I was threatened
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--207
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 j’ai été menacé
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--208
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 mon(ma)
+ []
+
+
 Overfull \hbox (8.15254pt too wide) in paragraph at lines 212--212
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Tochter/Sohn/Kinder| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--212
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Daughter/ son/
  []
 
 
@@ -2493,8 +3493,23 @@ Overfull \hbox (23.12325pt too wide) in paragraph at lines 213--213
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 213--213
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Grandfather/
+ []
+
+
+Underfull \hbox (badness 4048) in paragraph at lines 213--213
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 le grand-père, la
+ []
+
+
 Overfull \hbox (5.36446pt too wide) in paragraph at lines 214--214
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Cousin/Neffe/Nichte| 
+ []
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 214--214
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Cousins/ nephew/
  []
 
 
@@ -2508,18 +3523,83 @@ Underfull \hbox (badness 10000) in paragraph at lines 214--214
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 219--219
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 matrimonio (m)
+ []
+
+
 Overfull \hbox (34.85176pt too wide) in paragraph at lines 220--220
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Verschleppung/Entführung| 
  []
 
-[11]
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--220
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 rapimento/ratto
+ []
+
+[12]
+Underfull \hbox (badness 5817) in paragraph at lines 221--221
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 estorsione (f) /ri-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--224
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 detenzione (f)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--224
+\EU1/ArialUnicodeMS(0)/m/n/10 /reclusione (f)
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 225--225
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Sexuelle Belästi-
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Sexual harrass-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 le harcèlement
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--225
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 molestia (f) ses-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--226
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 mutilazione (f)
+ []
+
+
+Underfull \hbox (badness 4205) in paragraph at lines 227--227
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 omicidio (m)/ as-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 228--228
 []|\EU1/ArialUnicodeMS(0)/m/n/10 (erzwungener)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 (forzata) cor-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--228
+\EU1/ArialUnicodeMS(0)/m/n/10 ruzione/servizio
+ []
+
+
+Underfull \hbox (badness 2573) in paragraph at lines 228--228
+\EU1/ArialUnicodeMS(0)/m/n/10 militare/servizio di
  []
 
 
@@ -2530,6 +3610,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 229--229
 
 Underfull \hbox (badness 10000) in paragraph at lines 229--229
 \EU1/ArialUnicodeMS(0)/m/n/10 gerichtlichen
+ []
+
+
+Underfull \hbox (badness 5787) in paragraph at lines 229--229
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Denial of judicial
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--229
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Negazione
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--229
+\EU1/ArialUnicodeMS(0)/m/n/10 della protezione
  []
 
 
@@ -2548,6 +3643,11 @@ Overfull \hbox (23.71407pt too wide) in paragraph at lines 230--230
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 230--230
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 l’absence injusti-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 231--231
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Unrechtmässige
  []
@@ -2555,6 +3655,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 231--231
 
 Underfull \hbox (badness 10000) in paragraph at lines 234--234
 []|\EU1/ArialUnicodeMS(0)/m/n/10 politische An-
+ []
+
+
+Underfull \hbox (badness 3482) in paragraph at lines 234--234
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 les opinions poli-
  []
 
 
@@ -2568,8 +3673,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 235--235
  []
 
 
+Underfull \hbox (badness 4181) in paragraph at lines 235--235
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Membership in a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--235
+\EU1/ArialUnicodeMS(0)/m/n/10 bre d’un groupe
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 235--235
 []|\EU1/ArialUnicodeMS(0)/m/n/10 الانتماء إلى فئة
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 235--235
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 membro di un
  []
 
 
@@ -2579,7 +3699,57 @@ Overfull \hbox (0.91621pt too wide) in paragraph at lines 237--237
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 237--237
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Ethnic/ social
+ []
+
+
+Underfull \hbox (badness 2894) in paragraph at lines 237--237
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 l’arrière plan eth-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 237--237
 []|\EU1/ArialUnicodeMS(0)/m/n/10 الأصل العرقي /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--238
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 colore (m) della
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--239
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 disabilità
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 241--241
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 bombardamento
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--243
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 evacuazione (f)/
+ []
+
+
+Underfull \hbox (badness 6792) in paragraph at lines 245--245
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 pericolo (m)/ ris-
+ []
+
+
+Underfull \hbox (badness 7308) in paragraph at lines 246--246
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I came (did not
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 246--246
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 je (ne) suis (pas)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--246
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 (Non) sono
  []
 
 
@@ -2593,8 +3763,18 @@ Overfull \hbox (13.15254pt too wide) in paragraph at lines 247--247
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 247--247
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 par voie ter-
+ []
+
+
 Underfull \hbox (badness 1895) in paragraph at lines 248--248
 []|\EU1/ArialUnicodeMS(0)/m/n/10 über ein sicheres
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 248--248
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Via a third safe
  []
 
 
@@ -2613,8 +3793,43 @@ Underfull \hbox (badness 10000) in paragraph at lines 249--249
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 249--249
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I was abused/
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--249
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 j’ai été mal-
+ []
+
+
 Underfull \hbox (badness 3907) in paragraph at lines 249--249
 []|\EU1/ArialUnicodeMS(0)/m/n/10 تعرضت للاستغلال /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--249
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 sono stato/a se-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--249
+\EU1/ArialUnicodeMS(0)/m/n/10 viziato/a da.../
+ []
+
+
+Underfull \hbox (badness 2608) in paragraph at lines 249--249
+\EU1/ArialUnicodeMS(0)/m/n/10 ... mi ha/hanno
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--251
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Paramilitary
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--251
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 les groupes
  []
 
 
@@ -2623,8 +3838,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 251--251
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 251--251
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 gruppo (m)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--254
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 les gardes-
+ []
+
+
 Overfull \hbox (35.9211pt too wide) in paragraph at lines 255--255
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Flüchtlingscampmitarbeiter| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--255
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Refugee camp
+ []
+
+
+Underfull \hbox (badness 6725) in paragraph at lines 255--255
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 les employés du
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--255
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Collaboratori del
  []
 
 
@@ -2657,9 +3897,49 @@ Underfull \hbox (badness 10000) in paragraph at lines 259--259
 \EU1/ArialUnicodeMS(0)/m/n/10 wie möglich
  []
 
-[12]
+
+Underfull \hbox (badness 2318) in paragraph at lines 259--259
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I want my family
+ []
+
+
+Underfull \hbox (badness 4954) in paragraph at lines 259--259
+\EU1/ArialUnicodeMS(0)/m/n/10 quickly as possi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--260
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ASYLUM SEEK-
+ []
+
+
+Underfull \hbox (badness 5756) in paragraph at lines 260--260
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 La procédure de
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 261--261
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 condanna
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 261--261
+\EU1/ArialUnicodeMS(0)/m/n/10 (f)/verdetto (m)
+ []
+
+
 Overfull \hbox (15.95528pt too wide) in paragraph at lines 262--262
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Stattgeben/Annehmen| 
+ []
+
+
+Underfull \hbox (badness 3482) in paragraph at lines 262--262
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 donner suite/ ac-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 262--262
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 accogliere qcs/
  []
 
 
@@ -2693,6 +3973,46 @@ Overfull \hbox (12.62032pt too wide) in paragraph at lines 268--268
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 268--268
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 le bénéfice du
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--268
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 nel dubbio,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--268
+\EU1/ArialUnicodeMS(0)/m/n/10 in favore
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--268
+\EU1/ArialUnicodeMS(0)/m/n/10 dell’imputato/in
+ []
+
+
+Underfull \hbox (badness 4316) in paragraph at lines 269--269
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 le fardeau de la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--269
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 onere (m) della
+ []
+
+
+Underfull \hbox (badness 2343) in paragraph at lines 271--271
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 la requête d’asile
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--273
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 l’interdiction
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 274--274
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Refoulment
  []
@@ -2703,8 +4023,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 274--274
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Refoulment (de-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 le refoulement
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--274
+\EU1/ArialUnicodeMS(0)/m/n/10 (l’interdiction de
+ []
+
+
 Overfull \hbox (10.35469pt too wide) in paragraph at lines 275--275
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Widerruf/Rücknahme| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--275
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Revocation and
  []
 
 
@@ -2713,8 +4053,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 277--277
  []
 
 
+Underfull \hbox (badness 6725) in paragraph at lines 277--277
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 le pays d’origine
+ []
+
+
 Overfull \hbox (21.49239pt too wide) in paragraph at lines 278--278
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Verpflichtungserklärung| 
+ []
+
+
+Underfull \hbox (badness 4913) in paragraph at lines 278--278
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 la déclaration de
  []
 
 
@@ -2722,9 +4072,44 @@ Overfull \hbox (7.04903pt too wide) in paragraph at lines 279--279
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Aufenthaltserlaubnis| 
  []
 
-[13]
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--279
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 le permis de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--279
+\EU1/ArialUnicodeMS(0)/m/n/10 séjour/ de rési-
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 279--279
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 permesso di sog-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--280
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Temporary sus-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--280
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 l’admission provi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--280
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 accettazione (f)
+ []
+
+[15]
 Overfull \hbox (1.47774pt too wide) in paragraph at lines 281--281
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Rückkehrförderung| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--281
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Repatriation sup-
  []
 
 
@@ -2733,13 +4118,33 @@ Underfull \hbox (badness 1642) in paragraph at lines 282--282
  []
 
 
+Underfull \hbox (badness 5231) in paragraph at lines 282--282
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Emergency finan-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 284--284
 []|\EU1/ArialUnicodeMS(0)/m/n/10 UMGANG MIT
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 284--284
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 DEALING WITH
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 285--285
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich habe
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--285
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 I do (not) have
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--285
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 j’ai/je n’ai pas
  []
 
 
@@ -2758,8 +4163,38 @@ Overfull \hbox (25.39864pt too wide) in paragraph at lines 286--286
  []
 
 
+Underfull \hbox (badness 2318) in paragraph at lines 286--286
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 My … were lost/
+ []
+
+
+Overfull \hbox (28.68477pt too wide) in paragraph at lines 286--286
+\EU1/ArialUnicodeMS(0)/m/n/10 perdu(s)/volé(s)/détruit(s)| 
+ []
+
+
+Underfull \hbox (badness 3199) in paragraph at lines 286--286
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 il mio... è per-
+ []
+
+
+Overfull \hbox (5.3791pt too wide) in paragraph at lines 286--286
+\EU1/ArialUnicodeMS(0)/m/n/10 duto/rubato/distrutto| 
+ []
+
+
 Underfull \hbox (badness 4144) in paragraph at lines 287--287
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich brauche eine
+ []
+
+
+Underfull \hbox (badness 7740) in paragraph at lines 287--287
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 j’ai besoin d’une
+ []
+
+
+Underfull \hbox (badness 1448) in paragraph at lines 287--287
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 ho bisgno di una
  []
 
 
@@ -2768,8 +4203,38 @@ Overfull \hbox (123.2209pt too wide) in paragraph at lines 290--290
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 290--290
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 le résultat de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 290--290
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 risultato (m) di
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--291
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 certificato (m) di
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--294
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 casellario (m)
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 296--296
 []|\EU1/ArialUnicodeMS(0)/m/n/10 (Beglaubigte)
+ []
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 296--296
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 la copie (certifiée
+ []
+
+
+Underfull \hbox (badness 6741) in paragraph at lines 296--296
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 copia (f) autenti-
  []
 
 
@@ -2802,7 +4267,62 @@ Underfull \hbox (badness 2334) in paragraph at lines 297--297
 \EU1/ArialUnicodeMS(0)/m/n/10 ich benötige eine
  []
 
-[14]
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--297
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 My family back
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--297
+\EU1/ArialUnicodeMS(0)/m/n/10 home can send
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--297
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Mia famiglia
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--297
+\EU1/ArialUnicodeMS(0)/m/n/10 può/potrebbe
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--297
+\EU1/ArialUnicodeMS(0)/m/n/10 spedirmi i docu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--297
+\EU1/ArialUnicodeMS(0)/m/n/10 menti necessari,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--297
+\EU1/ArialUnicodeMS(0)/m/n/10 ma ho/avrei
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--297
+\EU1/ArialUnicodeMS(0)/m/n/10 bisogno di un
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 302--302
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 numero (m) del
+ []
+
+
+Underfull \hbox (badness 4832) in paragraph at lines 306--306
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 la date de nais-
+ []
+
+
+Underfull \hbox (badness 2913) in paragraph at lines 307--307
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 stato (m) civile/di
+ []
+
+
 Overfull \hbox (75.41817pt too wide) in paragraph at lines 308--308
 []|\EU1/ArialUnicodeMS(0)/m/n/10 alleinstehend/verheiratet/verheiratet
  []
@@ -2810,6 +4330,46 @@ Overfull \hbox (75.41817pt too wide) in paragraph at lines 308--308
 
 Underfull \hbox (badness 10000) in paragraph at lines 308--308
 \EU1/ArialUnicodeMS(0)/m/n/10 mit
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--308
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Single/ married/
+ []
+
+
+Underfull \hbox (badness 2376) in paragraph at lines 308--308
+\EU1/ArialUnicodeMS(0)/m/n/10 married with chil-
+ []
+
+
+Overfull \hbox (17.58125pt too wide) in paragraph at lines 308--308
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 célibataire/marié/marié
+ []
+
+
+Underfull \hbox (badness 5175) in paragraph at lines 308--308
+\EU1/ArialUnicodeMS(0)/m/n/10 avec enfants/veuf
+ []
+
+
+Overfull \hbox (10.38399pt too wide) in paragraph at lines 308--308
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 solo/sposato/sposato
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--310
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 comment puis-je
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--316
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 paragrafo
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--316
+\EU1/ArialUnicodeMS(0)/m/n/10 (m)/capoverso
  []
 
 
@@ -2823,6 +4383,11 @@ Underfull \hbox (badness 5203) in paragraph at lines 318--318
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 318--318
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 l’activité lé-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 319--319
 []|\EU1/ArialUnicodeMS(0)/m/n/10 politische
  []
@@ -2832,7 +4397,22 @@ Overfull \hbox (45.94551pt too wide) in paragraph at lines 320--320
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Asylbewerberleistungsgesetz| 
  []
 
-[15]
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--320
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Asylum-Seekers
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--320
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 la loi sur
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 320--320
+\EU1/ArialUnicodeMS(0)/m/n/10 l’assistance aux
+ []
+
+[17]
 Overfull \hbox (12.03438pt too wide) in paragraph at lines 321--321
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Asylverfahrensgesetz
  []
@@ -2848,6 +4428,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 322--322
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 322--322
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Geneva Conven-
+ []
+
+
+Underfull \hbox (badness 5756) in paragraph at lines 322--322
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 la convention de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--322
+\EU1/ArialUnicodeMS(0)/m/n/10 Genève sur les
+ []
+
+
 Overfull \hbox (27.60078pt too wide) in paragraph at lines 323--323
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Rückführungsabkommen
  []
@@ -2858,8 +4453,48 @@ Underfull \hbox (badness 10000) in paragraph at lines 323--323
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 323--323
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Re-admission
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--323
+\EU1/ArialUnicodeMS(0)/m/n/10 agreement (be-
+ []
+
+
+Underfull \hbox (badness 5787) in paragraph at lines 323--323
+\EU1/ArialUnicodeMS(0)/m/n/10 tween two coun-
+ []
+
+
+Underfull \hbox (badness 3492) in paragraph at lines 323--323
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 l’accord de réad-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--323
+\EU1/ArialUnicodeMS(0)/m/n/10 mission (entre 2
+ []
+
+
 Underfull \hbox (badness 3492) in paragraph at lines 325--325
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Ich suche Arbeit.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--325
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Je cherche du
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--325
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Voglio/Vorrei
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--325
+\EU1/ArialUnicodeMS(0)/m/n/10 Che cosa devo
  []
 
 
@@ -2873,13 +4508,53 @@ Underfull \hbox (badness 10000) in paragraph at lines 326--326
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 326--326
-[]|\EU1/ArialUnicodeMS(0)/m/n/10 اجازت نامہ کی
+Underfull \hbox (badness 3872) in paragraph at lines 327--327
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 How much will I
  []
 
-[16]
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--327
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Combien vais-je
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 328--328
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Will I have insur-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--332
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 le revenu, le
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 342--342
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Employment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--342
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 l’agence pour
+ []
+
+
 Overfull \hbox (35.38399pt too wide) in paragraph at lines 343--343
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Sozialversicherungskosten| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--343
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Social insurance
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--343
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 les primes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 343--343
+\EU1/ArialUnicodeMS(0)/m/n/10 d’assurances
  []
 
 
@@ -2888,8 +4563,28 @@ Overfull \hbox (13.14766pt too wide) in paragraph at lines 346--346
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 348--348
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 Unemployment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 348--348
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 l’assurance chô-
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 349--349
 []|\EU1/ArialUnicodeMS(0)/m/n/10 (Keine) Ein-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--349
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 (pas de) restric-
+ []
+
+
+Underfull \hbox (badness 6741) in paragraph at lines 352--352
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 l’emploi à temps
  []
 
 
@@ -2897,9 +4592,14 @@ Overfull \hbox (14.28047pt too wide) in paragraph at lines 353--353
 []|\EU1/ArialUnicodeMS(0)/m/n/10 Volltagsbeschäftigung| 
  []
 
-) [17]
+
+Underfull \hbox (badness 10000) in paragraph at lines 353--353
+[]|\EU1/ArialUnicodeMS(0)/m/n/10 l’emploi à plein
+ []
+
+) [19] [20]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 107.
- [18]
+ [21]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 107.
  (./rpb-test-jur.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 107.
@@ -2909,10 +4609,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 107.
 Here is how much of TeX's memory you used:
  21384 strings out of 493706
  399312 string characters out of 6145769
- 494834 words of memory out of 5000000
+ 504834 words of memory out of 5000000
  24641 multiletter control sequences out of 15000+600000
  4064 words of font info for 23 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  46i,5n,65p,10363b,418s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on rpb-test-jur.pdf (18 pages).
+Output written on rpb-test-jur.pdf (21 pages).
