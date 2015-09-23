@@ -17,8 +17,8 @@ cat ../temp/jur.headings 	|cut -f 1,2,3,5,8,18 	> ../temp/jur.h.column
 cat ../temp/mpfr.headings       |cut -f 1      > ../temp/mpfr.d.column
 cat ../temp/mpfr.data           |cut -f 1      > ../temp/mpfr.h.column
 
-cat ../temp/medical.data 	|cut -f 1,2,3,6   	> ../temp/medical.d.column
-cat ../temp/medical.headings 	|cut -f 1,2,3,6 	> ../temp/medical.h.column
+cat ../temp/medical.data 	|cut -f 1,2,3,6,13   	> ../temp/medical.d.column
+cat ../temp/medical.headings 	|cut -f 1,2,3,6,13 	> ../temp/medical.h.column
 
 cat ../temp/multi.data 		|cut -f 2,3,6,7,36 	> ../temp/multi.d.column
 cat ../temp/multi.headings 	|cut -f 2,3,6,7,36 	> ../temp/multi.h.column
