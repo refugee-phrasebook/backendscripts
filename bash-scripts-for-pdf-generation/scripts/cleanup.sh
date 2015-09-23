@@ -23,12 +23,12 @@ rm ../temp/multi.*
 rm ../temp/short_1d21.*
 
 echo "clean up latex-temp"
-rm ./rpb-test-*.aux
-rm ./rpb-test-*.log
-rm ./rpb-test-*.out
-rm ./rpb-test-*.synctex.gz
+rm ./minitex-*.aux
+rm ./minitex-*.log
+rm ./minitex-*.out
+rm ./minitex-*.synctex.gz
 
 echo "PLEASE MOVE THE PDF to a different location before you commit to git or upload the scripts"
 echo "this keeps the source smaller"
 
-mv ./rpb-test-*.pdf ../../../
+mv ./minitex-*.pdf ../../../
