@@ -3,7 +3,22 @@
 echo "this will run xelatex and create the pdf"
 
 # catch up with longtable algorithm - running it 4 times might clean up 
-# run it twice
+
+xelatex minitex-jur.tex
+xelatex minitex-jur.tex
+xelatex minitex-jur.tex
+xelatex minitex-jur.tex
+
+xelatex minitex-med.tex
+xelatex minitex-med.tex
+xelatex minitex-med.tex
+xelatex minitex-med.tex
+
+xelatex minitex-multi.tex
+xelatex minitex-multi.tex
+xelatex minitex-multi.tex
+xelatex minitex-multi.tex
+
 xelatex rpb-test-jur.tex
 xelatex rpb-test-jur.tex
 xelatex rpb-test-jur.tex
