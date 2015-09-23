@@ -1,0 +1,104 @@
+
+% this minitex uses the koma-script
+% please consult the documentation available on CTAN
+% http://mirrors.ctan.org/macros/latex/contrib/koma-script/doc/scrguien.pdf
+%
+% this is a living example - it changes and evolution is here
+
+\documentclass[ %
+	11pt, %fontsize
+%	 draft, % show black boxes 
+%	footlines=0,
+	paper=a4,
+	landscape,
+	abstract=on,
+	version=last]{scrartcl} 
+
+\usepackage{geometry}
+ \geometry{
+     a4paper,
+     total={210mm,297mm},
+     left=15mm,
+     right=15mm,
+     top=15mm,
+     bottom=25mm,
+     }
+
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{fontspec}
+
+% try it with opensans
+%\usepackage[default, osfigures, scale=0. 95]{opensans} - not working 
+%\usepackage{libertine} - not working
+%\usepackage{lmodern} - not working
+%\usepackage{mathpazo}
+%\setromanfont{EthiopiaJiret}
+\setromanfont [Ligatures={Common}]{Arial Unicode MS} 
+
+\usepackage{microtype}
+
+% use the following packages
+\usepackage{booktabs} 
+\usepackage{longtable}
+\usepackage{tabu}
+\usepackage{array} 
+\usepackage{datetime}
+% use package babel - please read doc on http://mirrors.ctan.org/macros/latex/required/babel/base/babel.pdf
+% add all languages available/needed
+% hyphenation: see chapter 2, page 21 
+% the last entry gives the localization of the pdf
+\usepackage[UKenglish,afrikaans,albanian,american,austrian,bahasa,bahasam,basque,breton,british,bulgarian,catalan,croatian,czech,danish,dutch,esperanto,estonian,finnish,galician,germanb,greek,icelandic,irish,latin,lsorbian,magyar,naustrian,nil,norsk,polish,portuges,romanian,russianb,samin,scottish,serbian,slovak,slovene,swedish,turkish,ukraineb,usorbian,welsh,ngerman,english,italian]{babel}
+\usepackage[final]{pdfpages}
+\usepackage{lastpage}
+
+
+
+%test headings 
+\usepackage{scrpage2} 
+\pagestyle{scrheadings} 
+\ifoot{pdf-version: {\today, \the\currenthour:\the\currentminute}  by bash-scripts-for-pdf-generation}
+\ofoot{http://www.refugeephrasebook.de}
+%\usepackage{fancyhdr}
+%\pagestyle{fancy} 
+%\lfoot{PDF created \today, \the\currenthour:\the\currentminute}
+%\cfoot{\page}
+%\rfoot{http://www.refugeephrasebook.de}
+
+% needs testing - change colour of lines to grey (uses less toner)
+%\colorlet{\hline}{grey}
+%\definecolor{\hline}{rgb}{0.65,0.65,0.65}
+
+
+\author{written by a lot of people}
+\title{the refugee phrasebook}
+\subject{juridical phrases}
+
+
+
+\begin{document}
+{\Large Refugee Phrasebook - JURIDICAL - \input{../temp/jur.h.column}}
+\section*{juridical}
+
+
+
+%\maketitle % uncomment if you do not want the title
+\section*{license}
+%\begin{abstract}
+\input{booklet.tex} \newline
+%\end{abstract}
+
+
+\begin{longtabu}{X[l] X[l] X[l] X[l] X[l] X[l]}
+\everyrow {\tabucline[ on 1 pt ] - }
+\toprule
+\input{../temp/jur.h.bs}
+\midrule
+\endhead
+\input{../temp/jur.d.bs}
+\end{longtabu}
+
+
+
+\end{document}
