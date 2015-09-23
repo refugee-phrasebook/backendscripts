@@ -13,8 +13,8 @@ sed 's/\\/ \\textbackslash /g'  ../temp/jur.d.1 > ../temp/jur.d.2
 sed 's/\\/ \\textbackslash /g'  ../temp/jur.h.1 > ../temp/jur.h.2
 
 # replace eol
-sed 's/$/ \\\\ /g'  ../temp/jur.d.2 > ../temp/jur.d.3
-sed 's/$/ \\\\ /g'  ../temp/jur.h.2 > ../temp/jur.h.3
+sed 's/$/ \\\\ /g'  ../temp/jur.d.2 > ../temp/jur.d.bs
+sed 's/$/ \\\\ /g'  ../temp/jur.h.2 > ../temp/jur.h.bs
 
 # add hline - changed it to make this happen in latex
 #sed 's/\\\\/ \\\\ \\hline  /g' ../temp/jur.d.3 > ../temp/jur.d.bs
