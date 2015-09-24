@@ -1,234 +1,234 @@
-(Nr. in short section) & Grundlagen &  & Conversation de base & بنیادی بات چیت & Podstawowe rozmówki \\ 
-000 & Hallo & Saalam/ Merhaba & Salut & سلام & Cześć \\ 
-001 & guten Morgen & Sabáh al-khayr & Bonjour & صبح بخیر & Dzień dobry \\ 
-002 & guten Abend & massa Alchayr     Masa al-khayr       & Bonsoir & شب بخیر & Dobry wieczór \\ 
-003 & auf Wiedersehen & ma‘a 's-saláma / bye & Au revoir & خدا حافظ /  & Do widzenia \\ 
-004 & Entschuldigung & afwan, law samáht & Excusez-moi / Pardon & معاف کیجیے /  & Przepraszam \\ 
-005 & bitte & lou tismah & S'il vous plaît & مہربانی & Proszę \\ 
-006 & danke & Shukran & Merci & شکریہ /  & Dziękuję \\ 
-007 & gern geschehen &  & De rien &  & Proszę bardzo / Nie ma za co \\ 
-008 & Ich heiße... & ismi & Je m'appelle... & میرا نام...ہے & Nazywam się... \\ 
-009 & Wie heißen Sie? & ma ismak    / schou ismak & Comment vous appelez-vous? & آپ کا نام کیا ہے؟ /  & Jak się Pan (m) / Pani (f) nazywa? \\ 
-010 & Ich komme aus... & Ana min & Je viens de... & میں ۔۔۔۔۔۔۔۔ سے آئی ہوں  /  / میں ۔۔۔۔۔۔۔۔ سے آیا ہوں /  & Jestem z... \\ 
-011 & (die) Familie & Oussra / Aa'ila & famille & خاندان & rodzina \\ 
-012 & (Das ist mein) Mann & hada zawji / da zawji & Voilà mon mari & یہ میرا شوہر ہے & To (jest) mój mąż \\ 
-013 & (meine) Frau & hadihi zawjati /di mara'ti /  & ma femme &  میری بیوی  & To (jest) moja żona \\ 
-014 & (meine) Kinder & Attfali & mes enfants (mon enfant [sing]) &  میرے بچّے  /  & To (są) moje dzieci \\ 
-015 & (meine) Tochter & binti & ma fille &  میری بیٹی & To (jest) moja córka \\ 
-016 & (mein) Sohn & ibni & mon fils &  میرا بیٹا  & To (jest) mój syn \\ 
-017 & (mein) Baby & tifli & mon bébé &  میرا  بچہ & To (jest) moje dziecko \\ 
-018 & (Das ist mein) Bruder. & hadha akhi & (C'est mon) frère & یہ میرا بھائی ہے & To (jest) mój brat. \\ 
-019 & (Das ist meine) Schwester. & hadhihi ukhti & (C'est ma) soeur & یہ میری بہن ہے & To (jest) moja siostra. \\ 
-020 & (Das ist mein) Vater / Papa & hadha abi & C'est mon père. & یہ میرے باپ/ والد/ ابو ہیں & To (jest) mój ojciec / tata. \\ 
-021 & (Das ist meine) Mutter / Mutti / Mama & hathihi ummi   / Hai Mama & C'est ma mère. & یہ میری والدہ/ امّی ہیں۔ & To (jest) moja matka / mama. \\ 
-022 & Ich habe Hunger. & ana jaw‘an & J'ai faim & مجھے بھوک لگی ہے /  & Jestem głodny (m) / Jestem głodna (f) \\ 
-023 & (mein Kind) hat Hunger & tifli jaw‘an & Mon enfant a faim & میری بچّی بھوکی ہے۔ /  /   / میرا بچّا بھوکا ہے۔ & Moje dziecko jest głodne. \\ 
-024 & Ich habe Durst. & ash'ur bi'l-'atsh  / Atschaan & j'ai soif. & مجھے پیاس لگی ہے۔ /  & Chce mi się pić. \\ 
-028 & Wasser & Ma'a & eau & پانی & woda \\ 
-029 & Haben Sie... & indak...? & Avez-vous...? & کیا آپ کے پاس ۔۔۔۔ ہے؟ /  & Czy ma Pan (m) / Pani (f)...? \\ 
-030 & Wo ist... & ayn? fayn?        / ouin & Où est… & ۔۔۔۔ کہاں ہے؟ & Gdzie jest ...? \\ 
-031 & Wo ist die Toilette?  / / Wo ist das Badezimmer? & ayna 'l-hammam & Où sont les toilettes? /Où est la salle de bain? & غسل خانہ کدھر ہے؟ /  & Gdzie jest toaleta? / Gdzie jest łazienka? \\ 
-032 & Ich brauche eine Dusche & Bihaja ana athamam & j'ai besoin de prendre une douche & مجھے نہانے کی ضرورت ہے۔ /  & Muszę wziąć przysznic. \\ 
-033 & Wo kann ich duschen? & Ayna Bi Istitaa'ati elta7amom   / ouin Alhammam & Où puis-je prendre une douche?  & میں کہاں نہا سکتی/ سکتا ہوں؟ & Gdzie mogę wziąć przysznic? \\ 
-034 & (die) Damenbinde & Fouta Sohiya & serviette hygiénique & سینیٹری پیڈ / تولیہ / کپڑے & podpaska \\ 
-035 & (die) Windel & hafaada, bambers & une couche/ une couche-culotte & لنگوٹ / ڈایپر & pielucha/ Pampers \\ 
-036 & Ich muss anrufen / telefonieren & Bihaja ijra'a moukalama & je dois téléphoner. & مجھے فون کرنا ہے۔ & Muszę zadzwonić \\ 
-037 & Wo kann ich beten? &  ayna bi 'imkani an 'usalli & où puis-je prier? & میں کہاں نماز پڑھ سکتی/سکتا ہوں؟ & Gdzie mogę się pomodlić? \\ 
- & Wo kann ich ..... kaufen? & Ayna youmkinouni elshira'a? & où puis-je acheter...? & میں کہاں ۔۔۔۔ خرید سکتی/سکتا ہوں؟ & Gdzie mogę kupić......? \\ 
-038 & Wo kann ich ..... finden? & wain bla'ei...? & où puis-je trouver...? & ۔۔۔۔۔ کہاں ملےگا / ملےگی؟ & Gdzie mogę znaleźć.....? \\ 
-039 & Wie spät ist es? & kam al-sa'ah & Quelle heure est-il? & کتنا بجا ہے؟ & Która godzina? \\ 
-040 & Ich muss schlafen / Wir müssen schlafen & Ana/ Nahnu bihaja lilnawm & J'ai besoin de dormir. / Nous avons besoin de dormir. & مجھے(ہمیں) سونا ہے & Chce mi (sg) / nam (pl) się spać. \\ 
-041 & Wo ist die U-Bahn? & Ayn almetro?     / ouin Almahatta & Où est le métro? & مٹرو/سب وے/او۔بان کہاں ہے؟ & Gdzie jest metro? \\ 
- & Ich habe kein Geld. & laysa maay maal. La amliq nakuda  / Ma endi Massari & Je n'ai pas d'argent. & میرے پاس پیسے نہیں ہیں۔ & Nie mam pieniędzy. \\ 
-042 & Sprechen Sie…? & hal tatakallam al-lugha.   / Aya Lugha Tehki & Parlez-vous...? & کیا آپ ۔۔۔ بولتے/بولتی ہیں؟ & Czy mówi Pan (m) / Pani (f) po...? \\ 
-043 & Ich spreche nicht so gut (Deutsch). & Almaniyati da'ífa   /   Ma Behki Allmani & Je ne parle pas très bien (le français) & میری جرمن/انگریزی بہت اچھی نہیں ہے۔ /  & Nie mówię zbyt dobrze po (polsku). \\ 
-044 & Können Sie das für mich aufschreiben ? & Hal yomkenak ketabat zalek?  Fik Tiktba  & Pouvez-vous écrire cela pour moi? &  یہ  آپ لکھ سکتے ہیں ? /  & Czy może Pan (m) / Pani (f) to napisać? \\ 
-045 & Ich verstehe das nicht. &  la afham, ma bi-fahmish   / Ma fhimt  & je ne comprends pas & مجھے سمجھ  نہیں آیا /  & Nie rozumiem. \\ 
- & Hilfe! / Bitte helfen Sie mir ! & an-najda! sá'idni law samahta & à l'aide ! / Aidez-moi s'il vous plaît. & بچاو! /میری مدد کیجیئے /  & Pomocy! / Proszę o pomoc. \\ 
-046 & Ich weiß nicht & ma bi-arifsh   / Ma Ba´rif & je ne sais pas. & مجھے نہیں معلوم & Nie wiem. \\ 
-047 & Was ist passiert? & Matha alathi hassal? / Matha hassall?      / schou sarr  / sho sar & Que s'est-il passé? & کیا ہوا؟ /  & Co się stało? \\ 
-048 & Mir ist kalt. / Ich friere. & Ana bardan & J'ai froid. / Je suis gelé(e). & مجھے بہت سردی لگ رہی ہے۔  /  & Jest mi zimno. \\ 
-049 & 😊 Ich freue mich / ich bin glücklich & Ana sa'íd     / Mabssout & Je suis content(e) & میں خوش ہوں۔ & Cieszę się. / Jestem szczęśliwy (m) / szczęśliwa (f). \\ 
-050 & 😰 Ich habe Angst & Ana bi-khaf & j'ai peur & مجھے ڈر لگ رہا ہے۔ /  & Boję się. \\ 
-051 & 😢 Ich bin traurig. & Ana hazín & je suis triste & میں  اداس ہوں & Jestem smutny (m) / smutna (f). \\ 
-052 & 😍 Ich mag dich. & Ana bai'zak & Tu es gentill(le) / Je t'aime bien & تم مجھے پسند ہو۔ & Lubię cię. \\ 
-053 & keine Sorge & La taqlaq / Mouch Mouchkila  / Mou Mschkil & Ne vous inquiétez pas    & فکر نا کریں & Nie martw się. \\ 
-054 & Ich hätte gerne einen Termin. & Ana bihaja ila maw'ed & Je voudrais prendre un rendez-vous & مجھے اپائینڈمنٹ/ملاقات کا وقت چاہیئے۔ & Chciałbym (m) / Chciałabym (f) się umówić na spotkanie. \\ 
-055 & Wo ist das Zimmer Nummer ...? & wyna raqm elghourfa & où est la chambre numéro...? & کمرہ نمبر.... کہاں ہے۔ & Gdzie jest pokój numer.....? \\ 
-056 & Wo ist die Erstaufnahmestelle? & wain markaz eltassjil & Où est le centre d'enregistrement? & رجسٹریشن سنٹر کہاں ہے؟ & Gdzie jest rejestracja? \\ 
-057 & Sie müssen warten & Yatawajab A'alaykoum alintizar & Vous devez attendre/ Il faut que vous attendiez & آپ کو انتظار کرنا پڑے گا۔ & Musi Pan (m) / Pani (f) poczekać. \\ 
-058 & Wie lange müssen wir hier warten? & Kam yatawajab Aalayna al'intizar houna? & Combien de temps faut-il attendre?  & ہمیں یہاں اور کتنی دیر انتظار کرنا ہو گا؟ & Jak długo musimy tu czekać? \\ 
-059 & ein Tag & yawm wáhid & un jour & ایک دن & Dzień \\ 
-060 & eine Stunde & sá'a wáhda & une heure & ایک گھنٹہ & Godzina \\ 
-061 & ein Monat &  &  & ایک مہینہ & Miesiąc \\ 
-062 & sehr bald & qaríban & très bientôt & بہت جلد & wkrótce \\ 
-063 & morgen & ghadan     / Bokra & demain. & کل & jutro \\ 
-064 & übermorgen & ba'ada ghad    / Baid Bokra & après-demain & پرسوں & pojutrze \\ 
-065 & nächste Woche & al 'usbou' al muqbel & la semaine prochaine & اگلے ہفتے & w przyszłym tygodniu \\ 
-066 & Ich komme bald zurück & Sa'aoudou qariban & J'arrive/Je reviendrai bientôt     & میں جلدی واپس آونگا & Zaraz wracam \\ 
-067 & 1 eins, 2 zwei, 3 drei, 4 vier 5 fünf, 6 sechs, 7 sieben, 8 acht, 9 neun, 10 zehn & wahad, itnen, talateh, arba'a, khamseh, sitteh, saba'a, tamaniyeh, tisa', a'shara  & un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix. & ایک، دو، تین، چار، پانچ، چھ، سات، آٹھ، نو، دس & jeden, dwa, trzy, cztery, pięć, sześć, siedem, osiem, dziewięć, dziesięć  \\ 
-068 & Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag &  & lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche & سوموار، منگل، بدھ، جمعرات، جمعہ، ہفتہ، اتوار & poniedziałek, wtorek, środa, czwartek, piątek, sobota, niedziela \\ 
-069 & Januar, Februar, März, April, Mai, Juni, Juli, August, September, Oktober, November, Dezember &  & janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre & جنوری، فروری، مارچ، اپریل، مئی، جون، جولائی، اگست، ستمبر، اکتوبر، نومبر، دسمبر & 1.styczeń, 2.luty, 3.marzec, 4.kwiecień, 5.maj, 6.czerwiec, 7.lipiec, 8.sierpień, 9.wrzesień, 10.październik, 11.listopad, 12.grudzień \\ 
-070 &  &  &  &  &  \\ 
-071 & Gesundheit &  & Les Termes Médicaux & طبی الفاظ & Zdrowie \\ 
-072 & Ich brauche einen Arzt. & Bahtaj doktor  / Bedi Doktor & j'ai besoin d'un médecin. & مجھے ڈاکٹر کی ضرورت ہے۔ /  & Potrzebuję lekarza. \\ 
-073 & Mir ist schlecht. & Qalbi yata'lam & Je me sens mal/Je ne me sens pas bien & میری طبعیت ٹھیک نہیں ہے & Słabo mi. \\ 
-74 & Ich bin krank. & Ana maríd   / Mardan  & Je suis malade & میں بیمار ہوں۔ /  & Jestem chory (m) / Jestem chora (f) \\ 
-75 & (mein Kind) ist krank & tifli maríd & Mon enfant est malade &   میرا بچہ بیمار ہے & Moje dziecko jest chore. \\ 
- & Ich bin schwanger &  Ana hámil & Je suis enceinte & میں حاملہ ہوں & Jestem w ciąży \\ 
-076 & Ich habe eine allergische Reaktion & Indi hasasya & je fais une allergie / j'ai une réaction allergique & مجھے اس کی وجہ سے الرجی ہو رہی ہے & Mam reakcję alergiczną \\ 
-077 & Mir ist schwindelig. & Ahis bi dowar   / Daych & j'ai la tête qui tourne & مجہے چکر آ  رہے ہیں & Mam zawroty głowy. \\ 
- & Ich leide an Diabetes &  & je suis diabétique / j'ai le diabète & میں ذیابیطس ہوں & Mam cukrzycę \\ 
-078 & Ich brauche Insulin &  & J'ai besoin d'insuline & مجھے انسولین چاھیے & Potrzebuję insuliny \\ 
-079 & Ich wurde vergewaltigt. & Lakad tamma Ightissabi  / Eghtassabouni & J'ai été violé(e). & میری عزت لوتی گئی & Zostałam (f) / zostałem (m) zgwałcony. \\ 
-080 & Ich habe Bauchschmerzen. & indi alam fi batni & j'ai mal au ventre & میرے پیٹ میں درد ہے۔ & Boli mnie brzuch. \\ 
-081 & Ich habe Fieber & Himma & j'ai de la fièvre & مجھے بخار ہے۔ & Mam gorączkę / temperaturę. \\ 
-082 & Ich habe Kopfschmerzen. & indi suda / Ou'ani min soudaa fi alrass & J'ai mal à la tête & میرے سر میں درد ہے۔ & Boli mnie głowa. \\ 
-083 & Ich habe Husten. & ladaya sou'al & Je tousse & مجھے کھانسی ہے۔ & Mam kaszel. \\ 
-084 & Ich habe Halsschmerzen. & iltihab halek & j'ai mal à la gorge & میرا گلہ خراب ہے & Boli mnie gardło. \\ 
-085 & Mein Kind hat Halsschmerzen/Husten. & tefli indouhou sou'al  & Mon enfant tousse / a mal à la gorge & میرے بچے کو کھانسی  ہے۔ & Moje dziecko boli gardło / kaszle \\ 
-086 & (die) Erkältung & zukam & refroidissement & زکام & przeziębienie \\ 
-087 & (der) Durchfall & alisshal & diarrhée & دست  & rozwolnienie \\ 
- & (die) Verstopfung & al'imssak & constipation & قبض & zaparcie \\ 
- & (der) Scheidenpilz & Iltihab Fetri mihbali & la mycose vaginale (candidose) &  خمیر انفکشن & grzybica pochwy \\ 
-088 & (der) Fußpilz & Qadam al riyadi  &  le pied d'athlète, mycose des pieds & کھلاڑی کے پاؤں کا انفکشن & grzybica stóp \\ 
- & (die) Läuse / (die) Kopfläuse & Qamel elrass & poux (de tête) & سر کی جویں & wszy / wszawica \\ 
- & Lebensmittel &  & Nourriture & کھانا & Żywność \\ 
- & (das) Frühstück &  & petit déjeuner & ناشتا & śniadanie \\ 
-89 & (das) Mittagessen &  & déjeuner & دوپہر کا کهانا & obiad \\ 
-91 & (das) Abendessen &  & dîner & رات کا کهانا & kolacja \\ 
- & Ist das Essen Halal? & hal hadha 't-ta'am halal / Had Akel Halal & Cette nourriture est-elle Halal? & کیا یہ کھانا حلال ہے؟ & Czy to jest Halal? \\ 
-92 & Ich bin allergisch gegen… & Ana 'endi hasasiyah did.... & Je suis allergique à... & مجھے ۔۔۔ سے الرجی ہے۔ & Mam alergię na... \\ 
-93 & (das) Rindfleisch & laham bqr & boeuf & گائےکاگوشت & wołowina \\ 
-94 & (das) Huhn & dajaaj & poulet & مرغی & kurczak \\ 
-95 & Ich esse kein Schweinefleisch & la akol lahem alkhanzir & Je ne mange pas de porc & میں سور کا گوشت نہیں کھاتا & Nie jem wieprzowiny. \\ 
-96 & Ich bin Vegetarier. Ich esse kein Fleisch und keinen Fisch. &  ana nabáti & je suis végétarien(ne). Je ne mange pas de viande ni de poisson. & میں صرف سبزی کھاتا ہوں. مجھے گوشت یا مچھلی نہیں چاہیے & Jestem wegetarianinem (m) / wegetarianką (f). Nie jem mięsa i ryb. \\ 
-97 & (die) Eier [pl] &  al bayid & œufs & انڈے & jaja, jajka \\ 
- & (der) Fisch & - Samak & poisson & مچھلی & ryba \\ 
- & (das) Brot & AL khubz /  'aysh & (du) pain &  روٹی & chleb \\ 
-98 & (das) Wasser & m'a, miyah   / Mai & (de l') eau & پانی & woda \\ 
-99 & (die) Milch & Al labn/al halib & (du) lait & دودھ & mleko \\ 
- & (der) Kaffee & Al qahwa & café & کوفی & kawa \\ 
-100 & (der) Tee & Al shaay & thé & چائے & herbata \\ 
-101 & Ich trinke keinen Alkohol & la ashrab alkohol & Je ne bois pas d'alcool & میں شراب نہیں پیتا & Nie piję alkoholu. \\ 
-102 & (das) Obst & Fakiha & fruits & پھل & owoce \\ 
-102 & (der) Apfel & Al tufah & pomme & سیب & jabłko \\ 
-104 & (die) Orange/Apfelsine & Al burtuqal & orange & سنترہ / مالٹا & pomarańcza \\ 
- & (der) Pfirsich & Diraaq & pêche & آڑو & brzoskwinia \\ 
-105 & (die) Gemüse [pl] & al khudrawat & légumes & سبزیاں & warzywa \\ 
- & (die) Kartoffeln [pl] & Battatta & pommes de terre & آلو & ziemniaki \\ 
-106 & (die) Bohnen [pl] & Fasoulia'a / Foul & haricots & لوبیا & fasola \\ 
-107 & (die) Erbsen [pl] & Bazila  & petits pois & مٹر & groch \\ 
-108 & (die) Kichererbsen [pl] &  & pois chiches & چھولا / چنے & ciecierzyca \\ 
- & (die) Aubergine &  & aubergine & بینگن & bakłażan \\ 
-109 & (die) Karotten/Möhren [pl] & Jazar & carottes & گاجر & marchew \\ 
-110 & (die) Tomaten [pl] & Tamatem / Banadoura & tomates & ٹماٹر & pomidor \\ 
-111 & (der) Zucker & Soukkar & sucre & شکر & cukier \\ 
-112 & (das) Mehl & taheen & farine & آٹا & mąka \\ 
-113 & (der) Honig & Aassal & miel & شہد & miód \\ 
-114 & (der) Käse & Jobn & fromage & پنیر / چیز & ser \\ 
-115 & (das) Salz & Melh & sel & نمک & sól \\ 
-116 & (der) Pfeffer & Bihar Aswad & poivre & گول مرچ & pieprz \\ 
- & (der) Reis & Riz & riz & چانول & ryż \\ 
- & (die) Nudeln & Maakarouna & pâtes & پاستہ / نوڈل & makaron \\ 
-117 & (die) Suppe & Shourba & soupe & سوپ & zupa \\ 
-118 & (die) Butter & Zoubda & beurre & مکّھن & masło \\ 
-119 & (das) Öl & Zait & huile & تیل & olej \\ 
- & (die) Gabel & Shawka /shoka & Fourchette & کانٹا & widelec \\ 
- & (der) Löffel & ma'laka & Cuillere & چمچا & łyżka \\ 
- & (das) Messer & sekena / Sikkin & Couteau & چاقو & nóż \\ 
-120 & (der) Teller & tabak / sahen  & Assiette & پلیٹ & talerz \\ 
- & (das) Trinkglas / Glas & Koubaya  / Kasse & verre & گلاس & szklanka \\ 
-121 & (die) Teekanne & Ebrek shaye & théière & چائے دانی & dzbanek do herbaty \\ 
- &  &  &  &  &  \\ 
- & Kleidung & Malabes/ awa'ee & Vêtements & کپڑے & odzież \\ 
-122 & (das) Hemd &  qamís & une chemise & قمیض & koszula \\ 
-123 & (das) Kleid & fustan & une robe & لباس/کپڑے & sukienka \\ 
-124 & (der) Rock & Tanoura & une jupe & اسکرٹ & spódnica \\ 
-125 & (die) Hose & Sirwal / Bantalon & pantalon & پینٹ / پتلون & spodnie \\ 
-126 & (der) Pullover & kanzet souf & pull, pullover & سویٹر & sweter \\ 
-128 & (die) Jacke & Jaket / Mi'itaf & veste / manteau & جیکٹ & kurtka / płaszcz \\ 
-129 & (der) Schleier / (das) Kopftuch & Hijab / Khimar & un voile & حجاب / ڈپٹا / نقاب & szal / chusta/ hidżab / woal \\ 
-130 & (die) Schuhe [pl] & Ahzia/ sabbatat & chaussures & جوتے & buty \\ 
- & (die) Handschuhe [pl] & Qafazat & gants & دستانے/گلوز & rękawiczki \\ 
- & (die) Socken [pl] & kalsat & chaussettes & موزے & skarpetki \\ 
- & (die) Unterwäsche & Malabis Dakhiliya & sous-vêtements & انڈر ویئر / جانگھیا / /اندرونی کپڑے & bielizna \\ 
- & Sonstiges &  & Autres & اور چیزیں & Różne \\ 
- &  &  &  &  &  \\ 
- & (das) Bett & Takhet / Sarrir & lit & بستر / پلنگ & łóżko \\ 
-131 & (die) Decke & bataneya & couverture & کمبل & koc \\ 
-132 & (die) Lampe & misbah / lamba & lampe & لامپ & lampa \\ 
-133 & (das) Telefon & Telephon / Jawal / Hatef & téléphone & ٹیلی فون & telefon \\ 
-134 & (das) Handy & Jawal / Mobile & (téléphone) portable & موبائیل فون & komórka / telefon komórkowy \\ 
- & (die) Elektrizität / (der) Strom & Kahraba & électricité & بجلی & elektryczność; prąd \\ 
- & (der) Computer & Hassoub/ kombuter & ordinateur & کمپیوٹر & komputer \\ 
-135 & (die) Internetverbindung & Etesal bl internet  & connexion internet & انٹرنٹ کنکشن & połączenie z internetem \\ 
- & (die) Batterie & Battariya & batterie & باٹری & bateria \\ 
-136 & (das) Zimmer & Ghourfah & chambre & کمرہ & pokój \\ 
- & (der) Stuhl & Kourssi & chaise & کرسی & krzesło \\ 
- & (der) Tisch & Tawla & table & میز & stół \\ 
-137 & (die) Toilette / (das) WC & hammam & toilettes, WC. & غصل خانہ / ٹویلٹ & toaleta / WC \\ 
- & (das) Toilettenpapier & Warak tawalet & papier toilette & ٹویلٹ کا کاغز & papier toaletowy \\ 
-138 & (die) Zahnbürste & fourchat assnan & brosse à dent & دانت مانجھنے کا برش & szczoteczka do zębów \\ 
-140 & (die) Zahnpasta & maajoun assnan & dentifrice & ٹوتھ پہسٹ / دنت منجن & pasta do zębów \\ 
-141 & (die) Dusche & hamam/ dush & douche & شاور & prysznic \\ 
- & (die) Badewanne & Maghtas & baignoire & ٹب & wanna \\ 
- & (die) Seife & sabona & Savon & صابن & mydło \\ 
-142 & (das) Shampoo & shampoo & Shampooing & شامپو & szampon \\ 
-143 & (das) Taschentuch & maharem / mandil & mouchoir & رومال & chusteczki do nosa / chusteczki higieniczne \\ 
-144 & (der) Schrank & Khizana & placard & الماری / کابینٹ & szafa / szafka \\ 
-145 & (die) Tür & Bab & (la) porte & دروازہ & drzwi \\ 
-146 & (das) Fenster & Nafeza/shebbak & (la) fenêtre & کهڑکی & okno \\ 
- & (die) Wand & Ha'et & (le) mur & دیوار & ściana \\ 
- & (das) Haus & Manzel & (la) maison & مکان & dom \\ 
- & (die) Wohnung & Sha'a & (le) logement / appartement & فلیٹ & ogród \\ 
- & (das) Buch & Ketab & (le) livre & کتاب & książka \\ 
- & (die) Zeitung & Jaredeh & (le) journal & اخبار & gazeta \\ 
- & (das) Radio & Mzyaa  / Radio & (la) radio & ریڈیو & radio \\ 
-147 & (das) Fernsehen & Telfaz & (la) télévision & ٹیلی ویژن & telewizja \\ 
-148 &  &  &  &  &  \\ 
-150 &  &  &  &  &  \\ 
-151 &  &  &  &  &  \\ 
-152 &  &  &  &  &  \\ 
-153 &  &  &  &  &  \\ 
-154 &  &  &  &  &  \\ 
-155 &  &  &  &  &  \\ 
-156 &  &  &  &  &  \\ 
-157 &  &  &  &  &  \\ 
-158 &  &  &  &  &  \\ 
-159 &  &  &  &  &  \\ 
-160 &  &  &  &  &  \\ 
-161 &  &  &  &  &  \\ 
-162 &  &  &  &  &  \\ 
-163 &  &  &  &  &  \\ 
-164 &  &  &  &  &  \\ 
-165 &  &  &  &  &  \\ 
-166 &  &  &  &  &  \\ 
-167 &  &  &  &  &  \\ 
-169 &  &  &  &  &  \\ 
-170 &  &  &  &  &  \\ 
-171 &  &  &  &  &  \\ 
-172 &  &  &  &  &  \\ 
-173 &  &  &  &  &  \\ 
-174 &  &  &  &  &  \\ 
-175 &  &  &  &  &  \\ 
-176 &  &  &  &  &  \\ 
-177 &  &  &  &  &  \\ 
-178 &  &  &  &  &  \\ 
-179 &  &  &  &  &  \\ 
-180 &  &  &  &  &  \\ 
-181 &  &  &  &  &  \\ 
-182 &  &  &  &  &  \\ 
-183 &  &  &  &  &  \\ 
-184 &  &  &  &  &  \\ 
-185 &  &  &  &  &  \\ 
-186 &  &  &  &  &  \\ 
-187 &  &  &  &  &  \\ 
-188 &  &  &  &  &  \\ 
-189 &  &  &  &  &  \\ 
-190 &  &  &  &  &  \\ 
-191 &  &  &  &  &  \\ 
-192 &  &  &  &  &  \\ 
-193 &  &  &  &  &  \\ 
-194 &  &  &  &  &  \\ 
-195 &  &  &  &  &  \\ 
+(Nr. in short section)   &   Grundlagen   &      &   Conversation de base   &   بنیادی بات چیت   &   Podstawowe rozmówki \\ 
+000   &   Hallo   &   Saalam/ Merhaba   &   Salut   &   سلام   &   Cześć \\ 
+001   &   guten Morgen   &   Sabáh al-khayr   &   Bonjour   &   صبح بخیر   &   Dzień dobry \\ 
+002   &   guten Abend   &   massa Alchayr     Masa al-khayr         &   Bonsoir   &   شب بخیر   &   Dobry wieczór \\ 
+003   &   auf Wiedersehen   &   ma‘a 's-saláma / bye   &   Au revoir   &   خدا حافظ /    &   Do widzenia \\ 
+004   &   Entschuldigung   &   afwan, law samáht   &   Excusez-moi / Pardon   &   معاف کیجیے /    &   Przepraszam \\ 
+005   &   bitte   &   lou tismah   &   S'il vous plaît   &   مہربانی   &   Proszę \\ 
+006   &   danke   &   Shukran   &   Merci   &   شکریہ /    &   Dziękuję \\ 
+007   &   gern geschehen   &      &   De rien   &      &   Proszę bardzo / Nie ma za co \\ 
+008   &   Ich heiße...   &   ismi   &   Je m'appelle...   &   میرا نام...ہے   &   Nazywam się... \\ 
+009   &   Wie heißen Sie?   &   ma ismak    / schou ismak   &   Comment vous appelez-vous?   &   آپ کا نام کیا ہے؟ /    &   Jak się Pan (m) / Pani (f) nazywa? \\ 
+010   &   Ich komme aus...   &   Ana min   &   Je viens de...   &   میں ۔۔۔۔۔۔۔۔ سے آئی ہوں  /  / میں ۔۔۔۔۔۔۔۔ سے آیا ہوں /    &   Jestem z... \\ 
+011   &   (die) Familie   &   Oussra / Aa'ila   &   famille   &   خاندان   &   rodzina \\ 
+012   &   (Das ist mein) Mann   &   hada zawji / da zawji   &   Voilà mon mari   &   یہ میرا شوہر ہے   &   To (jest) mój mąż \\ 
+013   &   (meine) Frau   &   hadihi zawjati /di mara'ti /    &   ma femme   &    میری بیوی    &   To (jest) moja żona \\ 
+014   &   (meine) Kinder   &   Attfali   &   mes enfants (mon enfant [sing])   &    میرے بچّے  /    &   To (są) moje dzieci \\ 
+015   &   (meine) Tochter   &   binti   &   ma fille   &    میری بیٹی   &   To (jest) moja córka \\ 
+016   &   (mein) Sohn   &   ibni   &   mon fils   &    میرا بیٹا    &   To (jest) mój syn \\ 
+017   &   (mein) Baby   &   tifli   &   mon bébé   &    میرا  بچہ   &   To (jest) moje dziecko \\ 
+018   &   (Das ist mein) Bruder.   &   hadha akhi   &   (C'est mon) frère   &   یہ میرا بھائی ہے   &   To (jest) mój brat. \\ 
+019   &   (Das ist meine) Schwester.   &   hadhihi ukhti   &   (C'est ma) soeur   &   یہ میری بہن ہے   &   To (jest) moja siostra. \\ 
+020   &   (Das ist mein) Vater / Papa   &   hadha abi   &   C'est mon père.   &   یہ میرے باپ/ والد/ ابو ہیں   &   To (jest) mój ojciec / tata. \\ 
+021   &   (Das ist meine) Mutter / Mutti / Mama   &   hathihi ummi   / Hai Mama   &   C'est ma mère.   &   یہ میری والدہ/ امّی ہیں۔   &   To (jest) moja matka / mama. \\ 
+022   &   Ich habe Hunger.   &   ana jaw‘an   &   J'ai faim   &   مجھے بھوک لگی ہے /    &   Jestem głodny (m) / Jestem głodna (f) \\ 
+023   &   (mein Kind) hat Hunger   &   tifli jaw‘an   &   Mon enfant a faim   &   میری بچّی بھوکی ہے۔ /  /   / میرا بچّا بھوکا ہے۔   &   Moje dziecko jest głodne. \\ 
+024   &   Ich habe Durst.   &   ash'ur bi'l-'atsh  / Atschaan   &   j'ai soif.   &   مجھے پیاس لگی ہے۔ /    &   Chce mi się pić. \\ 
+028   &   Wasser   &   Ma'a   &   eau   &   پانی   &   woda \\ 
+029   &   Haben Sie...   &   indak...?   &   Avez-vous...?   &   کیا آپ کے پاس ۔۔۔۔ ہے؟ /    &   Czy ma Pan (m) / Pani (f)...? \\ 
+030   &   Wo ist...   &   ayn? fayn?        / ouin   &   Où est…   &   ۔۔۔۔ کہاں ہے؟   &   Gdzie jest ...? \\ 
+031   &   Wo ist die Toilette?  / / Wo ist das Badezimmer?   &   ayna 'l-hammam   &   Où sont les toilettes? /Où est la salle de bain?   &   غسل خانہ کدھر ہے؟ /    &   Gdzie jest toaleta? / Gdzie jest łazienka? \\ 
+032   &   Ich brauche eine Dusche   &   Bihaja ana athamam   &   j'ai besoin de prendre une douche   &   مجھے نہانے کی ضرورت ہے۔ /    &   Muszę wziąć przysznic. \\ 
+033   &   Wo kann ich duschen?   &   Ayna Bi Istitaa'ati elta7amom   / ouin Alhammam   &   Où puis-je prendre une douche?    &   میں کہاں نہا سکتی/ سکتا ہوں؟   &   Gdzie mogę wziąć przysznic? \\ 
+034   &   (die) Damenbinde   &   Fouta Sohiya   &   serviette hygiénique   &   سینیٹری پیڈ / تولیہ / کپڑے   &   podpaska \\ 
+035   &   (die) Windel   &   hafaada, bambers   &   une couche/ une couche-culotte   &   لنگوٹ / ڈایپر   &   pielucha/ Pampers \\ 
+036   &   Ich muss anrufen / telefonieren   &   Bihaja ijra'a moukalama   &   je dois téléphoner.   &   مجھے فون کرنا ہے۔   &   Muszę zadzwonić \\ 
+037   &   Wo kann ich beten?   &    ayna bi 'imkani an 'usalli   &   où puis-je prier?   &   میں کہاں نماز پڑھ سکتی/سکتا ہوں؟   &   Gdzie mogę się pomodlić? \\ 
+   &   Wo kann ich ..... kaufen?   &   Ayna youmkinouni elshira'a?   &   où puis-je acheter...?   &   میں کہاں ۔۔۔۔ خرید سکتی/سکتا ہوں؟   &   Gdzie mogę kupić......? \\ 
+038   &   Wo kann ich ..... finden?   &   wain bla'ei...?   &   où puis-je trouver...?   &   ۔۔۔۔۔ کہاں ملےگا / ملےگی؟   &   Gdzie mogę znaleźć.....? \\ 
+039   &   Wie spät ist es?   &   kam al-sa'ah   &   Quelle heure est-il?   &   کتنا بجا ہے؟   &   Która godzina? \\ 
+040   &   Ich muss schlafen / Wir müssen schlafen   &   Ana/ Nahnu bihaja lilnawm   &   J'ai besoin de dormir. / Nous avons besoin de dormir.   &   مجھے(ہمیں) سونا ہے   &   Chce mi (sg) / nam (pl) się spać. \\ 
+041   &   Wo ist die U-Bahn?   &   Ayn almetro?     / ouin Almahatta   &   Où est le métro?   &   مٹرو/سب وے/او۔بان کہاں ہے؟   &   Gdzie jest metro? \\ 
+   &   Ich habe kein Geld.   &   laysa maay maal. La amliq nakuda  / Ma endi Massari   &   Je n'ai pas d'argent.   &   میرے پاس پیسے نہیں ہیں۔   &   Nie mam pieniędzy. \\ 
+042   &   Sprechen Sie…?   &   hal tatakallam al-lugha.   / Aya Lugha Tehki   &   Parlez-vous...?   &   کیا آپ ۔۔۔ بولتے/بولتی ہیں؟   &   Czy mówi Pan (m) / Pani (f) po...? \\ 
+043   &   Ich spreche nicht so gut (Deutsch).   &   Almaniyati da'ífa   /   Ma Behki Allmani   &   Je ne parle pas très bien (le français)   &   میری جرمن/انگریزی بہت اچھی نہیں ہے۔ /    &   Nie mówię zbyt dobrze po (polsku). \\ 
+044   &   Können Sie das für mich aufschreiben ?   &   Hal yomkenak ketabat zalek?  Fik Tiktba    &   Pouvez-vous écrire cela pour moi?   &    یہ  آپ لکھ سکتے ہیں ? /    &   Czy może Pan (m) / Pani (f) to napisać? \\ 
+045   &   Ich verstehe das nicht.   &    la afham, ma bi-fahmish   / Ma fhimt    &   je ne comprends pas   &   مجھے سمجھ  نہیں آیا /    &   Nie rozumiem. \\ 
+   &   Hilfe! / Bitte helfen Sie mir !   &   an-najda! sá'idni law samahta   &   à l'aide ! / Aidez-moi s'il vous plaît.   &   بچاو! /میری مدد کیجیئے /    &   Pomocy! / Proszę o pomoc. \\ 
+046   &   Ich weiß nicht   &   ma bi-arifsh   / Ma Ba´rif   &   je ne sais pas.   &   مجھے نہیں معلوم   &   Nie wiem. \\ 
+047   &   Was ist passiert?   &   Matha alathi hassal? / Matha hassall?      / schou sarr  / sho sar   &   Que s'est-il passé?   &   کیا ہوا؟ /    &   Co się stało? \\ 
+048   &   Mir ist kalt. / Ich friere.   &   Ana bardan   &   J'ai froid. / Je suis gelé(e).   &   مجھے بہت سردی لگ رہی ہے۔  /    &   Jest mi zimno. \\ 
+049   &   😊 Ich freue mich / ich bin glücklich   &   Ana sa'íd     / Mabssout   &   Je suis content(e)   &   میں خوش ہوں۔   &   Cieszę się. / Jestem szczęśliwy (m) / szczęśliwa (f). \\ 
+050   &   😰 Ich habe Angst   &   Ana bi-khaf   &   j'ai peur   &   مجھے ڈر لگ رہا ہے۔ /    &   Boję się. \\ 
+051   &   😢 Ich bin traurig.   &   Ana hazín   &   je suis triste   &   میں  اداس ہوں   &   Jestem smutny (m) / smutna (f). \\ 
+052   &   😍 Ich mag dich.   &   Ana bai'zak   &   Tu es gentill(le) / Je t'aime bien   &   تم مجھے پسند ہو۔   &   Lubię cię. \\ 
+053   &   keine Sorge   &   La taqlaq / Mouch Mouchkila  / Mou Mschkil   &   Ne vous inquiétez pas      &   فکر نا کریں   &   Nie martw się. \\ 
+054   &   Ich hätte gerne einen Termin.   &   Ana bihaja ila maw'ed   &   Je voudrais prendre un rendez-vous   &   مجھے اپائینڈمنٹ/ملاقات کا وقت چاہیئے۔   &   Chciałbym (m) / Chciałabym (f) się umówić na spotkanie. \\ 
+055   &   Wo ist das Zimmer Nummer ...?   &   wyna raqm elghourfa   &   où est la chambre numéro...?   &   کمرہ نمبر.... کہاں ہے۔   &   Gdzie jest pokój numer.....? \\ 
+056   &   Wo ist die Erstaufnahmestelle?   &   wain markaz eltassjil   &   Où est le centre d'enregistrement?   &   رجسٹریشن سنٹر کہاں ہے؟   &   Gdzie jest rejestracja? \\ 
+057   &   Sie müssen warten   &   Yatawajab A'alaykoum alintizar   &   Vous devez attendre/ Il faut que vous attendiez   &   آپ کو انتظار کرنا پڑے گا۔   &   Musi Pan (m) / Pani (f) poczekać. \\ 
+058   &   Wie lange müssen wir hier warten?   &   Kam yatawajab Aalayna al'intizar houna?   &   Combien de temps faut-il attendre?    &   ہمیں یہاں اور کتنی دیر انتظار کرنا ہو گا؟   &   Jak długo musimy tu czekać? \\ 
+059   &   ein Tag   &   yawm wáhid   &   un jour   &   ایک دن   &   Dzień \\ 
+060   &   eine Stunde   &   sá'a wáhda   &   une heure   &   ایک گھنٹہ   &   Godzina \\ 
+061   &   ein Monat   &      &      &   ایک مہینہ   &   Miesiąc \\ 
+062   &   sehr bald   &   qaríban   &   très bientôt   &   بہت جلد   &   wkrótce \\ 
+063   &   morgen   &   ghadan     / Bokra   &   demain.   &   کل   &   jutro \\ 
+064   &   übermorgen   &   ba'ada ghad    / Baid Bokra   &   après-demain   &   پرسوں   &   pojutrze \\ 
+065   &   nächste Woche   &   al 'usbou' al muqbel   &   la semaine prochaine   &   اگلے ہفتے   &   w przyszłym tygodniu \\ 
+066   &   Ich komme bald zurück   &   Sa'aoudou qariban   &   J'arrive/Je reviendrai bientôt       &   میں جلدی واپس آونگا   &   Zaraz wracam \\ 
+067   &   1 eins, 2 zwei, 3 drei, 4 vier 5 fünf, 6 sechs, 7 sieben, 8 acht, 9 neun, 10 zehn   &   wahad, itnen, talateh, arba'a, khamseh, sitteh, saba'a, tamaniyeh, tisa', a'shara    &   un, deux, trois, quatre, cinq, six, sept, huit, neuf, dix.   &   ایک، دو، تین، چار، پانچ، چھ، سات، آٹھ، نو، دس   &   jeden, dwa, trzy, cztery, pięć, sześć, siedem, osiem, dziewięć, dziesięć  \\ 
+068   &   Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag   &      &   lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche   &   سوموار، منگل، بدھ، جمعرات، جمعہ، ہفتہ، اتوار   &   poniedziałek, wtorek, środa, czwartek, piątek, sobota, niedziela \\ 
+069   &   Januar, Februar, März, April, Mai, Juni, Juli, August, September, Oktober, November, Dezember   &      &   janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre   &   جنوری، فروری، مارچ، اپریل، مئی، جون، جولائی، اگست، ستمبر، اکتوبر، نومبر، دسمبر   &   1.styczeń, 2.luty, 3.marzec, 4.kwiecień, 5.maj, 6.czerwiec, 7.lipiec, 8.sierpień, 9.wrzesień, 10.październik, 11.listopad, 12.grudzień \\ 
+070   &      &      &      &      &    \\ 
+071   &   Gesundheit   &      &   Les Termes Médicaux   &   طبی الفاظ   &   Zdrowie \\ 
+072   &   Ich brauche einen Arzt.   &   Bahtaj doktor  / Bedi Doktor   &   j'ai besoin d'un médecin.   &   مجھے ڈاکٹر کی ضرورت ہے۔ /    &   Potrzebuję lekarza. \\ 
+073   &   Mir ist schlecht.   &   Qalbi yata'lam   &   Je me sens mal/Je ne me sens pas bien   &   میری طبعیت ٹھیک نہیں ہے   &   Słabo mi. \\ 
+74   &   Ich bin krank.   &   Ana maríd   / Mardan    &   Je suis malade   &   میں بیمار ہوں۔ /    &   Jestem chory (m) / Jestem chora (f) \\ 
+75   &   (mein Kind) ist krank   &   tifli maríd   &   Mon enfant est malade   &     میرا بچہ بیمار ہے   &   Moje dziecko jest chore. \\ 
+   &   Ich bin schwanger   &    Ana hámil   &   Je suis enceinte   &   میں حاملہ ہوں   &   Jestem w ciąży \\ 
+076   &   Ich habe eine allergische Reaktion   &   Indi hasasya   &   je fais une allergie / j'ai une réaction allergique   &   مجھے اس کی وجہ سے الرجی ہو رہی ہے   &   Mam reakcję alergiczną \\ 
+077   &   Mir ist schwindelig.   &   Ahis bi dowar   / Daych   &   j'ai la tête qui tourne   &   مجہے چکر آ  رہے ہیں   &   Mam zawroty głowy. \\ 
+   &   Ich leide an Diabetes   &      &   je suis diabétique / j'ai le diabète   &   میں ذیابیطس ہوں   &   Mam cukrzycę \\ 
+078   &   Ich brauche Insulin   &      &   J'ai besoin d'insuline   &   مجھے انسولین چاھیے   &   Potrzebuję insuliny \\ 
+079   &   Ich wurde vergewaltigt.   &   Lakad tamma Ightissabi  / Eghtassabouni   &   J'ai été violé(e).   &   میری عزت لوتی گئی   &   Zostałam (f) / zostałem (m) zgwałcony. \\ 
+080   &   Ich habe Bauchschmerzen.   &   indi alam fi batni   &   j'ai mal au ventre   &   میرے پیٹ میں درد ہے۔   &   Boli mnie brzuch. \\ 
+081   &   Ich habe Fieber   &   Himma   &   j'ai de la fièvre   &   مجھے بخار ہے۔   &   Mam gorączkę / temperaturę. \\ 
+082   &   Ich habe Kopfschmerzen.   &   indi suda / Ou'ani min soudaa fi alrass   &   J'ai mal à la tête   &   میرے سر میں درد ہے۔   &   Boli mnie głowa. \\ 
+083   &   Ich habe Husten.   &   ladaya sou'al   &   Je tousse   &   مجھے کھانسی ہے۔   &   Mam kaszel. \\ 
+084   &   Ich habe Halsschmerzen.   &   iltihab halek   &   j'ai mal à la gorge   &   میرا گلہ خراب ہے   &   Boli mnie gardło. \\ 
+085   &   Mein Kind hat Halsschmerzen/Husten.   &   tefli indouhou sou'al    &   Mon enfant tousse / a mal à la gorge   &   میرے بچے کو کھانسی  ہے۔   &   Moje dziecko boli gardło / kaszle \\ 
+086   &   (die) Erkältung   &   zukam   &   refroidissement   &   زکام   &   przeziębienie \\ 
+087   &   (der) Durchfall   &   alisshal   &   diarrhée   &   دست    &   rozwolnienie \\ 
+   &   (die) Verstopfung   &   al'imssak   &   constipation   &   قبض   &   zaparcie \\ 
+   &   (der) Scheidenpilz   &   Iltihab Fetri mihbali   &   la mycose vaginale (candidose)   &    خمیر انفکشن   &   grzybica pochwy \\ 
+088   &   (der) Fußpilz   &   Qadam al riyadi    &    le pied d'athlète, mycose des pieds   &   کھلاڑی کے پاؤں کا انفکشن   &   grzybica stóp \\ 
+   &   (die) Läuse / (die) Kopfläuse   &   Qamel elrass   &   poux (de tête)   &   سر کی جویں   &   wszy / wszawica \\ 
+   &   Lebensmittel   &      &   Nourriture   &   کھانا   &   Żywność \\ 
+   &   (das) Frühstück   &      &   petit déjeuner   &   ناشتا   &   śniadanie \\ 
+89   &   (das) Mittagessen   &      &   déjeuner   &   دوپہر کا کهانا   &   obiad \\ 
+91   &   (das) Abendessen   &      &   dîner   &   رات کا کهانا   &   kolacja \\ 
+   &   Ist das Essen Halal?   &   hal hadha 't-ta'am halal / Had Akel Halal   &   Cette nourriture est-elle Halal?   &   کیا یہ کھانا حلال ہے؟   &   Czy to jest Halal? \\ 
+92   &   Ich bin allergisch gegen…   &   Ana 'endi hasasiyah did....   &   Je suis allergique à...   &   مجھے ۔۔۔ سے الرجی ہے۔   &   Mam alergię na... \\ 
+93   &   (das) Rindfleisch   &   laham bqr   &   boeuf   &   گائےکاگوشت   &   wołowina \\ 
+94   &   (das) Huhn   &   dajaaj   &   poulet   &   مرغی   &   kurczak \\ 
+95   &   Ich esse kein Schweinefleisch   &   la akol lahem alkhanzir   &   Je ne mange pas de porc   &   میں سور کا گوشت نہیں کھاتا   &   Nie jem wieprzowiny. \\ 
+96   &   Ich bin Vegetarier. Ich esse kein Fleisch und keinen Fisch.   &    ana nabáti   &   je suis végétarien(ne). Je ne mange pas de viande ni de poisson.   &   میں صرف سبزی کھاتا ہوں. مجھے گوشت یا مچھلی نہیں چاہیے   &   Jestem wegetarianinem (m) / wegetarianką (f). Nie jem mięsa i ryb. \\ 
+97   &   (die) Eier [pl]   &    al bayid   &   œufs   &   انڈے   &   jaja, jajka \\ 
+   &   (der) Fisch   &   - Samak   &   poisson   &   مچھلی   &   ryba \\ 
+   &   (das) Brot   &   AL khubz /  'aysh   &   (du) pain   &    روٹی   &   chleb \\ 
+98   &   (das) Wasser   &   m'a, miyah   / Mai   &   (de l') eau   &   پانی   &   woda \\ 
+99   &   (die) Milch   &   Al labn/al halib   &   (du) lait   &   دودھ   &   mleko \\ 
+   &   (der) Kaffee   &   Al qahwa   &   café   &   کوفی   &   kawa \\ 
+100   &   (der) Tee   &   Al shaay   &   thé   &   چائے   &   herbata \\ 
+101   &   Ich trinke keinen Alkohol   &   la ashrab alkohol   &   Je ne bois pas d'alcool   &   میں شراب نہیں پیتا   &   Nie piję alkoholu. \\ 
+102   &   (das) Obst   &   Fakiha   &   fruits   &   پھل   &   owoce \\ 
+102   &   (der) Apfel   &   Al tufah   &   pomme   &   سیب   &   jabłko \\ 
+104   &   (die) Orange/Apfelsine   &   Al burtuqal   &   orange   &   سنترہ / مالٹا   &   pomarańcza \\ 
+   &   (der) Pfirsich   &   Diraaq   &   pêche   &   آڑو   &   brzoskwinia \\ 
+105   &   (die) Gemüse [pl]   &   al khudrawat   &   légumes   &   سبزیاں   &   warzywa \\ 
+   &   (die) Kartoffeln [pl]   &   Battatta   &   pommes de terre   &   آلو   &   ziemniaki \\ 
+106   &   (die) Bohnen [pl]   &   Fasoulia'a / Foul   &   haricots   &   لوبیا   &   fasola \\ 
+107   &   (die) Erbsen [pl]   &   Bazila    &   petits pois   &   مٹر   &   groch \\ 
+108   &   (die) Kichererbsen [pl]   &      &   pois chiches   &   چھولا / چنے   &   ciecierzyca \\ 
+   &   (die) Aubergine   &      &   aubergine   &   بینگن   &   bakłażan \\ 
+109   &   (die) Karotten/Möhren [pl]   &   Jazar   &   carottes   &   گاجر   &   marchew \\ 
+110   &   (die) Tomaten [pl]   &   Tamatem / Banadoura   &   tomates   &   ٹماٹر   &   pomidor \\ 
+111   &   (der) Zucker   &   Soukkar   &   sucre   &   شکر   &   cukier \\ 
+112   &   (das) Mehl   &   taheen   &   farine   &   آٹا   &   mąka \\ 
+113   &   (der) Honig   &   Aassal   &   miel   &   شہد   &   miód \\ 
+114   &   (der) Käse   &   Jobn   &   fromage   &   پنیر / چیز   &   ser \\ 
+115   &   (das) Salz   &   Melh   &   sel   &   نمک   &   sól \\ 
+116   &   (der) Pfeffer   &   Bihar Aswad   &   poivre   &   گول مرچ   &   pieprz \\ 
+   &   (der) Reis   &   Riz   &   riz   &   چانول   &   ryż \\ 
+   &   (die) Nudeln   &   Maakarouna   &   pâtes   &   پاستہ / نوڈل   &   makaron \\ 
+117   &   (die) Suppe   &   Shourba   &   soupe   &   سوپ   &   zupa \\ 
+118   &   (die) Butter   &   Zoubda   &   beurre   &   مکّھن   &   masło \\ 
+119   &   (das) Öl   &   Zait   &   huile   &   تیل   &   olej \\ 
+   &   (die) Gabel   &   Shawka /shoka   &   Fourchette   &   کانٹا   &   widelec \\ 
+   &   (der) Löffel   &   ma'laka   &   Cuillere   &   چمچا   &   łyżka \\ 
+   &   (das) Messer   &   sekena / Sikkin   &   Couteau   &   چاقو   &   nóż \\ 
+120   &   (der) Teller   &   tabak / sahen    &   Assiette   &   پلیٹ   &   talerz \\ 
+   &   (das) Trinkglas / Glas   &   Koubaya  / Kasse   &   verre   &   گلاس   &   szklanka \\ 
+121   &   (die) Teekanne   &   Ebrek shaye   &   théière   &   چائے دانی   &   dzbanek do herbaty \\ 
+   &      &      &      &      &    \\ 
+   &   Kleidung   &   Malabes/ awa'ee   &   Vêtements   &   کپڑے   &   odzież \\ 
+122   &   (das) Hemd   &    qamís   &   une chemise   &   قمیض   &   koszula \\ 
+123   &   (das) Kleid   &   fustan   &   une robe   &   لباس/کپڑے   &   sukienka \\ 
+124   &   (der) Rock   &   Tanoura   &   une jupe   &   اسکرٹ   &   spódnica \\ 
+125   &   (die) Hose   &   Sirwal / Bantalon   &   pantalon   &   پینٹ / پتلون   &   spodnie \\ 
+126   &   (der) Pullover   &   kanzet souf   &   pull, pullover   &   سویٹر   &   sweter \\ 
+128   &   (die) Jacke   &   Jaket / Mi'itaf   &   veste / manteau   &   جیکٹ   &   kurtka / płaszcz \\ 
+129   &   (der) Schleier / (das) Kopftuch   &   Hijab / Khimar   &   un voile   &   حجاب / ڈپٹا / نقاب   &   szal / chusta/ hidżab / woal \\ 
+130   &   (die) Schuhe [pl]   &   Ahzia/ sabbatat   &   chaussures   &   جوتے   &   buty \\ 
+   &   (die) Handschuhe [pl]   &   Qafazat   &   gants   &   دستانے/گلوز   &   rękawiczki \\ 
+   &   (die) Socken [pl]   &   kalsat   &   chaussettes   &   موزے   &   skarpetki \\ 
+   &   (die) Unterwäsche   &   Malabis Dakhiliya   &   sous-vêtements   &   انڈر ویئر / جانگھیا / /اندرونی کپڑے   &   bielizna \\ 
+   &   Sonstiges   &      &   Autres   &   اور چیزیں   &   Różne \\ 
+   &      &      &      &      &    \\ 
+   &   (das) Bett   &   Takhet / Sarrir   &   lit   &   بستر / پلنگ   &   łóżko \\ 
+131   &   (die) Decke   &   bataneya   &   couverture   &   کمبل   &   koc \\ 
+132   &   (die) Lampe   &   misbah / lamba   &   lampe   &   لامپ   &   lampa \\ 
+133   &   (das) Telefon   &   Telephon / Jawal / Hatef   &   téléphone   &   ٹیلی فون   &   telefon \\ 
+134   &   (das) Handy   &   Jawal / Mobile   &   (téléphone) portable   &   موبائیل فون   &   komórka / telefon komórkowy \\ 
+   &   (die) Elektrizität / (der) Strom   &   Kahraba   &   électricité   &   بجلی   &   elektryczność; prąd \\ 
+   &   (der) Computer   &   Hassoub/ kombuter   &   ordinateur   &   کمپیوٹر   &   komputer \\ 
+135   &   (die) Internetverbindung   &   Etesal bl internet    &   connexion internet   &   انٹرنٹ کنکشن   &   połączenie z internetem \\ 
+   &   (die) Batterie   &   Battariya   &   batterie   &   باٹری   &   bateria \\ 
+136   &   (das) Zimmer   &   Ghourfah   &   chambre   &   کمرہ   &   pokój \\ 
+   &   (der) Stuhl   &   Kourssi   &   chaise   &   کرسی   &   krzesło \\ 
+   &   (der) Tisch   &   Tawla   &   table   &   میز   &   stół \\ 
+137   &   (die) Toilette / (das) WC   &   hammam   &   toilettes, WC.   &   غصل خانہ / ٹویلٹ   &   toaleta / WC \\ 
+   &   (das) Toilettenpapier   &   Warak tawalet   &   papier toilette   &   ٹویلٹ کا کاغز   &   papier toaletowy \\ 
+138   &   (die) Zahnbürste   &   fourchat assnan   &   brosse à dent   &   دانت مانجھنے کا برش   &   szczoteczka do zębów \\ 
+140   &   (die) Zahnpasta   &   maajoun assnan   &   dentifrice   &   ٹوتھ پہسٹ / دنت منجن   &   pasta do zębów \\ 
+141   &   (die) Dusche   &   hamam/ dush   &   douche   &   شاور   &   prysznic \\ 
+   &   (die) Badewanne   &   Maghtas   &   baignoire   &   ٹب   &   wanna \\ 
+   &   (die) Seife   &   sabona   &   Savon   &   صابن   &   mydło \\ 
+142   &   (das) Shampoo   &   shampoo   &   Shampooing   &   شامپو   &   szampon \\ 
+143   &   (das) Taschentuch   &   maharem / mandil   &   mouchoir   &   رومال   &   chusteczki do nosa / chusteczki higieniczne \\ 
+144   &   (der) Schrank   &   Khizana   &   placard   &   الماری / کابینٹ   &   szafa / szafka \\ 
+145   &   (die) Tür   &   Bab   &   (la) porte   &   دروازہ   &   drzwi \\ 
+146   &   (das) Fenster   &   Nafeza/shebbak   &   (la) fenêtre   &   کهڑکی   &   okno \\ 
+   &   (die) Wand   &   Ha'et   &   (le) mur   &   دیوار   &   ściana \\ 
+   &   (das) Haus   &   Manzel   &   (la) maison   &   مکان   &   dom \\ 
+   &   (die) Wohnung   &   Sha'a   &   (le) logement / appartement   &   فلیٹ   &   ogród \\ 
+   &   (das) Buch   &   Ketab   &   (le) livre   &   کتاب   &   książka \\ 
+   &   (die) Zeitung   &   Jaredeh   &   (le) journal   &   اخبار   &   gazeta \\ 
+   &   (das) Radio   &   Mzyaa  / Radio   &   (la) radio   &   ریڈیو   &   radio \\ 
+147   &   (das) Fernsehen   &   Telfaz   &   (la) télévision   &   ٹیلی ویژن   &   telewizja \\ 
+148   &      &      &      &      &    \\ 
+150   &      &      &      &      &    \\ 
+151   &      &      &      &      &    \\ 
+152   &      &      &      &      &    \\ 
+153   &      &      &      &      &    \\ 
+154   &      &      &      &      &    \\ 
+155   &      &      &      &      &    \\ 
+156   &      &      &      &      &    \\ 
+157   &      &      &      &      &    \\ 
+158   &      &      &      &      &    \\ 
+159   &      &      &      &      &    \\ 
+160   &      &      &      &      &    \\ 
+161   &      &      &      &      &    \\ 
+162   &      &      &      &      &    \\ 
+163   &      &      &      &      &    \\ 
+164   &      &      &      &      &    \\ 
+165   &      &      &      &      &    \\ 
+166   &      &      &      &      &    \\ 
+167   &      &      &      &      &    \\ 
+169   &      &      &      &      &    \\ 
+170   &      &      &      &      &    \\ 
+171   &      &      &      &      &    \\ 
+172   &      &      &      &      &    \\ 
+173   &      &      &      &      &    \\ 
+174   &      &      &      &      &    \\ 
+175   &      &      &      &      &    \\ 
+176   &      &      &      &      &    \\ 
+177   &      &      &      &      &    \\ 
+178   &      &      &      &      &    \\ 
+179   &      &      &      &      &    \\ 
+180   &      &      &      &      &    \\ 
+181   &      &      &      &      &    \\ 
+182   &      &      &      &      &    \\ 
+183   &      &      &      &      &    \\ 
+184   &      &      &      &      &    \\ 
+185   &      &      &      &      &    \\ 
+186   &      &      &      &      &    \\ 
+187   &      &      &      &      &    \\ 
+188   &      &      &      &      &    \\ 
+189   &      &      &      &      &    \\ 
+190   &      &      &      &      &    \\ 
+191   &      &      &      &      &    \\ 
+192   &      &      &      &      &    \\ 
+193   &      &      &      &      &    \\ 
+194   &      &      &      &      &    \\ 
+195   &      &      &      &      &    \\ 

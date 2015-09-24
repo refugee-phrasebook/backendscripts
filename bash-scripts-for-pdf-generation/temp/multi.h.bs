@@ -1,1 +1,1 @@
-German & Arabic (Syrian) & English & Farsi \\ 
+German   &   Arabic (Syrian)   &   English   &   Farsi \\ 
