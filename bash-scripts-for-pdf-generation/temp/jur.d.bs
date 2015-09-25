@@ -1,353 +1,353 @@
-Anerkennung (als Flüchtling)   &   grant of refugee status   &   منح صفة اللاجئ   &   شناخت وضعیت پناهندگی   &   njohja e statusit refugjat \\ 
-Asyl Anhörungstermin   &   asylum interview (main interview for the asylum claim)   &   مقابلة طلب اللجوء   &   مصاحبه پناهندگی  (مصاحبه اصلی برای درخوست پناهندگی)   &   intervista per azilin (intervista kryesore për kërkesën për azil) \\ 
-Antrag stellen   &   to apply / to file an application   &   تقديم طلب اللجوء   &   درخواست دادن    &   të aplikosh / të depozitosh një aplikim \\ 
-Asylantrag   &   asylum application   &   معاملة طلب اللجوء   &   درخواست پناهندگی    &   aplikim për azil \\ 
-Asylverfahren   &   asylum proceedings   &   سير معاملة اللجوء   &   فرایند پناهندگی    &   procesi i azilit \\ 
-Aufenthalt   &   stay (residence)   &   الإقامة   &   اقامت   &   qëndrimi / vendbanim \\ 
-Aufenthaltsgenehmigung   &   residence permit   &   إجازة الإقامة   &   اجازه اقامت   &   leja e qëndrimit \\ 
-Auffanglager    &   reception camp   &   مركز استقبال اللاجئين   &      &   kampi i pritjes \\ 
-Ausweisung   &   deportation   &   ترحيل   &   اخراج - دیپورت   &   deportim \\ 
-Beweis   &   evidence/proof   &   الإثبات   &   مدرک اثبات - ادله اثبات   &   prova \\ 
-Botschaft   &   embassy   &   سفارة   &   سفارت خانه    &   ambasadë \\ 
-Durchgangszentrum, Notaufnahmelager   &   transit camp   &   مركز استقبال مؤقّت   &   اردوگاه موقت   &   kamp tranziti \\ 
-mündliche Verhandlung   &   oral hearing/proceedings   &   مقابلة/ تحقيق شفهي   &   آیین شفاهی   &   seance dëgjimore/procedim \\ 
-Grenzübergang   &   border crossing // crossing point   &   معبر حدودي   &   عبور از مرز   &   kalimi i kufirit / pikë kalimi \\ 
-Grenzübertrittsbescheinigung   &   border crossing certificate   &   مصدقة عبور الحدود   &   گواهی عبور از مرز   &   vërtetim për kalim kufiri / certifikatë për kalim kufiri \\ 
-Kirchenasyl   &   church asylum   &   اللجوء عن طريق الكنيسة / الكنسي   &   پناهندگی کلیسا   &   azil i kishës  \\ 
-Kontingentflüchtling   &   quota refugee   &   لاجئ ضمن الحصة المخصصة   &   سهمیه پناهندگی   &   kuota e refugjateve \\ 
-offensichtlich unbegründet   &   clearly unjustified   &   من الواضح عدم ثبوته    &   به وضوح بی اساس   &   qartazi e pajustifikuar \\ 
-Rechtsanwalt   &   lawyer // attorney   &   المحامي   &   وکیل   &   avokat \\ 
-Reisedokumente   &   travel documents   &   وثائق/أوراق السَّفَر(ثبوتيَّة)   &   مدارک سفر   &   dokumente udhëtimi \\ 
-Reisepass   &   passport    &   جواز سفر   &   گذرنامه   &   pashaportë \\ 
-Religionszugehörigkeit   &   religion   &   الانتماء الديني   &   دین   &   fe \\ 
-Rekurs (Austria) Rechtsbehelf (Ger)   &   appeal   &   إستئناف   &   درخواست   &   apel / apelim \\ 
-Rechtsbehelfsbelehrung   &   instructions on the right to appeal   &   التعليمات في شأن حق الاستئناف   &      &   udhëzime për të drejtën e apelit \\ 
-Richter   &   judge   &   القاضي   &   قاضی   &   gjyqtar \\ 
-Rückübernahmeabkommen   &   re-admission agreement (between two countries)   &   اتفاقية إعادة القبول (بين دولتين)   &   پذیرش مجدد شرایط (بین دو کشور)   &   marrëveshje për ripranim (mes dy shtetesh) \\ 
-subsidiärer Schutz nach EU Recht   &   subsidiary protection under EU law   &   الحماية الثانوية في قانون الاتحاد الاوروبي (أي الحماية التي تطال رعايا دول أخرى)   &   حمایت تکمیلی تحت قوانین اتحادیه اروپا   &   mbrojtje plotësuese nën ligjet e BE-së \\ 
-Übersetzung   &   Translation    &   الترجمة   &   ترجمه   &   përkthim \\ 
-Verhaftung   &   arrest/detention   &   التوقيف / الاعتقال   &   بازداشت   &   arrestim/paraburgosje \\ 
-Visum   &   visa    &   تأشيرة دخول   &   ویزا   &   vizë \\ 
-Visaablehnung   &   refusal of visa application   &   رفض تأشيرة الدخول   &   امتناع از درخواست ویزا   &   refuzim i kërkesës për  vizë \\ 
-Wiedererwägung   &   reconsideration   &   إعادة نظر   &   تجدید نظر   &   rishqyrtim \\ 
-Pflichtverteidiger   &   assigned counsel/duty counsel   &   محامي بالمجان   &   وکیل الحاقی دادگاه   &   avokati i caktuar \\ 
-Verteidiger   &   counsel for defence   &   محامي الدفاع   &   وکیل مدافع   &   avokati mbrojtës \\ 
-Freispruch   &   acquittal   &   الحكم بالبراءة   &   تبرئه   &   vendim pafajësie \\ 
-Enthaltung   &   abstention   &   امتناع   &   خودداری از دادن رای   &   abstenim \\ 
-von etwas absehen / auf etwas verzichten   &   to abstain from    &   الإمتناع عن   &   به پرهیز از   &   të abstenosh nga \\ 
-Amtsmissbrauch   &   abuse of office/abuse of authority   &   الشطط/التعسف في استعمال السلطة   &   سوء استفاده از مقام / سوء استفاده از قدرت   &   shpërdorim i detyrës/autoritetit \\ 
-Etwas einwilligen   &   to agree to/to consent to   &   الموافقة على   &   به توافق / به رضایت برسند   &   të biesh dakord/të japësh pëlqimin \\ 
-Zugang zu Wohnraum   &   access to housing   &   الحصول على السكن   &   دسترسی به مسکن   &   qasje/akses në strehim \\ 
-Zugang zur Justiz   &   access to the judiciary   &   حق التقاضي (إمكانية اللجوء الى القضاء)   &   دسترسی به قوه قضائیه   &   qasje/akses në sistemin gjyqesor \\ 
-Genehmigung   &   permission    &   إذن   &   اجازه / دسترسی به مالکیت   &   leje \\ 
-Zugangsberechtigung   &   access authorisation   &   تصريح الدخول   &      &   autorizim për akses/qasje \\ 
-Einspruch   &   appeal   &   استئناف / طعن   &      &   apel / apelim /  \\ 
-Klage   &   complaint   &   شكوى   &   شکایت / درخواست   &   ankesë \\ 
-Das Verfahren   &   proceedings   &   إجراءات   &   دادرسی   &   Procedim \\ 
-Beschleunigtes Verfahren   &   acceleration of proceedings   &   تسريع الإجراءات   &   شتاب دادرسی   &   përshpejtim i procedimit gjyqësor \\ 
-(Ein Angebot) annehmen   &   to accept (an offer)   &   قبول   &    قبول (یک پیشنهاد)   &   të pranosh (një ofertë) \\ 
-Aufnehmen   &   accommodate someone   &   استضافة / استقبال   &   اسکان دادن به کسی   &   të strehosh dikë \\ 
-in Anspruch nehmen   &   to call on something / make use of something   &   استدعاء / استناد إلى   &   بهره بردن از چیزی / استفاده کردن از چیزی   &   t'i drejtohesh diçkaje/të përdorësh diçka  \\ 
-dauerhafte Betreuung   &   permanent assistance   &    كفالة / مساعدة دائمة   &   کمک های دائمی   &   përkujdesje e përhershme \\ 
-In Begleitung von   &   accompanied by   &   مصحوب بـ   &   همراه با ، با خدمت   &   i/e shoqëruar nga \\ 
-Die Begleitung   &   company   &   مرافقون   &   شرکت   &   shoqërim \\ 
-Sexuelle Belästigung   &   sexual harassment   &   التحرّش الجنسي   &   آزار و اذیت جنسی   &   ngacmim seksual \\ 
-Die Beglaubigung   &   certification   &   تصديق / مصدقة   &   صدور گواهینامه   &   vërtetim \\ 
-Die Nationalität und Identität beglaubigen   &   to certify nationality and identity   &   إثبات الجنسية والهوية   &   تایید گواهی ملیت و هویت   &   të vërtetosh kombësinë dhe identitetin \\ 
-Die Geburtsurkunde   &   birth certificate    &   وثيقة/شهادة ولادة    &   گواهی تولد   &   certifikata e lindjes \\ 
-Beruf   &   profession   &   المهنة   &   حرفه   &   profesioni \\ 
-Illegale Handlungen   &   illegal activity   &   نشاط غير قانوني   &   فعالیت های غیر قانونی   &   veprime të paligjshme \\ 
-Gerichtsverfahren   &   court proceedings   &   إجراءات قضائية / أصول المحاكمة (الإجراءات المسطرية -المغرب)   &   دادرسی دادگاه   &   procedim gjyqësor \\ 
-Deportation/Abschiebung   &   deportation   &   ترحيل   &   اخراج (از کشور)   &   deportim \\ 
-Migration   &   migration   &   هجرة   &   مهاجرت   &   migrimi \\ 
-rechtmäßig   &   legal   &   قانوني   &   قانونی   &   ligjore \\ 
-rechtswidrig   &   Illegal   &   غير قانوني   &   غیر قانونی   &   e paligjshme \\ 
-Anschuldigung   &   accusation   &   اتهام   &   اتهام   &   akuzim \\ 
-Deutschland   &   Germany   &   ألمانيا   &   آلمان   &   Gjermania \\ 
-Beide Parteien   &   both parties   &   كل من الطرفين   &   هر دو طرف   &   të dy palët \\ 
-Zugelassener geografischer Geltungsbereich   &   approved territorial scope of application   &   منطقة جغرافية مرخص العمل بها   &   منطقه جغرافیایی تایید شده   &   pranimi i hapsires territoriale te aplikacionit \\ 
-bedrohen   &   to threaten   &   يهدد / تهديد   &   تهدید شدن   &   të kërcënosh  \\ 
-Strafregister/Vorstrafen   &   criminal records   &   سوابق عدلية / جنائية   &   سوابق جنایی   &   të dhëna penale/gjendja gjyqësore \\ 
-staatenlos   &   stateless   &   عديمو الجنسية   &   بی وطن   &   pa shtetësi \\ 
-Berufungsverfahren   &   appeal proceedings   &   إجراءات الاستئناف   &   درخواست دادرسی   &   procedim ankimor \\ 
-Aufschiebung/Verlaengerung   &   postponement/extension   &   تأجيل / تمديد   &   به تعویق افتادن / طولانی شدن   &   shtyrje/zgjatje \\ 
-Verwurzelung   &   rootedness   &   تجذُّر   &   ریشه   &   ngulitje me rrënjë \\ 
-Verhaftung   &   arrest   &   توقيف / إلقاء القبض على    &   دستگیری   &   arrestim \\ 
-Artikel   &   article   &   بند / مادة   &   مقاله   &   nen \\ 
-Verfolgung   &   persecution   &   ملاحقة   &   آزار و اذیت   &   persekutim/përndjekje \\ 
-Flüchtlingskonvention   &   the refugee convention / Geneva Convention   &   اتفاقية جنيف للاجئين   &   کنوانسیون پناهندگان / کنوانسیون ژنو   &   Konventa e statusit të refugjatëve / Konventa e Gjenevës \\ 
-Richtlinie / Anordnung   &   directive   &   توجيه   &   رهنمود   &   direktiva \\ 
-besondere soziale Gruppe   &   particular social group   &   مجموعة اجتماعية محددة   &   گروه اجتماعی خاص   &   grup i caktuar social \\ 
-Rasse, Ethnie   &   race, ethnic group   &   عرق / مجموعة إثنية   &   گروه نژادی، قومی   &   grup racor, etnik \\ 
-politische Meinung   &   political opinion   &   آراء سياسية   &   عقیده سیاسی   &   opinion politik \\ 
-Abschiebung   &   deportation   &   ترحيل   &   اخراج   &   deportim \\ 
-Einspruch; Revision   &   appeal   &   استئناف / طعن   &   دادرسی   &   apel / apelim \\ 
-Furcht; Angst   &   fear   &   خوف   &   ترس   &   frikë \\ 
-begründet; stichhaltig   &   well-founded   &   مبرر   &   مستدل   &   i/e bazuar \\ 
-wegen ...   &   on account of   &   بما أنه   &   در حساب از   &   për arsye të  \\ 
-sexuelle Orientierung   &   sexual orientation   &   الميل الجنسي   &   گرایش جنسی   &   orientim seksual \\ 
-soziales Geschlecht; Gender   &   gender   &   الجنس / الجندر   &   جنس   &   gjini \\ 
-Frau   &   woman   &   امرأة   &   زن   &   femër \\ 
-Kriegsverbrechen   &   war crimes   &   جرائم حرب   &   جنایات جنگی   &   krime lufte \\ 
-Verbrechen gegen die Menschlichkeit   &   crimes against humanity   &   جرائم ضد الانسانية   &   جنایت علیه بشریت   &   krim kundër njerëzimit \\ 
-Genozid   &   genocide   &   الإبادة العرقية   &   قتل عام   &   gjenocid \\ 
-Gewalt   &   violence   &   عنف   &   خشونت   &   dhunë \\ 
-Mann   &   man    &   رجل   &   مرد   &   mashkull \\ 
-Abschiebung; Zurückweisung   &   expulsion/refoulement   &   الإعادة القسرية   &   اخراج / اجبار   &   debim \\ 
-Recht   &   right/law   &   حق / قانون، حقوق   &   حق / قانون   &   e drejta/ligji \\ 
-Menschenrecht   &   human right   &   حق من حقوق الانسان   &   حق انسان   &   e drejtë njerëzore \\ 
-Leben   &   life   &   حياة   &   زندگی   &   jetë \\ 
-Freiheit   &   freedom    &   حرية   &   آزادی   &   liri \\ 
-bedroht   &   threatened   &   مهدد   &   تهدیدشده   &   i/e kercenuar \\ 
-Folter   &   torture   &   تعذيب   &   شکنجه   &   torturë \\ 
-Gericht   &   court   &   محكمة   &   دادگاه   &   gjykatë \\ 
-Ich möchte einen Asylantrag stellen   &   I would like to apply for asylum   &   أريد أن أقدّم طلب اللجوء   &   من می خواهم برای درخواست پناهندگی اقدام کنم.   &   Dëshiroj të aplikoj për azil \\ 
-Ich habe keinen Personalausweis   &   I don't have an identity/identification card   &   ليس لدي أوراق ثبوتية أو هوية   &   من کارت هویت / کارت شناسایی ندارم   &   Nuk kam kartë identiteti \\ 
-Ich bin homosexuell/lesbisch/transgender/..   &   I am homosexual/lesbian/transgender   &   أنا مثليّ - مثليّة - متحوّل•ة الجنس أو ترانس   &   من همجنسگرا / لزبین / فراجنسیتی هستم   &   Jam homoseksual/lesbike/transgjinor \\ 
-Häusliche Gewalt   &   domestic violence   &   عنف أسري    &   خشونت خانگی   &   Dhunë familjare \\ 
-ich wurde misshandelt von..   &   I was abused by...   &   كنت أتعرض للتعنيف على يد...   &   من مورد آزار قرار گرفته شدم.   &   jam abuzuar nga ... \\ 
-ich werde misshandelt von...   &   I am being abused by...   &   أنا أتعرض للتعنيف على يد...   &   من توسط ...  مورد آزار قرار گرفتم   &   jam duke u abuzuar nga ... \\ 
-ich wurde zwangsverheiratet   &   I was compelled to enter into a forced marriage   &   أُجبرت على الزواج بالإكراه   &   من مجبور به ازدواج اجباری شدم   &   Kam qenë i/e detyruar të martohem me forcë \\ 
-mir droht eine Zwangsverheiratung   &   I am facing / have been threatened with a forced marriage   &   أنا أتعرض للتهديد بالزواج بالإكراه   &   من تهدید به ازدواج اجباری شدم   &   Jam duke u përballur me një martesë të kryer forcërisht/Po më kërcënojnë të martohem forcërisht \\ 
-Gleichberechtigung zwischen Mann und Frau   &   gender equality   &   تساوي الأجناس   &   برابری جنسیتی   &   barazi gjinore \\ 
-Wie kann ich Asyl beantragen?   &   How can I claim asylum?   &   كيف بإمكاني تقديم طلب اللجوء؟   &   چگونه می توانم درخواست پناهندگی کنم؟   &   Si mund të kërkoj azil? \\ 
-Ich wurde in meinem Heimatland diskriminiert.   &   I was discriminated against in my home country.   &   كنت أتعرض للتمييز في بلدي   &   من کشورم مورد تبعیض قرار گرفتم.   &   Kam qene i/e diskriminuar në vendlindje. \\ 
-Ich wurde diskriminiert wegen meiner Hautfarbe.   &   I was discriminated against because of my skin colour.   &   كنت أتعرض للتمييز بسبب لون بشرتي   &   من به دلیل رنگ پوستم مورد تبعیض قرار گرفتم.   &   Kam qenë i/e diskriminuar për shkak të ngjyrës së lëkurës. \\ 
-Ich wurde diskriminiert wegen meines Geschlechts.   &   I was discriminated against because of my gender.    &   كنت أتعرض للتمييز الجنسي   &   من به دلیل جنسیتم مورد تبعیض قرار گرفتم.   &   Kam qenë i/e diskriminuar për shkak të gjinisë. \\ 
-Ich wurde diskriminiert wegen meiner Sprache.   &   I was discriminated against because of my language.   &   كنت أتعرض للتمييز بسبب لغتي   &   من به دلیل زبانم مورد تبعیض قرار گرفتم.   &   Kam qenë i/e diskriminuar për shkak të gjuhës sime. \\ 
-Ich wurde diskriminiert wegen meiner Religion.   &   I was discriminated against because of my religion.    &   كنت أتعرض للتمييز بسبب إنتمائي الديني   &   من به دلیل دین و آیینم مورد تبعیض قرار گرفتم.   &   Kam qenë i/e diskriminuar për shkak të fesë sime. \\ 
-Ich wurde diskriminiert wegen meiner Zugehörigkeit zu einer sozialen Gruppe.   &   I was discriminated against because of my membership in a social group.   &   كنت أتعرض للتمييز بسبب إنتمائي لمجموعة أو فئة مجتمعية معينة   &   من به دلیل عضویت در یک گروه اجتماعی مورد تبعیض قرار گرفتم.   &   Kam qenë i/e diskriminuar për shkak të antarësimit në një grup social. \\ 
-Ich wurde diskriminiert wegen meiner politischen Überzeugung.   &   I was discriminated against because of my political views.   &   كنت أتعرض للتمييز بسبب قناعاتي السياسية   &   من به دلیل دیدگاه سیاسیم مورد تبعیض قرار گرفتم.   &   Kam qenë i/e diskriminuar për shkak të pikëpamjeve të mia politike. \\ 
-Ich wurde diskriminiert wegen meiner ethnischen oder sozialen Herkunft.   &   I was discriminated against because of my ethnic or social background.   &   كنت أتعرض للتمييز بسبب أصولي العرقية أو الاجتماعية   &   من به دلیل پس زمینه قومی یا اجتماعی  مورد تبعیض قرار گرفتم.   &   Kam qenë i/e diskriminuar për shkak të historisë etnike apo sociale. \\ 
-Ich wurde diskriminiert wegen einer Behinderung.   &   I was discriminated against because I am disabled.   &   كنت أتعرض للتمييز بسبب الإعاقة   &   من به دلیل معلولیت  مورد تبعیض قرار گرفتم.   &   Kam qenë i/e diskriminuar për shkak se jam me aftësi të kufizuara. \\ 
-Ich wurde in meinem Heimatland gefoltert.   &   I was tortured in my home country.   &   كنت أتعرض للتعذيب في بلدي   &   من در کشورم من شکنجه قرار گرفتم.   &   Më kanë torturuar në vendlindje \\ 
-Ich möchte so schnell wie möglich meine Familie nachholen.   &   I want my family to join me here as quickly as possible.   &   أود إلحاق عائلتي بي (لم الشمل) في أسرع وقت ممكن   &   من می خواهم خانواده ام در سریع ترین وقت به من ملحق شن.   &   Dëshiroj që familja ime të më bashkëngjitet këtu sa më shpejt. \\ 
-Ich verfüge über eine abgeschlossene Berufsausbildung.   &   I have completed my vocational training.   &   لقد أكملت تدريبي المهني   &   من آموزش های حرفه ای من را به اتمام رسانده ام.   &   Kam mbaruar trajnimin tim profesional. \\ 
-Ich kann mir die notwendigen Papiere von meiner Familie schicken lassen. Dafür benötige ich allerdings eine Adresse.   &   My family back home can send me the necessary documents. But I need an address.   &   يمكنني أن أطلب من عائلتي أن ترسل لي الأوراق/الوثائق المطلوبة. ولكن أنا بحاجة لإعطائهم عنوان لإرسال الأوراق.   &   خانوادم در خانه می توانند اسناد و مدارک لازم را برایم ارسال کنند. اما من به یک آدرس نیاز دارم.   &   Familja ime mund të mi dërgojë dokumentet e nevojshme. Por kam nevojë për një adresë. \\ 
-Ich habe früher schon einmal Asyl beantragt.   &   I have applied for asylum in the past.   &   لقد سبق أن تقدمت بطلب لجوء   &   من برای پناهندگی در گذشته اقدام کرده ام.   &   Kam aplikuar për azil edhe me perpara. \\ 
-Ich habe bereits in einem anderen Land Asyl beantragt.   &   I have previously applied for asylum in another country.   &   سبق لي أن تقدمت بطلب لجوء في بلد آخر   &   من قبلا برای پناهندگی در یک کشور دیگر اقدام کرده ام.   &   Kam aplikuar për azil më parë në një shtet tjetër. \\ 
-Ich möchte eine Arbeit suchen. Was muss ich tun?   &   I want to look for a job. What do I have to do?   &   أود البحث عن عمل. ماذا يجب أن أفعل؟   &   من می خواهم به دنبال برای کار بگردم. چه باید بکنم؟   &   Dua të kërkoj një punë. Çfarë duhet të bëj? \\ 
-Ich besitze ein Ehefähigkeitszeugnis.   &   I have a certificate of no impediment.   &   لدي شهادة تأهيل للزواج (لا مانع من زواجه)   &   من گواهی نامه عدم مانع برای ازدواج دارم.   &   Kam një certifikatë që vërteton se jam i lirë \\ 
-Ich bin über ein sicheres Drittland eingereist, habe mich dort aber nicht der Identitätsprüfung unterzogen.   &   I came here via a safe third country but I did not have my identity checked there.   &   أتيت الى هنا عبر دولة ثالثة آمنة، ولكن لم يتم هناك التحقق من هويتي   &   من از طریق یک کشور امن ثالث اینجا آمدم اما آنجا هویتم را ثبت(چک) نکرده ام.   &   Kam arritur përmes një shteti të tretë të sigurt por atje nuk më kanë kontrolluar identitetin. \\ 
-Aufenthaltsgestattung   &   temporary residence permit   &   تصريح إقامة مؤقت   &   اجازه موقت اقامت   &   leje e përkohshme qëndrimi \\ 
-Wann/wo kann ich eine Arbeitserlaubnis beantragen?   &   When/where can I apply for a work permit?   &   متى/أين باستطاعتي ان اتقدم بطلب إجازة عمل؟   &   کی / کجا می توانم برای اجازه کار اقدام کنم؟   &   Kur/ku mund të aplikoj për leje pune? \\ 
-Wo kann ich Kopien meiner Papiere anfertigen?   &   Where can I make copies of my documents?   &   أين باستطاعتي نسخ مستنداتي؟   &   از کجا می توانم اسناد و مدارکم را کپی کنم؟   &   Ku mund t'i fotokopjoj dokumentet e mia? \\ 
-Ich habe Familienangehörige in Deutschland.   &   I have family living in Germany.   &   لدي أقارب/أفراد أسرة يسكنون في ألمانيا   &   من خانواده دارم که در آلمان زندگی میکند.   &   Kam familje që jeton në Gjermani. \\ 
-Ich habe Familienangehörige auf der Flucht verloren.   &   I lost family members during the escape.   &   فقدت أقارب/أفراد أسرة خلال الهروب   &   من در طول فرار اعضای خانواده ام را از دست دادم.   &   Kam humbur anëtarë të familjes gjatë ikjes. \\ 
-Ich möchte die Botschaft/das Konsulat meines Landes (nicht) kontaktieren.   &   I (do not) want to contact the embassy/consulat of my country.   &   (لا) أريد أن اتصل بسفارة بلدي   &   من (ن)می خواهم با سفارت / کنسولگری کشورم تماس بگیرم.   &   (Nuk) Dua të kontaktoj ambasadën/konsullatën e shtetit tim \\ 
-Ich bin (nicht) über ein sicheres Drittland hierher gekommen.   &   I came (I did not come) here via a safe third country.   &   أتيت (لم آت) إلى هنا من خلال دولة ثالثة آمنة   &   من به اینجا از طریق یک کشور امن ثالث (نی)امده ام.   &   (Nuk) Kam ardhur këtu përmes një shteti të tretë të sigurt \\ 
-Ich bin traumatisiert.   &   I am traumatized   &   لقد تعرضت لصدمة (نفسية)    &   من دچار آسیب های روانی هستم.   &   Jam i traumatizuar \\ 
-Ich brauche eine Psychotherapie.   &   I need psychotherapy.   &   أحتاج علاجاً نفسياً   &   من نیاز به روان درمانی دارم.   &   Kam nevojë për psikoterapi \\ 
-Genitalbeschneidung bei Frauen   &   female genital mutilation   &   ختان الأنثى   &      &   synet femëror \\ 
-Opfer von Menschenhandel   &   victim of human trafficking   &   ضحية اتجار بالبشر   &      &   viktime e trafikimit njerzor \\ 
-Apostille   &   Apostille   &   الحاشية   &      &   Apostil \\ 
-Übersetzung   &   Translation   &   الترجمة   &      &   Përkthim \\ 
-Vermittler   &   intermediary/mediator/negotiator   &   الوسيط   &      &   Negociatori / Ndermjetesi \\ 
-Anerkennung von Dokumenten   &   recognition of documents   &   الاعتراف بالمستندات   &      &   Njohje e dokumentave \\ 
-Übersetzung von Dokumenten   &   translation of documents   &   ترجمة المستندات   &      &   Perkthim i dokumentave \\ 
-Ratifizierung   &   ratification   &   التصديق   &      &   Ratifikim / Miratim \\ 
-   &      &      &      &    \\ 
-   &      &      &      &    \\ 
-   &      &      &      &    \\ 
-   &      &      &      &    \\ 
-   &      &      &      &    \\ 
-Botschaft   &   Embassy   &   سفارة   &      &    \\ 
-   &      &      &      &    \\ 
-   &      &      &      &    \\ 
-   &      &      &      &    \\ 
-   &      &      &      &    \\ 
-   &      &      &      &    \\ 
-   &      &      &      &    \\ 
-   &      &      &      &    \\ 
-   &      &      &      &    \\ 
-Ich wurde diskriminiert wegen meiner sexuellen Orientierung.   &   I was discriminated against because of my sexual orientation.   &   كنت أتعرض للتمييز بسبب مٓيلي الجنسي   &      &   Kam qenë i diskriminuar per shkak te orientimit tim seksual \\ 
-   &      &      &      &    \\ 
-UNTERSTÜTZUNG FINDEN    &   FINDING SUPPORT   &   الحصول على المساعدة   &      &    \\ 
-Ich möchte Zugang haben zu...   &   I would like to have access to…   &   أريد الوصول إلى   &      &    \\ 
-Ich möchte (meine/n)…sehen   &   I would like to see (my)…   &   أريد أن ألتقي بشخصٍ يخصني   &      &    \\ 
-Ich möchte mit….sprechen   &   I would like to speak with…   &   أريد أن أتحدث إلى   &      &    \\ 
-Ich habe einen (keinen)…   &   I (do not) have a…   &   عندي / ليس عندي   &      &    \\ 
-Mein…hat mir das (nicht) mitgeteilt   &   My ….. (did not) tell me this   &   لم يطلعني الشخص الذي يخصني على ذلك   &      &    \\ 
-…hat mir/wird mir die Informationen geben   &   … gave me/ will give me the information   &   الشخص أعطاني / سيعطيني المعلومة   &      &    \\ 
-Bitte sprechen Sie mit meiner/meinem…   &   Please speak to my…   &   أرجوك أن تتحدث مع الشخص الذي يخصني   &      &    \\ 
-Behörden   &   Authorities   &   السلطات   &      &    \\ 
-Anwalt(in)   &   Lawyer   &   المحامي•ة   &      &    \\ 
-zugewiesener Anwalt/Pflichtverteidiger   &   Assigned lawyer/ duty counsel   &   محامي المساعدة القضائية   &      &    \\ 
-Ratgeber   &   Counselor   &   المستشار   &      &    \\ 
-Arzt   &   Doctor   &   الطبيب   &      &    \\ 
-Asylsachbearbeiter   &   Asylum case officer   &   الموظف المعني بملف الهجرة   &      &    \\ 
-Helfer   &   Support person   &   المعاون   &      &    \\ 
-Botschafter/Konsul   &   Ambassador/ Consul   &   السفير / القنصل   &      &    \\ 
-Das Bundesamt für Migration und Flüchtlinge (BAMF)   &   Federal Office for Migration and Refugees (BAMF)   &   الوزارة الاتحادية المعنية بالهجرة واللاجئين   &      &    \\ 
-Ausländerbehörde   &   Immigration authorities   &   سلطات الهجرة   &      &    \\ 
-ASYL BEANTRAGEN   &   SEEKING ASYLUM   &   طلب اللجوء   &      &    \\ 
-Ich möchte...beantragen   &   I want to file…   &   أريد أن أقدم طلب   &      &    \\ 
-Ich möchte...anfechten   &   I want to dispute…   &   أريد أن أطعن   &      &    \\ 
-Ich möchte...anfordern   &   I want to request…   &   أريد أن أطلب   &      &    \\ 
-Ich hatte/werde haben…   &   I had/ will have…   &   كان لدي / سيكون لدي   &      &    \\ 
-Wann werde ich mein/meine…erhalten   &   When will I have my…?   &   متى أحصل على الأمر خاصتي   &      &    \\ 
-Ich muss meinen Termin/Zeit für mein/meinen…verschieben   &   I need to move the date/ time of my…   &   عليّ أن أغيّر تاريخ / ساعة موعدي   &      &    \\ 
-Asyl   &   Asylum   &   اللجوء   &      &    \\ 
-Termin   &   Appointment   &   الموعد   &      &    \\ 
-mündliche Befragung   &   Interview   &   المقابلة   &      &    \\ 
-Anhörung    &   (Court) hearing   &   جلسة عرض القضية   &      &    \\ 
-Beschwerde   &   Complaint   &   الشكوى   &      &    \\ 
-Verfahren    &   Proceedings   &   الإجراءات   &      &    \\ 
-Stimmenthaltung   &   Abstention   &   الامتناع   &      &    \\ 
-erneute Prüfung    &   Reconsideration   &   إعادة النظر   &      &    \\ 
-Entscheidung    &   Decision/Verdict   &   القرار / الحكم   &      &    \\ 
-Haft   &   Arrest   &   التوقيف   &      &    \\ 
-verboten/Verbot    &   Prohibited/ prohibition   &   ممنوع / المنع   &      &    \\ 
-Ich möchte Asyl beantragen.   &   I would like to apply for asylum.   &   أريد أن أطلب اللجوء   &      &    \\ 
-Ich stimme dem zu.   &   I agree/ consent to this.   &   أوافق على ذلك   &      &    \\ 
-Ich stimme dem nicht zu.   &   I do not agree/ do not consent to this   &   لا أوافق على ذلك   &      &    \\ 
-Ich war (kein) Opfer von…   &   I was (not) a victim of…   &   كنت ضحية (لم أكن ضحية)   &      &    \\ 
-Ich habe (nicht) erlebt…   &   I (have not) experienced…   &   تعرضت إلى (لم أتعرض إلى)   &      &    \\ 
-Ich bin in Gefahr/nicht in Gefahr von…   &   I am at risk / I am not at risk of…   &   أنا كنت / ما زلت (لست) عرضة لخطر ...   &      &    \\ 
-Ich wurde bedroht mit…   &   I was threatened with…   &   أنا تعرضت للتهديد ب...   &      &    \\ 
-Mein….war/ist….   &   My … was/ is…   &   كان الأمر خاصتي / ما زال الأمر خاصتي   &      &    \\ 
-Bruder/Schwester   &   Brother/ sister   &   أخ / أخت   &      &    \\ 
-Ehefrau/Ehemann   &   Wife/ husband   &   زوجة / زوج   &      &    \\ 
-Mutter/Vater   &   Mother/ father   &   أب / أم   &      &    \\ 
-Tochter/Sohn/Kinder   &   Daughter/ son/ children   &   ابن / ابنة / أولاد   &      &    \\ 
-Grossvater/Grossmutter   &   Grandfather/ grandmother   &   جد / جدة   &      &    \\ 
-Cousin/Neffe/Nichte   &   Cousins/ nephew/ niece   &   ابن•ة العم•ة أو الخال•ة / ابن•ة الأخ•ت   &      &    \\ 
-Familienmitglieder   &   Family members   &   أفراد الأسرة   &      &    \\ 
-Mann/Frau   &   Man/ Woman   &   رجل / امرأة   &      &    \\ 
-Vergewaltigung   &   Rape   &   اغتصاب   &      &    \\ 
-Diskriminierung   &   Discrimination   &   تمييز   &      &    \\ 
-Zwangsheirat   &   Forced marriage   &   زواج بالإكراه   &      &    \\ 
-Verschleppung/Entführung   &   Abduction   &   اختطاف   &      &    \\ 
-Erpressung   &   Extortion   &   ابتزاز   &      &    \\ 
-Beschlagnahme   &   Confiscation   &   مصادرة   &      &    \\ 
-Diebstahl   &   Theft   &   سرقة   &      &    \\ 
-Gewahrsam/Haft   &   Detention/ arrest   &   احتجاز / توقيف   &      &    \\ 
-Sexuelle Belästigung   &   Sexual harrassment   &   التحرش الجنسي   &      &    \\ 
-Genitale Beschneidung   &   Genital mutilation   &   بتر الأعضاء الجنسية   &      &    \\ 
-Mord   &   Murder   &   القتل   &      &    \\ 
-(erzwungener) Wehrdienst   &   (Forced) conscription   &   التجنيد (الإلزامي)   &      &    \\ 
-Verweigerung gerichtlichen Schutzes   &   Denial of judicial protection   &   الحرمان من العدالة   &      &    \\ 
-Unrechtmässiges Fernbleiben/Unrechtmässige Abwesenheit   &   Unlawful absence   &   غياب غير مبرر   &      &    \\ 
-Unrechtmässige Ausreise   &   Unlawful departure   &   رحيل غير قانوني   &      &    \\ 
-Drohungen   &   Threats   &   تهديدات   &      &    \\ 
-Sprache   &   Language   &   اللغة   &      &    \\ 
-politische Ansichten   &   Political views   &   الآراء السياسية   &      &    \\ 
-Mitgliedschaft in einer sozialen Gruppe   &   Membership in a social group   &   الانتماء إلى فئة اجتماعية   &      &    \\ 
-Geschlecht   &   Gender   &   الجنس   &      &    \\ 
-Ethnischer/sozialer Hintergrund   &   Ethnic/ social background   &   الأصل العرقي / الاجتماعي   &      &    \\ 
-Hautfarbe   &   Skin colour   &   لون البشرة   &      &    \\ 
-Behinderung   &   Disability   &   الإعاقة   &      &    \\ 
-Kämpfen   &   Fighting   &   القتال   &      &    \\ 
-Bombardieren   &   Bombing   &   القصف   &      &    \\ 
-Flucht   &   Escape/ flight   &   الهرب   &      &    \\ 
-Evakuierung   &   Evacuaton   &   الإخلاء   &      &    \\ 
-Sicherheit   &   Safety   &   الأمان   &      &    \\ 
-Gefahr   &   Danger   &   الخطر   &      &    \\ 
-Ich bin (nicht) hierher gekommen   &   I came (did not come) here…   &   أنا أتيت (أنا لم آتِ)   &      &    \\ 
-über Land/Wasser/Luftweg   &   By land/ by sea/ by air   &   عبر البر / عبر البحر / عبر الجو   &      &    \\ 
-über ein sicheres Drittland   &   Via a third safe country   &   عبر بلدٍ ثالثٍ آمن   &      &    \\ 
-Ich wurde misshandelt von... /Mir wurde geholfen von...   &   I was abused/ helped by the…   &   تعرضت للاستغلال / حظيت بالمساعدة من قبل   &      &    \\ 
-Militär   &   Military   &   العسكري   &      &    \\ 
-Paramilitäre Gruppen   &   Paramilitary groups   &   المجموعات شبه العسكرية   &      &    \\ 
-Rebellen   &   Rebels   &   المتمردون   &      &    \\ 
-Beamte   &   Public officials   &   الموظفون الحكوميون   &      &    \\ 
-Grenzwächter   &   Border guards   &   حرس الحدود   &      &    \\ 
-Flüchtlingscampmitarbeiter   &   Refugee camp stuff   &   موظفو المخيم   &      &    \\ 
-Nichtregierungsorganisation   &   NGOs   &   المنظمات غير الحكومية   &      &    \\ 
-religiöse Führer   &   Religious leaders   &   الزعماء الدينيون   &      &    \\ 
-Menschen   &   People   &   الناس   &      &    \\ 
-Ich möchte, dass meine Familie so schnell wie möglich nachkommt.   &   I want my family to join me here as quickly as possible.   &   أريد أن تنضم أسرتي إلي هنا في أقرب وقت ممكن   &      &    \\ 
-   &   ASYLUM SEEKING PROCESS   &   مسيرة طلب اللجوء   &      &    \\ 
-Schuldspruch (m.)   &   Guilty verdict   &   حكم الإدانة   &      &    \\ 
-Stattgeben/Annehmen   &   Accepted   &   القبول بالطلب   &      &    \\ 
-Abgelehnt   &   Rejected/ Declined   &   رفض الطلب   &      &    \\ 
-Ablehnung des Visaantrages   &   Refusal of visa application   &   رفض طلب تأشيرة الدخول   &      &    \\ 
-Ablehnungsmitteilung   &   Rejection notice   &   قرار الرفض   &      &    \\ 
-Abschiebungsmitteilung/Anordnung   &   Deportation notice/ order   &   مذكرة / أمر الترحيل   &      &    \\ 
-Verschiebung/Verlängerung   &   Postponement/ extension   &   تأجيل / تمديد   &      &    \\ 
-Im Zweifel für den Angeklagten;günstige Auslegung zweifelhafter Umstände   &   Benefit of doubt   &   فائدة الارتياب   &      &    \\ 
-Beweislast   &   Burden of proof   &   عبئ الإثبات   &      &    \\ 
-Glaubhaftigkeit   &   Credibility   &   المصداقية   &      &    \\ 
-   &   Initial asylum application   &   طلب اللجوء المبدئي   &      &    \\ 
-Flüchtlingsstatus   &   Refugee status   &   صفة اللاجئ   &      &    \\ 
-Einreiseverbot   &   Denial of entry   &   المنع من الدخول   &      &    \\ 
-Refoulment (Verbot der Ausweisung)   &   Refoulment (deportation ban)   &   الإعادة القسرية (مبدأ منع الترحيل)   &      &    \\ 
-Widerruf/Rücknahme   &   Revocation and withdrawl   &   إلغاء وثيقة وسحبها   &      &    \\ 
-Sicheres Drittland   &   Safe third country   &   بلد ثالث آمن   &      &    \\ 
-Sicheres Heimatland   &   Safe country of origin   &   بلد المنشأ آمن   &      &    \\ 
-Verpflichtungserklärung   &   Undertaking of material support   &      &      &    \\ 
-Aufenthaltserlaubnis   &   Residence permit   &      &      &    \\ 
-Duldung   &   Temporary suspension of deportation status   &      &      &    \\ 
-Rückkehrförderung   &   Repatriation support   &      &      &    \\ 
-Finanzielle Notfallunterstützung   &   Emergency financial support   &      &      &    \\ 
-Sozialleistungen   &   Social benefits   &      &      &    \\ 
-UMGANG MIT DOKUMENTEN   &   DEALING WITH DOCUMENTS   &      &      &    \\ 
-Ich habe mein/meine…nicht   &   I do (not) have my….   &      &      &    \\ 
-Mein/meine…sind verlorengegangen/gestohlen/vernichtet   &   My … were lost/ stolen/ destroyed.   &      &      &    \\ 
-Ich brauche eine Kopie von…   &   I need a copy of…   &      &      &    \\ 
-Dokumente   &   Documents   &      &      &    \\ 
-Stellungnahme   &   Statement   &      &      &    \\ 
-Untersuchungsergebnisse/Urteilsentscheidung   &   Findings   &      &      &    \\ 
-Geburtsurkunde   &   Birth certificate   &      &      &    \\ 
-Pass   &   Passport   &      &      &    \\ 
-Personalausweis   &   Identity card   &      &      &    \\ 
-Vorstrafenregister   &   Criminal records   &      &      &    \\ 
-Unterschrift   &   Signature   &      &      &    \\ 
-(Beglaubigte) Kopie   &   (Authorised) copy   &      &      &    \\ 
-Meine Familie kann mir die notwendigen Dokumente schicken, aber ich benötige eine Adresse.   &   My family back home can send me the necessary documents. But I need an address.   &      &      &    \\ 
-Identität   &   IDENTITY   &      &      &    \\ 
-Vorname   &   First name   &      &      &    \\ 
-Nachname   &   Surname   &      &      &    \\ 
-Adresse   &   Address   &      &      &    \\ 
-Telefonnummer   &   Phone number   &      &      &    \\ 
-Nationalität   &   Nationality   &      &      &    \\ 
-Ethnie   &   Ethnicity   &      &      &    \\ 
-Alter   &   Age   &      &      &    \\ 
-Geburtsdatum   &   Date of birth   &      &      &    \\ 
-Familienstand   &   Marital status   &      &      &    \\ 
-alleinstehend/verheiratet/verheiratet mit Kindern/Witwe(r   &   Single/ married/ married with children/ widow-er   &      &      &    \\ 
-Ich wohne bei…   &   I live at/ am staying at..   &      &      &    \\ 
-Wie finde ich…   &   How do I find a…   &      &      &    \\ 
-Unterkunft   &   Shelter   &      &      &    \\ 
-Haus   &   House   &      &      &    \\ 
-Büro   &   Office   &      &      &    \\ 
-   &   Processing camp   &      &      &    \\ 
-Auf der Strasse   &   On the street   &      &      &    \\ 
-Absatz   &   Section   &      &      &    \\ 
-Verordnung/Richtlinie   &   Directive   &      &      &    \\ 
-legale/illegale Aktivitäten   &   Legal/ illegal activity   &      &      &    \\ 
-politische Linie/Strategie   &   Policy   &      &      &    \\ 
-Asylbewerberleistungsgesetz   &   Asylum-Seekers Benefits Act   &      &      &    \\ 
-Asylverfahrensgesetz (AsylVfG)   &   Asylum Procedure Act   &      &      &    \\ 
-Genfer Flüchtlingskonvention   &   Geneva Convention on Refugees   &      &      &    \\ 
-Rückführungsabkommen (zwischen 2 Staaten)   &   Re-admission agreement (between two countries)   &      &      &    \\ 
-JOBSUCHE   &   LOOKING FOR A JOB   &      &      &    \\ 
-Ich suche Arbeit. Was muss ich tun?   &   I want to look for a job. What do I have to do?   &      &      &    \\ 
-Brauche ich eine Genehmigung/Erlaubnis.   &   Do I need a permit?   &      &      &    \\ 
-Wieviel werde ich verdienen?   &   How much will I earn?   &      &      &    \\ 
-Bin ich versichert?   &   Will I have insurance?   &      &      &    \\ 
-Was für eine Arbeit ist das?   &   What kind of work is it?   &      &      &    \\ 
-Recht zu arbeiten   &   Right to work   &      &      &    \\ 
-Arbeitserlaubnis   &   Work permit   &      &      &    \\ 
-Einkommen   &   Income/ wages   &      &      &    \\ 
-Arbeitsvertrag   &   Work contract   &      &      &    \\ 
-Arbeitsstunden   &   Working hours   &      &      &    \\ 
-Freie Stelle   &   Vacancy   &      &      &    \\ 
-Bewerbung   &   Application   &      &      &    \\ 
-Steuer   &   Tax   &      &      &    \\ 
-Steuernummer   &   Tax number   &      &      &    \\ 
-Steuerbehörde   &   Tax office   &      &      &    \\ 
-Arbeitgeber   &   Employer   &      &      &    \\ 
-Arbeitnehmer   &   Employee   &      &      &    \\ 
-Arbeitsagentur   &   Employment agency   &      &      &    \\ 
-Sozialversicherungskosten   &   Social insurance payments   &      &      &    \\ 
-Vertrag   &   Contract   &      &      &    \\ 
-Gewerkschaft   &   Labour union   &      &      &    \\ 
-Mitgliedschaftsbeitrag   &   Membership fees   &      &      &    \\ 
-Sozialhilfe   &   Welfare   &      &      &    \\ 
-Arbeitslosengeld   &   Unemployment benefits   &      &      &    \\ 
-(Keine) Einschränkung   &   (No) restriction   &      &      &    \\ 
-Schwarzarbeit   &   Illicit (black) work   &      &      &    \\ 
-Lebenslauf/CV   &   Resume/ CV   &      &      &    \\ 
-Teilzeit arbeit   &   Part-time job   &      &      &    \\ 
-Volltagsbeschäftigung   &   Full-time job   &      &      &    \\ 
+Anerkennung (als Flüchtling)   &   grant of refugee status   &   octroi du statut de réfugié   &    \\ 
+Asyl Anhörungstermin   &   asylum interview (main interview for the asylum claim)   &   L'audition (audition principale dans le cadre de la demande d'asile)   &    \\ 
+Antrag stellen   &   to apply / to file an application   &   faire une demande   &    \\ 
+Asylantrag   &   asylum application   &   la demande d'asile   &    \\ 
+Asylverfahren   &   asylum proceedings   &   la procédure d'asile   &    \\ 
+Aufenthalt   &   stay (residence)   &   le séjour   &    \\ 
+Aufenthaltsgenehmigung   &   residence permit   &   le titre de séjour   &    \\ 
+Auffanglager    &   reception camp   &   centre d'accueil de demandeurs d'asile   &    \\ 
+Ausweisung   &   deportation   &   l'expulsion   &    \\ 
+Beweis   &   evidence/proof   &   la preuve   &    \\ 
+Botschaft   &   embassy   &   l'ambassade   &    \\ 
+Durchgangszentrum, Notaufnahmelager   &   transit camp   &   centre d'accueil temporaire   &    \\ 
+mündliche Verhandlung   &   oral hearing/proceedings   &   entretien oral   &    \\ 
+Grenzübergang   &   border crossing // crossing point   &   point de passage frontalier   &    \\ 
+Grenzübertrittsbescheinigung   &   border crossing certificate   &   un certificat de passage frontière   &    \\ 
+Kirchenasyl   &   church asylum   &   asile dans une église   &    \\ 
+Kontingentflüchtling   &   quota refugee   &   quota de réfugiés   &    \\ 
+offensichtlich unbegründet   &   clearly unjustified   &   (Demande d'asile) manifestement infondée   &    \\ 
+Rechtsanwalt   &   lawyer // attorney   &   l'avocat   &    \\ 
+Reisedokumente   &   travel documents   &   documents de voyage   &    \\ 
+Reisepass   &   passport    &   le passeport   &    \\ 
+Religionszugehörigkeit   &   religion   &   l'appartenance religieuse   &    \\ 
+Rekurs (Austria) Rechtsbehelf (Ger)   &   appeal   &   l'appel // le pourvoi   &    \\ 
+Rechtsbehelfsbelehrung   &   instructions on the right to appeal   &   l'indication des voies de recours   &    \\ 
+Richter   &   judge   &   le juge   &    \\ 
+Rückübernahmeabkommen   &   re-admission agreement (between two countries)   &   l'accord de réadmission   &    \\ 
+subsidiärer Schutz nach EU Recht   &   subsidiary protection under EU law   &   la protection subsidiaire selon le droit de l'UE   &    \\ 
+Übersetzung   &   Translation    &   la traduction   &    \\ 
+Verhaftung   &   arrest/detention   &   l'arrestation   &    \\ 
+Visum   &   visa    &   le visa   &    \\ 
+Visaablehnung   &   refusal of visa application   &   refus de visa   &    \\ 
+Wiedererwägung   &   reconsideration   &   la reconsidération   &    \\ 
+Pflichtverteidiger   &   assigned counsel/duty counsel   &   l'avocat (commis) d'office   &    \\ 
+Verteidiger   &   counsel for defence   &   le défenseur   &    \\ 
+Freispruch   &   acquittal   &   l'acquitement   &    \\ 
+Enthaltung   &   abstention   &   l'abstention   &    \\ 
+von etwas absehen / auf etwas verzichten   &   to abstain from    &   s'abstenir de / renoncer   &    \\ 
+Amtsmissbrauch   &   abuse of office/abuse of authority   &   l'abus d'autorité   &    \\ 
+Etwas einwilligen   &   to agree to/to consent to   &   accepter [une demande] / accéder à [une demande]   &    \\ 
+Zugang zu Wohnraum   &   access to housing   &   l'accès au logement   &    \\ 
+Zugang zur Justiz   &   access to the judiciary   &   l'accès à la justice   &    \\ 
+Genehmigung   &   permission    &   l'autorisation   &    \\ 
+Zugangsberechtigung   &   access authorisation   &   le droit d'accès   &    \\ 
+Einspruch   &   appeal   &   la réclamation   &    \\ 
+Klage   &   complaint   &   la plainte   &    \\ 
+Das Verfahren   &   proceedings   &   la procédure   &    \\ 
+Beschleunigtes Verfahren   &   acceleration of proceedings   &   la procédure accélérée   &    \\ 
+(Ein Angebot) annehmen   &   to accept (an offer)   &   accepter   &    \\ 
+Aufnehmen   &   accommodate someone   &   accueillir   &    \\ 
+in Anspruch nehmen   &   to call on something / make use of something   &   recourir à   &    \\ 
+dauerhafte Betreuung   &   permanent assistance   &   l'assistance permanente   &    \\ 
+In Begleitung von   &   accompanied by   &   en compagnie de   &    \\ 
+Die Begleitung   &   company   &   la compagnie   &    \\ 
+Sexuelle Belästigung   &   sexual harassment   &   le harcèlement sexuel   &    \\ 
+Die Beglaubigung   &   certification   &   la certification / la légalisation   &    \\ 
+Die Nationalität und Identität beglaubigen   &   to certify nationality and identity   &   attester // certifier la nationalité et l'identité   &    \\ 
+Die Geburtsurkunde   &   birth certificate    &   l'acte de naissance   &    \\ 
+Beruf   &   profession   &   la profession   &    \\ 
+Illegale Handlungen   &   illegal activity   &   les activités illégales   &    \\ 
+Gerichtsverfahren   &   court proceedings   &   la procédure judiciaire   &    \\ 
+Deportation/Abschiebung   &   deportation   &   la déportation   &    \\ 
+Migration   &   migration   &   la migration   &    \\ 
+rechtmäßig   &   legal   &   légal(e)   &    \\ 
+rechtswidrig   &   Illegal   &   illégal(e)   &    \\ 
+Anschuldigung   &   accusation   &   l'accusation   &    \\ 
+Deutschland   &   Germany   &   Allemagne   &    \\ 
+Beide Parteien   &   both parties   &   les deux parties   &    \\ 
+Zugelassener geografischer Geltungsbereich   &   approved territorial scope of application   &   une zone géographique autorisée   &    \\ 
+bedrohen   &   to threaten   &   menacer   &    \\ 
+Strafregister/Vorstrafen   &   criminal records   &   le casier judiciaire   &    \\ 
+staatenlos   &   stateless   &   l'apatride   &    \\ 
+Berufungsverfahren   &   appeal proceedings   &   l'appel   &    \\ 
+Aufschiebung/Verlaengerung   &   postponement/extension   &   la prorogation   &    \\ 
+Verwurzelung   &   rootedness   &   prendre raçine   &    \\ 
+Verhaftung   &   arrest   &   l'arrestation   &    \\ 
+Artikel   &   article   &   l'article   &    \\ 
+Verfolgung   &   persecution   &   la persécution   &    \\ 
+Flüchtlingskonvention   &   the refugee convention / Geneva Convention   &   la Convention de 1951 relative au statut des réfugiés   &    \\ 
+Richtlinie / Anordnung   &   directive   &   la directive   &    \\ 
+besondere soziale Gruppe   &   particular social group   &   groupe social spécifique   &    \\ 
+Rasse, Ethnie   &   race, ethnic group   &   la race / l'éthnie   &    \\ 
+politische Meinung   &   political opinion   &   l'opinion politique   &    \\ 
+Abschiebung   &   deportation   &   la reconduite   &    \\ 
+Einspruch; Revision   &   appeal   &   le recours   &    \\ 
+Furcht; Angst   &   fear   &   la peur   &    \\ 
+begründet; stichhaltig   &   well-founded   &   fondé   &    \\ 
+wegen ...   &   on account of   &   en raison de   &    \\ 
+sexuelle Orientierung   &   sexual orientation   &   l'orientation sexuelle   &    \\ 
+soziales Geschlecht; Gender   &   gender   &   le genre   &    \\ 
+Frau   &   woman   &   la femme   &    \\ 
+Kriegsverbrechen   &   war crimes   &   le crime de guerre   &    \\ 
+Verbrechen gegen die Menschlichkeit   &   crimes against humanity   &   le crime contre l'humanité   &    \\ 
+Genozid   &   genocide   &   le génocide   &    \\ 
+Gewalt   &   violence   &   la violence   &    \\ 
+Mann   &   man    &   l'homme   &    \\ 
+Abschiebung; Zurückweisung   &   expulsion/refoulement   &   l'éloignement / le refoulement   &    \\ 
+Recht   &   right/law   &   le droit   &    \\ 
+Menschenrecht   &   human right   &   les droits de l'homme   &    \\ 
+Leben   &   life   &   la vie   &    \\ 
+Freiheit   &   freedom    &   la liberté   &    \\ 
+bedroht   &   threatened   &   menacé / en danger   &    \\ 
+Folter   &   torture   &   la torture   &    \\ 
+Gericht   &   court   &   le tribunal   &    \\ 
+Ich möchte einen Asylantrag stellen   &   I would like to apply for asylum   &   Je voudrais faire une demande d'asile.   &    \\ 
+Ich habe keinen Personalausweis   &   I don't have an identity/identification card   &   Je n'ai pas de document d'identité   &    \\ 
+Ich bin homosexuell/lesbisch/transgender/..   &   I am homosexual/lesbian/transgender   &   Je suis homosexuel/lesbienne/transgenre   &    \\ 
+Häusliche Gewalt   &   domestic violence   &   la violence domestique   &    \\ 
+ich wurde misshandelt von..   &   I was abused by...   &   J'ai été maltraité/battu par   &    \\ 
+ich werde misshandelt von...   &   I am being abused by...   &   Je suis maltraité par   &    \\ 
+ich wurde zwangsverheiratet   &   I was compelled to enter into a forced marriage   &   J'ai été obligé(e) de m'engager dans un mariage forcé   &    \\ 
+mir droht eine Zwangsverheiratung   &   I am facing / have been threatened with a forced marriage   &   Je suis sous la menace d'un mariage forcé   &    \\ 
+Gleichberechtigung zwischen Mann und Frau   &   gender equality   &   l'égalité des sexes   &    \\ 
+Wie kann ich Asyl beantragen?   &   How can I claim asylum?   &   Comment faire une demande d'asile?   &    \\ 
+Ich wurde in meinem Heimatland diskriminiert.   &   I was discriminated against in my home country.   &   J'ai été victime de discrimination dans mon pays d'origine   &    \\ 
+Ich wurde diskriminiert wegen meiner Hautfarbe.   &   I was discriminated against because of my skin colour.   &   J'ai été victime de discrimination en raison de ma couleur de peau   &    \\ 
+Ich wurde diskriminiert wegen meines Geschlechts.   &   I was discriminated against because of my gender.    &   J'ai été victime de discrimination en raison de mon sexe   &    \\ 
+Ich wurde diskriminiert wegen meiner Sprache.   &   I was discriminated against because of my language.   &   J'ai été victime de discrimination en raison de ma langue   &    \\ 
+Ich wurde diskriminiert wegen meiner Religion.   &   I was discriminated against because of my religion.    &   J'ai été victime de discrimination en raison de ma religion   &    \\ 
+Ich wurde diskriminiert wegen meiner Zugehörigkeit zu einer sozialen Gruppe.   &   I was discriminated against because of my membership in a social group.   &   J'ai été victime de discrimination en raison de mon appartenance à un groupe social   &    \\ 
+Ich wurde diskriminiert wegen meiner politischen Überzeugung.   &   I was discriminated against because of my political views.   &   J'ai été victime de discrimination en raison de mes opinions politiques   &    \\ 
+Ich wurde diskriminiert wegen meiner ethnischen oder sozialen Herkunft.   &   I was discriminated against because of my ethnic or social background.   &   J'ai été victime de discrimination en raison de mes origines ethniques ou sociales   &    \\ 
+Ich wurde diskriminiert wegen einer Behinderung.   &   I was discriminated against because I am disabled.   &   J'ai été victime de discrimination en raison de mon handicap   &    \\ 
+Ich wurde in meinem Heimatland gefoltert.   &   I was tortured in my home country.   &   J'ai été torturé dans mon pays d'origine   &    \\ 
+Ich möchte so schnell wie möglich meine Familie nachholen.   &   I want my family to join me here as quickly as possible.   &   Je veux que ma famille me rejoigne ici aussi vite que possible   &    \\ 
+Ich verfüge über eine abgeschlossene Berufsausbildung.   &   I have completed my vocational training.   &   J'ai terminé ma formation professionnelle.   &    \\ 
+Ich kann mir die notwendigen Papiere von meiner Familie schicken lassen. Dafür benötige ich allerdings eine Adresse.   &   My family back home can send me the necessary documents. But I need an address.   &   Ma famille restée là-bas peut m'envoyer les documents nécessaires. Mais j'ai besoin d'une adresse.   &    \\ 
+Ich habe früher schon einmal Asyl beantragt.   &   I have applied for asylum in the past.   &   J'ai déjà déposé une demande d'asile par le passé.   &    \\ 
+Ich habe bereits in einem anderen Land Asyl beantragt.   &   I have previously applied for asylum in another country.   &   J'ai déjà déposé une demande d'asile dans un autre pays.    &    \\ 
+Ich möchte eine Arbeit suchen. Was muss ich tun?   &   I want to look for a job. What do I have to do?   &   Je veux chercher du travail. Que dois-je faire pour cela?   &    \\ 
+Ich besitze ein Ehefähigkeitszeugnis.   &   I have a certificate of no impediment.   &   Je dispose d'un certificat de capacité matrimoniale   &    \\ 
+Ich bin über ein sicheres Drittland eingereist, habe mich dort aber nicht der Identitätsprüfung unterzogen.   &   I came here via a safe third country but I did not have my identity checked there.   &   Je suis arrivé ici en passant par un pays tiers sécurisé mais je n'y ai pas été soumis à un contrôle d'identité.   &    \\ 
+Aufenthaltsgestattung   &   temporary residence permit   &   Carte de séjour temporaire     &    \\ 
+Wann/wo kann ich eine Arbeitserlaubnis beantragen?   &   When/where can I apply for a work permit?   &   Quand/Où puis-je déposer une demande de permis de travail?   &    \\ 
+Wo kann ich Kopien meiner Papiere anfertigen?   &   Where can I make copies of my documents?   &   Où puis-je faire des copies de mes documents?   &    \\ 
+Ich habe Familienangehörige in Deutschland.   &   I have family living in Germany.   &   J'ai de la famille qui vit en Allemagne   &    \\ 
+Ich habe Familienangehörige auf der Flucht verloren.   &   I lost family members during the escape.   &   J'ai perdu des membres de ma famille pendant la fuite.   &    \\ 
+Ich möchte die Botschaft/das Konsulat meines Landes (nicht) kontaktieren.   &   I (do not) want to contact the embassy/consulat of my country.   &   Je (ne) veux (pas) contacter l'ambassade de mon pays.    &    \\ 
+Ich bin (nicht) über ein sicheres Drittland hierher gekommen.   &   I came (I did not come) here via a safe third country.   &   Je suis arrivé (je ne suis pas arrivé) ici en passant par un pays tiers sécurisé.   &    \\ 
+Ich bin traumatisiert.   &   I am traumatized   &   Je suis traumatisé(e)   &    \\ 
+Ich brauche eine Psychotherapie.   &   I need psychotherapy.   &   J'ai besoin d'une psychothérapie   &    \\ 
+Genitalbeschneidung bei Frauen   &   female genital mutilation   &   l'excision   &    \\ 
+Opfer von Menschenhandel   &   victim of human trafficking   &   je suis victime d'une traite des êtres humains   &    \\ 
+Apostille   &   Apostille   &   l'apostille   &    \\ 
+Übersetzung   &   Translation   &   la traduction   &    \\ 
+Vermittler   &   intermediary/mediator/negotiator   &   l'intermédiaire   &    \\ 
+Anerkennung von Dokumenten   &   recognition of documents   &   la reconnaissance de documents   &    \\ 
+Übersetzung von Dokumenten   &   translation of documents   &   la traduction de documents   &    \\ 
+Ratifizierung   &   ratification   &   la ratification   &    \\ 
+   &      &      &    \\ 
+   &      &      &    \\ 
+   &      &      &    \\ 
+   &      &      &    \\ 
+   &      &      &    \\ 
+Botschaft   &   Embassy   &   l'embassade   &    \\ 
+   &      &      &    \\ 
+   &      &      &    \\ 
+   &      &      &    \\ 
+   &      &      &    \\ 
+   &      &      &    \\ 
+   &      &      &    \\ 
+   &      &      &    \\ 
+   &      &      &    \\ 
+Ich wurde diskriminiert wegen meiner sexuellen Orientierung.   &   I was discriminated against because of my sexual orientation.   &   J'ai été victime de discrimination en raison de mes préférences sexuelles   &    \\ 
+   &      &      &    \\ 
+UNTERSTÜTZUNG FINDEN    &   FINDING SUPPORT   &   Trouver de l'aide   &    \\ 
+Ich möchte Zugang haben zu...   &   I would like to have access to…   &   J'aimerais avoir accès à...   &    \\ 
+Ich möchte (meine/n)…sehen   &   I would like to see (my)…   &   J'aimerais voir (mon/ma)...   &    \\ 
+Ich möchte mit….sprechen   &   I would like to speak with…   &   J'aimerais parler à...   &    \\ 
+Ich habe einen (keinen)…   &   I (do not) have a…   &   J'ai un.../Je n'ai pas de ...   &    \\ 
+Mein…hat mir das (nicht) mitgeteilt   &   My ….. (did not) tell me this   &   Mon/ma...ne pas pas dit cela.   &    \\ 
+…hat mir/wird mir die Informationen geben   &   … gave me/ will give me the information   &   ...m'a donné/me donnera l'information.   &    \\ 
+Bitte sprechen Sie mit meiner/meinem…   &   Please speak to my…   &   Parlez s'il vous plaît avec mon/ma....   &    \\ 
+Behörden   &   Authorities   &   les autorités   &    \\ 
+Anwalt(in)   &   Lawyer   &   l'avocat(e)   &    \\ 
+zugewiesener Anwalt/Pflichtverteidiger   &   Assigned lawyer/ duty counsel   &   l'avocat commis d'office   &    \\ 
+Ratgeber   &   Counselor   &   le conseiller   &    \\ 
+Arzt   &   Doctor   &   le docteur   &    \\ 
+Asylsachbearbeiter   &   Asylum case officer   &   la personne en charge de mon dossier d'asile   &    \\ 
+Helfer   &   Support person   &   un aide   &    \\ 
+Botschafter/Konsul   &   Ambassador/ Consul   &   l'ambassadeur/le consul   &    \\ 
+Das Bundesamt für Migration und Flüchtlinge (BAMF)   &   Federal Office for Migration and Refugees (BAMF)   &   l'office fédéral des migrations et des réfugiés   &    \\ 
+Ausländerbehörde   &   Immigration authorities   &   la police des étrangers/le contrôle de l'habitant   &    \\ 
+ASYL BEANTRAGEN   &   SEEKING ASYLUM   &   Demander l'asile   &    \\ 
+Ich möchte...beantragen   &   I want to file…   &   Je veux requérir...   &    \\ 
+Ich möchte...anfechten   &   I want to dispute…   &   Je veux attaquer...   &    \\ 
+Ich möchte...anfordern   &   I want to request…   &   Je veux demander...   &    \\ 
+Ich hatte/werde haben…   &   I had/ will have…   &   J'avais/je vais avoir...   &    \\ 
+Wann werde ich mein/meine…erhalten   &   When will I have my…?   &   Quand vais-je recevoir mon/ma...   &    \\ 
+Ich muss meinen Termin/Zeit für mein/meinen…verschieben   &   I need to move the date/ time of my…   &   Je dois repousser la date/l'heure de mon rendez-vous...   &    \\ 
+Asyl   &   Asylum   &   l'asile   &    \\ 
+Termin   &   Appointment   &   le rendez-vous   &    \\ 
+mündliche Befragung   &   Interview   &   l'entretien   &    \\ 
+Anhörung    &   (Court) hearing   &   l'audition   &    \\ 
+Beschwerde   &   Complaint   &   la plainte   &    \\ 
+Verfahren    &   Proceedings   &   la procédure   &    \\ 
+Stimmenthaltung   &   Abstention   &   l'abstention   &    \\ 
+erneute Prüfung    &   Reconsideration   &   la révision / la reconsidération   &    \\ 
+Entscheidung    &   Decision/Verdict   &   la décision   &    \\ 
+Haft   &   Arrest   &   les arrêts   &    \\ 
+verboten/Verbot    &   Prohibited/ prohibition   &   interdit / l'interdiction   &    \\ 
+Ich möchte Asyl beantragen.   &   I would like to apply for asylum.   &   je veux demander l'asile   &    \\ 
+Ich stimme dem zu.   &   I agree/ consent to this.   &   je suis d'accord   &    \\ 
+Ich stimme dem nicht zu.   &   I do not agree/ do not consent to this   &   je ne suis pas d'accord   &    \\ 
+Ich war (kein) Opfer von…   &   I was (not) a victim of…   &   je (ne) suis (pas) une victime de...   &    \\ 
+Ich habe (nicht) erlebt…   &   I (have not) experienced…   &   je n'ai pas subit...   &    \\ 
+Ich bin in Gefahr/nicht in Gefahr von…   &   I am at risk / I am not at risk of…   &   je (ne) suis (pas) en danger de...   &    \\ 
+Ich wurde bedroht mit…   &   I was threatened with…   &   j'ai été menacé de....   &    \\ 
+Mein….war/ist….   &   My … was/ is…   &   mon(ma) ....est/était...   &    \\ 
+Bruder/Schwester   &   Brother/ sister   &   le frère, la soeur   &    \\ 
+Ehefrau/Ehemann   &   Wife/ husband   &   l'épouse, le mari   &    \\ 
+Mutter/Vater   &   Mother/ father   &   le père, la mère   &    \\ 
+Tochter/Sohn/Kinder   &   Daughter/ son/ children   &   le fils, la fille, les enfants   &    \\ 
+Grossvater/Grossmutter   &   Grandfather/ grandmother   &   le grand-père, la grand-mère   &    \\ 
+Cousin/Neffe/Nichte   &   Cousins/ nephew/ niece   &   le cousin, la cousine, le neveu, la nièce   &    \\ 
+Familienmitglieder   &   Family members   &   les membres de la famille   &    \\ 
+Mann/Frau   &   Man/ Woman   &   l'homme, la femme   &    \\ 
+Vergewaltigung   &   Rape   &   le viol   &    \\ 
+Diskriminierung   &   Discrimination   &   la discrimination   &    \\ 
+Zwangsheirat   &   Forced marriage   &   le mariage forcé   &    \\ 
+Verschleppung/Entführung   &   Abduction   &   l'enlèvement   &    \\ 
+Erpressung   &   Extortion   &   le chantage   &    \\ 
+Beschlagnahme   &   Confiscation   &   la confiscation   &    \\ 
+Diebstahl   &   Theft   &   le vol   &    \\ 
+Gewahrsam/Haft   &   Detention/ arrest   &   la détention, les arrêts   &    \\ 
+Sexuelle Belästigung   &   Sexual harrassment   &   le harcèlement sexuel   &    \\ 
+Genitale Beschneidung   &   Genital mutilation   &   la mutilation génitale   &    \\ 
+Mord   &   Murder   &   le meurtre   &    \\ 
+(erzwungener) Wehrdienst   &   (Forced) conscription   &   la conscription forcée   &    \\ 
+Verweigerung gerichtlichen Schutzes   &   Denial of judicial protection   &   le déni de justice   &    \\ 
+Unrechtmässiges Fernbleiben/Unrechtmässige Abwesenheit   &   Unlawful absence   &   l'absence injustifiée   &    \\ 
+Unrechtmässige Ausreise   &   Unlawful departure   &   le départ illégal   &    \\ 
+Drohungen   &   Threats   &   les menaces   &    \\ 
+Sprache   &   Language   &   la langue   &    \\ 
+politische Ansichten   &   Political views   &   les opinions politiques   &    \\ 
+Mitgliedschaft in einer sozialen Gruppe   &   Membership in a social group   &   la qualité de membre d'un groupe social   &    \\ 
+Geschlecht   &   Gender   &   le genre   &    \\ 
+Ethnischer/sozialer Hintergrund   &   Ethnic/ social background   &   l'arrière plan ethnique/social   &    \\ 
+Hautfarbe   &   Skin colour   &   la couleur de peau   &    \\ 
+Behinderung   &   Disability   &   le handicap   &    \\ 
+Kämpfen   &   Fighting   &   la lutte, le combat   &    \\ 
+Bombardieren   &   Bombing   &   le bombardement   &    \\ 
+Flucht   &   Escape/ flight   &   la fuite   &    \\ 
+Evakuierung   &   Evacuaton   &   l'évacuation   &    \\ 
+Sicherheit   &   Safety   &   la sécurité   &    \\ 
+Gefahr   &   Danger   &   le danger   &    \\ 
+Ich bin (nicht) hierher gekommen   &   I came (did not come) here…   &   je (ne) suis (pas) venu   &    \\ 
+über Land/Wasser/Luftweg   &   By land/ by sea/ by air   &   par voie terrestre,par mer, par air   &    \\ 
+über ein sicheres Drittland   &   Via a third safe country   &   par une pays tiers sûr   &    \\ 
+Ich wurde misshandelt von... /Mir wurde geholfen von...   &   I was abused/ helped by the…   &   j'ai été maltraité/aidé par...   &    \\ 
+Militär   &   Military   &   militaire   &    \\ 
+Paramilitäre Gruppen   &   Paramilitary groups   &   les groupes paramilitaires   &    \\ 
+Rebellen   &   Rebels   &   les rebelles   &    \\ 
+Beamte   &   Public officials   &   les fonctionnaires   &    \\ 
+Grenzwächter   &   Border guards   &   les gardes-frontière   &    \\ 
+Flüchtlingscampmitarbeiter   &   Refugee camp stuff   &   les employés du camp    &    \\ 
+Nichtregierungsorganisation   &   NGOs   &   l'organisation non-gouvernementale   &    \\ 
+religiöse Führer   &   Religious leaders   &   les chefs religieux   &    \\ 
+Menschen   &   People   &   les gens   &    \\ 
+Ich möchte, dass meine Familie so schnell wie möglich nachkommt.   &   I want my family to join me here as quickly as possible.   &   j'aimerais que ma famille me rejoigne le plus vite possible   &    \\ 
+   &   ASYLUM SEEKING PROCESS   &   La procédure de demande d'asile   &    \\ 
+Schuldspruch (m.)   &   Guilty verdict   &   le jugement de culpabilité   &    \\ 
+Stattgeben/Annehmen   &   Accepted   &   donner suite/ accepter   &    \\ 
+Abgelehnt   &   Rejected/ Declined   &   rejeter   &    \\ 
+Ablehnung des Visaantrages   &   Refusal of visa application   &   le rejet de la demande de visa   &    \\ 
+Ablehnungsmitteilung   &   Rejection notice   &   la décision de rejet   &    \\ 
+Abschiebungsmitteilung/Anordnung   &   Deportation notice/ order   &   l'ordre de déportation   &    \\ 
+Verschiebung/Verlängerung   &   Postponement/ extension   &   la prorogation   &    \\ 
+Im Zweifel für den Angeklagten;günstige Auslegung zweifelhafter Umstände   &   Benefit of doubt   &   le bénéfice du doute   &    \\ 
+Beweislast   &   Burden of proof   &   le fardeau de la preuve   &    \\ 
+Glaubhaftigkeit   &   Credibility   &   la vraisemblance   &    \\ 
+   &   Initial asylum application   &   la requête d'asile initiale   &    \\ 
+Flüchtlingsstatus   &   Refugee status   &   le status de réfugié   &    \\ 
+Einreiseverbot   &   Denial of entry   &   l'interdiction d'entrée   &    \\ 
+Refoulment (Verbot der Ausweisung)   &   Refoulment (deportation ban)   &   le refoulement (l'interdiction de refoulement)   &    \\ 
+Widerruf/Rücknahme   &   Revocation and withdrawl   &   la révocation, le retrait   &    \\ 
+Sicheres Drittland   &   Safe third country   &   le pays tiers sûr   &    \\ 
+Sicheres Heimatland   &   Safe country of origin   &   le pays d'origine sûr   &    \\ 
+Verpflichtungserklärung   &   Undertaking of material support   &   la déclaration de prise en charge   &    \\ 
+Aufenthaltserlaubnis   &   Residence permit   &   le permis de séjour/ de résidence   &    \\ 
+Duldung   &   Temporary suspension of deportation status   &   l'admission provisoire   &    \\ 
+Rückkehrförderung   &   Repatriation support   &   l'aide au retour   &    \\ 
+Finanzielle Notfallunterstützung   &   Emergency financial support   &   l'aide d'urgence   &    \\ 
+Sozialleistungen   &   Social benefits   &   l'aide sociale   &    \\ 
+UMGANG MIT DOKUMENTEN   &   DEALING WITH DOCUMENTS   &   Les documents   &    \\ 
+Ich habe mein/meine…nicht   &   I do (not) have my….   &   j'ai/je n'ai pas mon...   &    \\ 
+Mein/meine…sind verlorengegangen/gestohlen/vernichtet   &   My … were lost/ stolen/ destroyed.   &   mon/mes ...ont été perdu(s)/volé(s)/détruit(s)   &    \\ 
+Ich brauche eine Kopie von…   &   I need a copy of…   &   j'ai besoin d'une copie de...   &    \\ 
+Dokumente   &   Documents   &   les documents   &    \\ 
+Stellungnahme   &   Statement   &   la prise de position   &    \\ 
+Untersuchungsergebnisse/Urteilsentscheidung   &   Findings   &   le résultat de l'enquête   &    \\ 
+Geburtsurkunde   &   Birth certificate   &   le certificat de naissance   &    \\ 
+Pass   &   Passport   &   le passeport   &    \\ 
+Personalausweis   &   Identity card   &   la carte d'identité   &    \\ 
+Vorstrafenregister   &   Criminal records   &   le casier judicaire   &    \\ 
+Unterschrift   &   Signature   &   la signature   &    \\ 
+(Beglaubigte) Kopie   &   (Authorised) copy   &   la copie (certifiée conforme)   &    \\ 
+Meine Familie kann mir die notwendigen Dokumente schicken, aber ich benötige eine Adresse.   &   My family back home can send me the necessary documents. But I need an address.   &      &    \\ 
+Identität   &   IDENTITY   &   Identité   &    \\ 
+Vorname   &   First name   &   le prénom   &    \\ 
+Nachname   &   Surname   &   le nom (de famille)   &    \\ 
+Adresse   &   Address   &   l'adresse   &    \\ 
+Telefonnummer   &   Phone number   &   le numéro de téléphone   &    \\ 
+Nationalität   &   Nationality   &   la nationalité   &    \\ 
+Ethnie   &   Ethnicity   &   l'ethnie   &    \\ 
+Alter   &   Age   &   l''âge   &    \\ 
+Geburtsdatum   &   Date of birth   &   la date de naissance   &    \\ 
+Familienstand   &   Marital status   &   l'état civil   &    \\ 
+alleinstehend/verheiratet/verheiratet mit Kindern/Witwe(r   &   Single/ married/ married with children/ widow-er   &   célibataire/marié/marié avec enfants/veuf (veuve)   &    \\ 
+Ich wohne bei…   &   I live at/ am staying at..   &   j'habite chez..   &    \\ 
+Wie finde ich…   &   How do I find a…   &   comment puis-je trouver..   &    \\ 
+Unterkunft   &   Shelter   &   l'abri   &    \\ 
+Haus   &   House   &   la maison   &    \\ 
+Büro   &   Office   &   le bureau   &    \\ 
+   &   Processing camp   &   le centre de traitement   &    \\ 
+Auf der Strasse   &   On the street   &   dans la rue   &    \\ 
+Absatz   &   Section   &   la section   &    \\ 
+Verordnung/Richtlinie   &   Directive   &   la directive   &    \\ 
+legale/illegale Aktivitäten   &   Legal/ illegal activity   &   l'activité légale/illégale   &    \\ 
+politische Linie/Strategie   &   Policy   &   la ligne politique, la statégie   &    \\ 
+Asylbewerberleistungsgesetz   &   Asylum-Seekers Benefits Act   &   la loi sur l'assistance aux réfugiés   &    \\ 
+Asylverfahrensgesetz (AsylVfG)   &   Asylum Procedure Act   &   la loi sur l'asile   &    \\ 
+Genfer Flüchtlingskonvention   &   Geneva Convention on Refugees   &   la convention de Genève sur les refugiés   &    \\ 
+Rückführungsabkommen (zwischen 2 Staaten)   &   Re-admission agreement (between two countries)   &   l'accord de réadmission (entre 2 pays)   &    \\ 
+JOBSUCHE   &   LOOKING FOR A JOB   &   A la recherche d'un emploi   &    \\ 
+Ich suche Arbeit. Was muss ich tun?   &   I want to look for a job. What do I have to do?   &   Je cherche du travail Que dois-je faire   &    \\ 
+Brauche ich eine Genehmigung/Erlaubnis.   &   Do I need a permit?   &   AIs-je besoin d'un permis?   &    \\ 
+Wieviel werde ich verdienen?   &   How much will I earn?   &   Combien vais-je gagner?   &    \\ 
+Bin ich versichert?   &   Will I have insurance?   &   je serai assuré?   &    \\ 
+Was für eine Arbeit ist das?   &   What kind of work is it?   &   de quel genre de travail s'agit-il?   &    \\ 
+Recht zu arbeiten   &   Right to work   &   le droit de travailler   &    \\ 
+Arbeitserlaubnis   &   Work permit   &   le permis de travail   &    \\ 
+Einkommen   &   Income/ wages   &   le revenu, le salaire   &    \\ 
+Arbeitsvertrag   &   Work contract   &   le contrat de travail   &    \\ 
+Arbeitsstunden   &   Working hours   &   le heures de travail   &    \\ 
+Freie Stelle   &   Vacancy   &   le poste disponible   &    \\ 
+Bewerbung   &   Application   &   la candidature   &    \\ 
+Steuer   &   Tax   &   les impôts   &    \\ 
+Steuernummer   &   Tax number   &   le numéro fiscal   &    \\ 
+Steuerbehörde   &   Tax office   &   l'administration fiscale   &    \\ 
+Arbeitgeber   &   Employer   &   l'employeur   &    \\ 
+Arbeitnehmer   &   Employee   &   l'employé   &    \\ 
+Arbeitsagentur   &   Employment agency   &   l'agence pour l'emploi   &    \\ 
+Sozialversicherungskosten   &   Social insurance payments   &   les primes d'assurances sociales   &    \\ 
+Vertrag   &   Contract   &   le contrat   &    \\ 
+Gewerkschaft   &   Labour union   &   le syndicat   &    \\ 
+Mitgliedschaftsbeitrag   &   Membership fees   &   la cotisation   &    \\ 
+Sozialhilfe   &   Welfare   &   l'aide sociale   &    \\ 
+Arbeitslosengeld   &   Unemployment benefits   &   l'assurance chômage   &    \\ 
+(Keine) Einschränkung   &   (No) restriction   &   (pas de) restrictions   &    \\ 
+Schwarzarbeit   &   Illicit (black) work   &   le travail au noir   &    \\ 
+Lebenslauf/CV   &   Resume/ CV   &   le curriculum vitae   &    \\ 
+Teilzeit arbeit   &   Part-time job   &   l'emploi à temps partiel   &    \\ 
+Volltagsbeschäftigung   &   Full-time job   &   l'emploi à plein temps   &    \\ 
