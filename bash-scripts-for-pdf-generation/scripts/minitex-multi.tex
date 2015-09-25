@@ -58,8 +58,10 @@
 %test headings 
 \usepackage{scrpage2} 
 \pagestyle{scrheadings} 
-\ifoot{pdf-version: {\today, \the\currenthour:\the\currentminute}  by bash-scripts-for-pdf-generation}
+\ohead{PDF-version: {\today, \the\currenthour:\the\currentminute}}
 \ofoot{http://www.refugeephrasebook.de}
+%\ifoot{created by bash-scripts-for-pdf-generation}
+\ifoot{dataset: \input ../download/tsv/multi.tsv.timestamp}
 %\usepackage{fancyhdr}
 %\pagestyle{fancy} 
 %\lfoot{PDF created \today, \the\currenthour:\the\currentminute}
