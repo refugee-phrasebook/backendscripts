@@ -7,12 +7,12 @@ rm ../download/tsv/medical.tsv
 rm ../download/tsv/multi.tsv
 rm ../download/tsv/short_1d21.tsv
 
-rm ../download/tsv/mpfr.tsv2
-rm ../download/tsv/jur.tsv2
-rm ../download/tsv/medical.tsv2
-rm ../download/tsv/multi.tsv2
-rm ../download/tsv/short_1d21.tsv2
 
+rm ../download/tsv/mpfr.tsv.timestamp
+rm ../download/tsv/jur.tsv.timestamp
+rm ../download/tsv/medical.tsv.timestamp
+rm ../download/tsv/multi.tsv.timestamp
+rm ../download/tsv/short_1d21.tsv.timestamp
 
 
 echo "clean up temp"
