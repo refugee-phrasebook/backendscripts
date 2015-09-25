@@ -4,20 +4,20 @@
 
 echo "cut empty lines and leave the tail ..."
 
-sed '/^[[:space:]]*$/d' ../download/tsv/jur.tsv      	> ../download/tsv/jur.tsv2 
-sed '/^[[:space:]]*$/d' ../download/tsv/medical.tsv 	> ../download/tsv/medical.tsv2
-sed '/^[[:space:]]*$/d' ../download/tsv/mpfr.tsv 	> ../download/tsv/mpfr.tsv2
-sed '/^[[:space:]]*$/d' ../download/tsv/multi.tsv	> ../download/tsv/multi.tsv2
-sed '/^[[:space:]]*$/d' ../download/tsv/short_1d21.tsv	> ../download/tsv/short_1d21.tsv2
+sed '/^[[:space:]]*$/d' ../download/tsv/jur.tsv      	> ../temp/jur.tsv2 
+sed '/^[[:space:]]*$/d' ../download/tsv/medical.tsv 	> ../temp/medical.tsv2
+sed '/^[[:space:]]*$/d' ../download/tsv/mpfr.tsv 	> ../temp/mpfr.tsv2
+sed '/^[[:space:]]*$/d' ../download/tsv/multi.tsv	> ../temp/multi.tsv2
+sed '/^[[:space:]]*$/d' ../download/tsv/short_1d21.tsv	> ../temp/short_1d21.tsv2
 
 # striptease
 
-tail -n +2 ../download/tsv/jur.tsv2      > ../temp/jur.tail
-tail -n +3 ../download/tsv/medical.tsv2  > ../temp/medical.tail
-tail -n +2 ../download/tsv/mpfr.tsv2     > ../temp/mpfr.tail
-tail -n +2 ../download/tsv/multi.tsv2    > ../temp/multi.tail
-tail -n +1 ../download/tsv/short_1d21.tsv2 > ../temp/short_1d21.tail
-#tail -n +3 ../download/tsv/short_1d21.tsv2 > ../temp/short_1ipk.tail
+tail -n +2 ../temp/jur.tsv2      > ../temp/jur.tail
+tail -n +3 ../temp/medical.tsv2  > ../temp/medical.tail
+tail -n +2 ../temp/mpfr.tsv2     > ../temp/mpfr.tail
+tail -n +2 ../temp/multi.tsv2    > ../temp/multi.tail
+tail -n +1 ../temp/short_1d21.tsv2 > ../temp/short_1d21.tail
+#tail -n +3 ../temp/short_1d21.tsv2 > ../temp/short_1ipk.tail
 
 echo "cut the headings"
 head -1 ../temp/jur.tail      > ../temp/jur.headings
