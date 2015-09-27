@@ -16,8 +16,10 @@ TeX Shop Live 2015 - For mac use this one: https://tug.org/mactex/
 # grab a snapshot of rpb-data
 if you need the data from the multiple rpb you can either download on your own using webbrowsers
 
+
 you can download a snapshot contained in ../download/tsv/ as tab seperated
-a few columns extracted ind ../temp
+
+a few columns extracted in ../temp
 
 or you use these scripts to download the actual and up-to-date files 
 
