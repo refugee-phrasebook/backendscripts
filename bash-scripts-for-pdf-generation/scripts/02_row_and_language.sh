@@ -1,7 +1,7 @@
 #!/bin/sh
 
 echo "this is the juridical"
-head -3 ../download/tsv/jur.tsv  |tail -1  |tr -s '\t' '\n'|nl -b a
+head -2 ../download/tsv/jur.tsv  |tail -1  |tr -s '\t' '\n'|nl -b a
 
 echo "this is the short 1d21"
 head -1 ../download/tsv/short_1d21.tsv  |tail -1  |tr -s '\t' '\n'|nl -b a
