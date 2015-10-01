@@ -20,3 +20,6 @@ head -2 ../download/tsv/multi.tsv  |tail -1  |tr -s '\t' '\n'|nl -b a
 echo "row 11???"
 
 echo "keep it as a reference as you will need it for selecting rows"
+
+echo "BETA this is a quickfix short 1pwmnm"
+sed '1q' ../download/tsv/short_1pwmnm.tsv |tr -s '\t' '\n'|nl -b a
