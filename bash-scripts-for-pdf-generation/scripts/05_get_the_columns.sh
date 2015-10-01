@@ -21,8 +21,8 @@ cat ../temp/mpfr.data           |cut -f 1      > ../temp/mpfr.h.column
 cat ../temp/medical.data 	|cut -f 1,3,5   	> ../temp/medical.d.column
 cat ../temp/medical.headings 	|cut -f 1,3,5	 	> ../temp/medical.h.column
 
-cat ../temp/multi.data 		|cut -f 2,6,7,10,11 	> ../temp/multi.d.column
-cat ../temp/multi.headings 	|cut -f 2,6,7,10,11 	> ../temp/multi.h.column
+cat ../temp/multi.data 		|cut -f 2,4,6,7,10 	> ../temp/multi.d.column
+cat ../temp/multi.headings 	|cut -f 2,4,6,7,10 	> ../temp/multi.h.column
 
 cat ../temp/short_1d21.data 	|cut -f 1,2,3,5,8,18   	> ../temp/short_1d21.d.column
 cat ../temp/short_1d21.headings |cut -f 1,2,3,5,8,18 	> ../temp/short_1d21.h.column
