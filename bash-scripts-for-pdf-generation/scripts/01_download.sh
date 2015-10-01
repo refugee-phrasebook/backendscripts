@@ -44,3 +44,10 @@ wget  --tries=1 -q \
 "https://docs.google.com/spreadsheets/d/1D7jo-tAyQkmfYvVyT27nZ93ZkyFcZg2vEvf4OMbXJ_c/export?format=tsv&gid=0" \
 -O ../download/tsv/jur.tsv
 stat -f "%Sm" ../download/tsv/jur.tsv > ../download/tsv/jur.tsv.timestamp
+
+
+# temporary fix with iso-639-3-codes
+wget  --tries=1 -q \
+"https://docs.google.com/spreadsheets/d/1PwMnm52TUlz0TfpQc9jXIgm-kPfJf_iTymzw4yj4lZ0/export?format=tsv&gid=0" \
+-O ../download/tsv/short_1pwmnm.tsv
+stat -f "%Sm" ../download/tsv/short_1pwmnm.tsv  > ../download/tsv/short_1pwmnm.tsv.timestamp
