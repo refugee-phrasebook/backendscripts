@@ -6,13 +6,15 @@
 mkdir -p ../download/tsv/
 mkdir -p ../temp/
 
+timestamp=`date +"%Y%m%d_%H:%M:%S"`
+echo $timestamp
 
 # confusing: what sources to use
 
 wget  --tries=1 -q \
 "https://docs.google.com/spreadsheets/d/1D21SK15oYTRrCWMEi8J6txiCWCYkuhEbkSqSCqGAQx4/export?format=tsv" \
 -O ../download/tsv/short_1d21.tsv
-stat -f "%Sm" ../download/tsv/short_1d21.tsv > ../download/tsv/short_1d21.tsv.timestamp
+echo $timestamp > ../download/tsv/short_1d21.tsv.timestamp
 
 
 # alternative - short
@@ -24,18 +26,18 @@ stat -f "%Sm" ../download/tsv/short_1d21.tsv > ../download/tsv/short_1d21.tsv.ti
 wget  --tries=1 -q \
 "https://docs.google.com/spreadsheets/d/1IpkETNzRzletRpLEeLUKAldB2j_O8UJVn1zM_sYg56Y/export?format=tsv" \
 -O ../download/tsv/multi.tsv
-stat -f "%Sm" ../download/tsv/multi.tsv > ../download/tsv/multi.tsv.timestamp
+echo $timestamp > ../download/tsv/multi.tsv.timestamp
 
 
 wget  --tries=1 -q \
 "https://docs.google.com/spreadsheets/d/1wjmRrkN9WVB4KIeKBy8wDDJ8E51Mh2-JxIBy2KNMFRQ/export?format=tsv" \
 -O ../download/tsv/mpfr.tsv
-stat -f "%Sm" ../download/tsv/mpfr.tsv > ../download/tsv/mpfr.tsv.timestamp
+echo $timestamp > ../download/tsv/mpfr.tsv.timestamp
 
 wget  --tries=1 -q \
 "https://docs.google.com/spreadsheets/d/1H2b1vFHTM5PDXu7bAVJqw9giF8Tyn7bLcw9WqgIq3Rs/export?format=tsv" \
 -O ../download/tsv/medical.tsv
-stat -f "%Sm" ../download/tsv/medical.tsv > ../download/tsv/medical.tsv.timestamp
+echo $timestamp > ../download/tsv/medical.tsv.timestamp
 
 # another one
 # https://docs.google.com/spreadsheets/d/1wjmRrkN9WVB4KIeKBy8wDDJ8E51Mh2-JxIBy2KNMFRQ/edit#gid=0
@@ -43,11 +45,11 @@ stat -f "%Sm" ../download/tsv/medical.tsv > ../download/tsv/medical.tsv.timestam
 wget  --tries=1 -q \
 "https://docs.google.com/spreadsheets/d/1D7jo-tAyQkmfYvVyT27nZ93ZkyFcZg2vEvf4OMbXJ_c/export?format=tsv&gid=0" \
 -O ../download/tsv/jur.tsv
-stat -f "%Sm" ../download/tsv/jur.tsv > ../download/tsv/jur.tsv.timestamp
+echo $timestamp > ../download/tsv/jur.tsv.timestamp
 
 
 # temporary fix with iso-639-3-codes
 wget  --tries=1 -q \
 "https://docs.google.com/spreadsheets/d/1PwMnm52TUlz0TfpQc9jXIgm-kPfJf_iTymzw4yj4lZ0/export?format=tsv&gid=0" \
 -O ../download/tsv/short_1pwmnm.tsv
-stat -f "%Sm" ../download/tsv/short_1pwmnm.tsv  > ../download/tsv/short_1pwmnm.tsv.timestamp
+echo $timestamp > ../download/tsv/short_1pwmnm.tsv.timestamp
