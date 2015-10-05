@@ -78,16 +78,16 @@ Ich brauche einen Arzt.	انا بحاجة لطبيب	I need a doctor	j'ai besoin
 Mir ist schlecht.	صحتی ليست علی مایرام	I feel sick/ I don't feel well 	Je me sens mal / Je ne me sens pas bien	
 Ich fühle mich nicht gut.	انا مریض	I am not feeling well.	Je ne me sens pas bien.	
 Ich bin krank.	أشعر بوعكة صحية	I’m ill / I’m sick	Je suis malade	
-(mein Kind) ist krank	طفلی مریض	(My child) is sick	Mon enfant est malade	
+(mein Kind) ist krank	طفلی مریض	(My child) is sick	Mon enfant est malade	ውላደይ ሓሚሙ አሎ
 Ich bin schwanger	انا حامل	I am pregnant	Je suis enceinte	
 Ich habe eine allergische Reaktion	عندي حساسية	I am having an allergic reaction	je fais une allergie / j'ai une réaction allergique	
 Mir ist schwindelig.	احس بدوار في رأسي	I feel dizzy.	j'ai la tête qui tourne	
-Ich leide an Diabetes	عندي مرض السكر	I am diabetic	je suis diabétique / j'ai le diabète	
+Ich leide an Diabetes	عندي مرض السكر	I am diabetic	je suis diabétique / j'ai le diabète	ሕማም ሽኮር አለኒ
 Ich brauche Insulin	انا بحاحة ماسة إلى إنسولين	I need insulin	J'ai besoin d'insuline	
 Ich wurde vergewaltigt.	لقد اغتـُصبت	I was raped.	J'ai été violé(e).	
 Ich habe Bauchschmerzen.	عندی الم فی بطنی	I have a stomach ache.	j'ai mal au ventre	
 Ich habe Fieber	عندی حرارة	I have a fever / a temperature	j'ai de la fièvre	
-(das) Fieber	حرارة	fever	fièvre	
+(das) Fieber	حرارة	fever	fièvre	ረስኒ
 fiebrig	حرارتي مرتفعة	feverish	fiévreux (fiévreuse)	
 Ich habe Kopfschmerzen.	اعاني من صداع في الرأس	I have a headache	J'ai mal à la tête	
 (die) Kopfschmerzen	صداع	headache	mal à la tête	መሪዘን ፨ ሕማም ርኢሲ
@@ -97,16 +97,16 @@ Ich habe Halsschmerzen.	اعاني من التهاب في الحلق	I have a so
 Ich habe Husten.	عندي سعال	I have a cough.	Je tousse	
 Mein Kind hat Halsschmerzen/Husten.	طفلي عنده سعال / حلقه ملتهب	My child has a sore throat/ cough	Mon enfant tousse / a mal à la gorge	
 Ich bin mit TBC infiziert	عندي مرض السل			
-(die) Erkältung	رشح /زكام	cold	un rhume	
-(der) Durchfall	إسهال	diarrhea	(la) diarrhée	
-(die) Verstopfung	إمساك	constipation	(la) constipation	
+(die) Erkältung	رشح /زكام	cold	un rhume	ዛሕሊ
+(der) Durchfall	إسهال	diarrhea	(la) diarrhée	ውፃኣት ፨ ተቐማጥ
+(die) Verstopfung	إمساك	constipation	(la) constipation	ድርኸት
 (der) Scheidenpilz	التهاب فطري مهبلي	vaginal yeast infection (thrush)	la mycose vaginale (candidose) / infection vaginale	
 (der) Fußpilz	إصابة فطرية في القدم	athlete's foot	 le pied d'athlète, mycose des pieds	
-(die) Läuse / (die) Kopfläuse	قمل في الرأس	head lice	poux (de tête)	
+(die) Läuse / (die) Kopfläuse	قمل في الرأس	head lice	poux (de tête)	ኹማል ርእሲ
 (die) Läuse (Körper)	قمل على الجسم	body lice	poux (de corps)	ቁማል
-(die) Flöhe	براغيث	Fleas	Puces	
+(die) Flöhe	براغيث	Fleas	Puces	ቍንጪ
 				
-Lebensmittel	طعام	Food	Nourriture	
+Lebensmittel	طعام	Food	Nourriture	ምግቢ
 (das) Frühstück	الفطور	Breakfast	petit déjeuner	ቁርሲ
 (das) Mittagessen	الغداء	Lunch	déjeuner	ምሳሕ
 (das) Abendessen	العشاء	Dinner	dîner	ድራር
@@ -116,8 +116,8 @@ Ich bin allergisch gegen…	انا عندی حساسیە ضد...	I am allergic t
 (das) Rindfleisch	لحم بقر	beef	boeuf	
 (das) Geflügel	طيور	poultry	volaille	
 (das) Huhn	دجاج	chicken	poulet	ደርሆ
-Ich esse kein Schweinefleisch	أنا لا آكل لحم الخنزير	I do not eat pork	Je ne mange pas de porc	
-Ich bin Vegetarier. Ich esse kein Fleisch und keinen Fisch.	انا نباتي لا اكل لحمة ولا سمك	I am a vegetarian. I don’t eat meat and fish.	je suis végétarien(ne). Je ne mange pas de viande ni de poisson.	
+Ich esse kein Schweinefleisch	أنا لا آكل لحم الخنزير	I do not eat pork	Je ne mange pas de porc	ስጋ ሓስማ ኣይበልዕን አየ 
+Ich bin Vegetarier. Ich esse kein Fleisch und keinen Fisch.	انا نباتي لا اكل لحمة ولا سمك	I am a vegetarian. I don’t eat meat and fish.	je suis végétarien(ne). Je ne mange pas de viande ni de poisson.	ኣትክልቲ ጥራሕዝምገብ አየ። ......
 Ich bin Veganer / Ich bin Veganerin	انا خـُضري	I am a vegan	Je suis végétalien(ne)	ናይ ስዕረት ኣይበልዕን እየ።
 (die) Eier [pl]	بيض	eggs [pl]	œufs	ኢንቆዖኾ / እንቋቝሖ
 (der) Fisch	سمك	fish	poisson	ዓሳ
@@ -144,23 +144,23 @@ Ich trinke keinen Alkohol	أنا لا أحتسي الكحول	I don't drink alco
 (die) Kartoffeln [pl]	بطاطا	potatoes [pl]	pommes de terre	ድንሽ
 (die) Bohnen [pl]	فاصوليا خضراء	beans [pl]	haricots	
 (die) Erbsen [pl]	بازلاء	peas [pl]	petits pois	ዓይኒ ዓተር
-(die) Kichererbsen [pl]	حمص	chickpeas [pl]	pois chiches	
+(die) Kichererbsen [pl]	حمص	chickpeas [pl]	pois chiches	ዓተር
 (die) Aubergine	باذنجان	eggplant (US) / aubergine (UK)	aubergine	መለዛናይ
 (die) Karotten/Möhren [pl]	جزر	carrots [pl]	carottes	ካሮቲ
-(die) Tomaten [pl]	طماطم (بنادورة)	tomatoes [pl]	tomates	
-(die) Rübe	لفت	turnip	navet	
+(die) Tomaten [pl]	طماطم (بنادورة)	tomatoes [pl]	tomates	ኮምደረ
+(die) Rübe	لفت	turnip	navet	ኸይሕ ሱር
 (die) Hülsenfrüchte [pl]	بقوليات	legumes / pulses [pl]	légumes secs	
 (die) Pilze / Champignons [pl]	فطر	mushrooms [pl]	champignons	ቓኅጥሻ
 (die) Backwaren [pl]	معجنات	bread, cakes and pastries [pl]	pâtisseries	
-(die) Marmelade	مربى	marmalade / jam	confiture	
-(die) Schokolade	شوكولاطة	chocolate	chocolat	
+(die) Marmelade	مربى	marmalade / jam	confiture	ማልመላታ
+(die) Schokolade	شوكولاطة	chocolate	chocolat	ቸኮላታ
 (der) Sirup	عصير مركز	syrup	sirop	
 (der) Zucker	سكر	sugar	sucre	ሽኮር
 (das) Mehl	طحين	flour	farine	ሓርጭ
 (der) Honig	عسل	honey	miel	ማዓር
 (der) Käse	جبنة	cheese	fromage	ጅብና ፨ ፎርማጆ
-(der) Quark	لبنة	quark / cottage cheese 	fromage blanc	
-(die) Sahne	قشدة	cream	crème fraîche	
+(der) Quark	لبنة	quark / cottage cheese 	fromage blanc	ኣጁቦ
+(die) Sahne	قشدة	cream	crème fraîche	ልኻይ
 (das) Salz	ملح	salt	sel	ጨው
 Pfeffer	فلفل	pepper (herb)	poivre	
 (der) Pfeffer	فلفل أسمر	pepper (spice)	poivre	ጉዕ
@@ -171,8 +171,8 @@ Pfeffer	فلفل	pepper (herb)	poivre
 (die) Suppe	حساء	soup	soupe	መረቕ
 (die) Butter	زبدة	butter	beurre	ጠስሚ
 (das) Öl	زيت	oil	huile	ዘይቲ
-(der) Kaugummi	علكة (لبان)	chewing gum	chewing-gum	
-(das) Eis	مثلجات	ice cream	glace	
+(der) Kaugummi	علكة (لبان)	chewing gum	chewing-gum	ማስቲካ/ብዕሪር
+(das) Eis	مثلجات	ice cream	glace	ጀላቶ
 (die) Gabel	شوكة	fork	fourchette	ፋርከታ
 (der) Löffel	ملعقة	spoon	(la) cuillère	ማንካ
 (das) Messer	سكين	knife	couteau	ካራ
@@ -180,7 +180,7 @@ Pfeffer	فلفل	pepper (herb)	poivre
 (das) Trinkglas / Glas	كأس	glass (to drink from)	verre	ብርጭቆ
 (der) Becher	كاسة	mug	gobelet	
 (die) Tasse	فنجان	cup	tasse	ብርጭቆ
-(die) Pfanne	مقلاة	pan	(la) poêle  / (la) casserole	
+(die) Pfanne	مقلاة	pan	(la) poêle  / (la) casserole	ባዴላ 
 (die) Schüssel	جاط	bowl	bol	ጭሖሎ
 (die) Untertasse	صحن الفنجان	saucer	soucoupe	
 (der) Wasserkocher	غلاية	kettle	bouilloire	
@@ -193,14 +193,14 @@ Kleidung	ملابس	Clothing	Vêtements
 (das) Kleid	فستان	Dress	une robe	ቀምሸ
 (der) Rock	تنورة	skirt	une jupe	ጎና
 (die) Hose	بِنْطال/ سروال	trousers (UK) / pants (US)	pantalon	ስረ
-(der) Pullover	كنزة صوف	jumper (UK) / sweater / pullover	pull, pullover	
+(der) Pullover	كنزة صوف	jumper (UK) / sweater / pullover	pull, pullover	ጎልፎ 
 (die) Jacke	جاكِيت/ مِعْطَف	jacket / coat	veste / manteau	ጃኬት
-(die) Mütze	قبعة	hat	chapeau	
+(die) Mütze	قبعة	hat	chapeau	ቆብዕ 
 (der) Schleier / (das) Kopftuch	حجاب	veil / hijab / headscarf	un voile	ነጸላ
 (der) Schal	لفحة, شال	scarf	écharpe	ነጸላ
 (der) Regenschirm	مظلّة/ شمسية	umbrella	parapluie	ጽላል
 (die) Schuhe [pl]	حذاء	shoes [pl]	chaussures	ጫማ
-(die) Handschuhe [pl]	قفازات	gloves [pl]	gants	
+(die) Handschuhe [pl]	قفازات	gloves [pl]	gants	ጓንቲ 
 (die) Stiefel [pl]	احذية طويلة/ جزمات	boots [pl]	bottes	
 (die) Socken [pl]	كلسات	socks [pl]	chaussettes	ካልሲ
 (die) Unterwäsche	ملابس داخلية	underwear	sous-vêtements	
@@ -212,33 +212,33 @@ Kleidung	ملابس	Clothing	Vêtements
 (die) Ohrringe	أقراط	earrings	boucle d'oreille	
 (der) Armreif / (das) Armband	سوار	bracelet	bracelet	
 (die) Uhr	ساعة يدّ	watch	montre	ዓባይ ሰዓት
-(der) Spiegel	مرآة	mirror	miroir	
+(der) Spiegel	مرآة	mirror	miroir	መስትያት
 				
 Sonstiges	أثاث	Misc	Autres	
-(das) Bett	سرير	bed	lit	
-(das) Kissen	مخدة / وسادة	pillow	oreiller	
-(die) Decke	بطانية	blanket	couverture	
+(das) Bett	سرير	bed	lit	ዓራት
+(das) Kissen	مخدة / وسادة	pillow	oreiller	መተርኣስ
+(die) Decke	بطانية	blanket	couverture	ኮቦርታ
 (der) Schlafsack	كيس نوم	sleeping bag	sac de couchage	
-(das) Bettlaken	غطاء سرير	sheet	drap	
+(das) Bettlaken	غطاء سرير	sheet	drap	ኣንሶላ
 (die) Bettwäsche	شراشف سرير	bed linen	linge de lit	
 (die) Schere	مقص	scissors	ciseaux	መቐሰ
-(die) Lampe	مصباح	lamp	lampe	
-(das) Telefon	تلفون - هاتف	telephone	téléphone	
-(das) Handy	هاتف جوال	mobile phone / cellphone	(téléphone) portable	
+(die) Lampe	مصباح	lamp	lampe	መብራህቲ ፨ ፋኑስ
+(das) Telefon	تلفون - هاتف	telephone	téléphone	ተለፎን
+(das) Handy	هاتف جوال	mobile phone / cellphone	(téléphone) portable	ሰልፎን ፨ ሞባይል
 (die) Elektrizität / (der) Strom	كهرباء	electricity	électricité	
 (der) Computer	كمبيوتر, حاسوب	computer	ordinateur	
 (die) Internetverbindung	اتصال بالإنترنت	internet connection	connexion internet	
 (die) Batterie	بطارية	battery	batterie / pile	ባተሪ
-(das) Zimmer	غرفة	room	chambre / pièce	
-(der) Stuhl	كرسي	chair	chaise	
-(der) Tisch	طاولة	table	table	
-(die) Toilette / (das) WC	حمام	toilet	toilettes, WC.	
-(das) Toilettenpapier	ورق تواليت	toilet paper	papier de toilette	
+(das) Zimmer	غرفة	room	chambre / pièce	ክፍሊ
+(der) Stuhl	كرسي	chair	chaise	ወንበር
+(der) Tisch	طاولة	table	table	ጣውላ
+(die) Toilette / (das) WC	حمام	toilet	toilettes, WC.	ሽንቲ ቤት
+(das) Toilettenpapier	ورق تواليت	toilet paper	papier de toilette	ሽንቲ ቤት ሶፍቲ
 (die) Zahnbürste	فرشاة اسنان	toothbrush	brosse à dents	መጽረዪ ሰኒ
 (die) Zahnpasta	معجون اسنان	toothpaste	dentifrice	ክሬም መጽረዪ ሰኒ
 (die) Dusche	دوش / حمام	shower	douche	
 (die) Badewanne	مغطس	bathtub	baignoire	
-(die) Seife	صابون	soap	savon	
+(die) Seife	صابون	soap	savon	ሳሙና
 (das) Shampoo	شامبو	shampoo	shampooing	
 (das) Taschentuch	محارم ورقية	tissue / handkerchief	mouchoir	
 (die) Heizung	مدفأة	radiator / heating	radiateur	
@@ -249,68 +249,68 @@ Sonstiges	أثاث	Misc	Autres
 (der) Kleiderschrank	خزانة ثياب	wardrobe	armoire	
 (der) Schubladenschrank	دولاب بجوارير	chest of drawers	commode	
 (der) Kunststoff	بلاستيك	plastic	plastique	
-(die) Tür	باب	door	(la) porte	
+(die) Tür	باب	door	(la) porte	ማዕጾ
 (das) Fenster	نافذة	window	(la) fenêtre	
-(das) Tor	بوابة	gate	(la) porte	
-(die) Wand	حائط	wall	(le) mur	
+(das) Tor	بوابة	gate	(la) porte	በሪ/ካንቸሎ 
+(die) Wand	حائط	wall	(le) mur	መንደቕ 
 (der) Zaun	سور/جدار	fence	(la) clôture	
-(das) Haus	منزل	house	(la) maison	
-(der) Garten	حديقة	garden	(le) jardin	
-(die) Wohnung	شقة	apartment / flat	(le) logement / appartement	
+(das) Haus	منزل	house	(la) maison	ገዛ
+(der) Garten	حديقة	garden	(le) jardin	ጀርዲን
+(die) Wohnung	شقة	apartment / flat	(le) logement / appartement	ክፍሊ-ገዛ
 (die) Nachbarschaft	حي	neighbourhood	(le) quartier	
-(das) Buch	كتاب	book	(le) livre	
-(die) Zeitung	جريدة	newspaper	(le) journal	
-(das) Radio	مذياع / راديو	radio	(la) radio	
-(das) Fernsehen	تلفاز / رائي	television	(la) télévision	
+(das) Buch	كتاب	book	(le) livre	መጽሓፍ
+(die) Zeitung	جريدة	newspaper	(le) journal	ጋዜጣ
+(das) Radio	مذياع / راديو	radio	(la) radio	ራድዮ
+(das) Fernsehen	تلفاز / رائي	television	(la) télévision	ተለቪዥን
 Kinder	أولاد	Children	Enfants	
 (der) Stift	قلم	pen / crayon	stylo	ብርዒ
 (der) Bleistift	قلم رصاص	pencil	crayon	ርሳሰ
-(die) Malfarben [pl]	اقلام تلوين	paints / painting colors [pl]	peintures, gouache	
-(das) Malbuch	دفتر تلوين	coloring book	(le) cahier de coloriage	
+(die) Malfarben [pl]	اقلام تلوين	paints / painting colors [pl]	peintures, gouache	ቀለም
+(das) Malbuch	دفتر تلوين	coloring book	(le) cahier de coloriage	መጵሓፍ መስኣሊ ፨ መልከዪ
 (das) Bilderbuch	كتاب مصور, قصة مصورة	storybook / picture book	livre d'images	
 (das) Papier	ورقة	paper	papier	ወረቐተ
 (das) Spielzeug	دمية\ لعبة	toy	jouet	
 (das) Plüschtier	ألعاب محشوة	stuffed animal	animal en peluche	
 (die) Bauklötze [pl]	ليغو	toy blocks [pl]	cubes / lego	
 (das) Brettspiel	العاب طاولة	board game	jeu de société	
-(der) Spielplatz	ملعب	playground	espace de jeu	
-(das) Klassenzimmer	صف مدرسي	classroom	classe	
+(der) Spielplatz	ملعب	playground	espace de jeu	 መጻወቲ ቦታ
+(das) Klassenzimmer	صف مدرسي	classroom	classe	መምሃሪ ክፍሊ
 (der) Kindergarten	روضة أطفال / حضانة	kindergarten	crèche	
-(die) Schule	مدرسة	school	école	
-(das) Kinderbett	سرير طفل	crib / cot	berceau / lit d'enfant	
+(die) Schule	مدرسة	school	école	ትምህርቲ
+(das) Kinderbett	سرير طفل	crib / cot	berceau / lit d'enfant	ዓራት ቈልዓ
 (der) Ball	كرة	ball	balle, ballon	ኩዕሶ
 (der) Drachen	طيارة ورق	kite	cerf-volant	
 (das) Dreirad	دراجة ذات ثلاث عجلات	tricycle	tricycle	
 (das) Fahrrad	دراجة هوائية	bike / bicycle	vélo	
 (der) Kinderwagen	عربة اطفال	stroller / buggy / pushchair	poussette	
-(die) Puppe	دمية\ لعبة	doll / puppet	poupée	
+(die) Puppe	دمية\ لعبة	doll / puppet	poupée	ባምቡላ
 (die) Süßigkeiten [pl]	حلويات\ سكاكر	candy / sweets [pl]	bonbon	
 Beruf	المهن	Profession	Métiers	
-(der) Polizist, (die) Polizistin	شرطي	police officer	policier	
-(der) Arzt, (die) Ärztin	طبيب	doctor	docteur	
-(der) Zahnarzt, (die) Zahnärztin	طبيب اسنان / طبيبة أسنان	dentist	dentiste	
+(der) Polizist, (die) Polizistin	شرطي	police officer	policier	ፖሊስ
+(der) Arzt, (die) Ärztin	طبيب	doctor	docteur	ሓኪም
+(der) Zahnarzt, (die) Zahnärztin	طبيب اسنان / طبيبة أسنان	dentist	dentiste	ሓኪም-ስኒ
 (die) Krankenschwester (f.) / (der) Krankenpfleger (m.)	ممرضة / ممرض	nurse	infirmier (m.) / infirmière (f.)	
 (der) Sanitäter, (die) Sanitäterin	مسعف	paramedic	les secours / le SAMU	
 (der) Wachposten	حارس	guard	garde	
 (der) Diplomat, (die) Diplomatin	دبلوماسي	diplomat	diplomate	
-(der) Soldat, (die)Soldatin	جندي, عسكري	soldier	soldat	
-(der) Dolmetscher, (die) Dolmetscherin	مترجم	interpreter	interprète	
-(der) Rechtsanwalt, (die) Rechtsanwältin	محام	lawyer	avocat	
-(der) Betreuer, (die) Betreuerin	مساعد اجتماعي	caretaker / guardian	travailleur social / soigneur / accompagnateur	
+(der) Soldat, (die)Soldatin	جندي, عسكري	soldier	soldat	ወተሃደር
+(der) Dolmetscher, (die) Dolmetscherin	مترجم	interpreter	interprète	ተርጓሚ
+(der) Rechtsanwalt, (die) Rechtsanwältin	محام	lawyer	avocat	ጠበቓ
+(der) Betreuer, (die) Betreuerin	مساعد اجتماعي	caretaker / guardian	travailleur social / soigneur / accompagnateur	መጉዚት ፨ ሓላዉ ርሻኒ
 (der) Lehrer, (die) Lehrerin	أستاذ	teacher	professeur	መምህር
-(der) Richter, (die) Richterin	قاضٍ	judge	(le) juge	
+(der) Richter, (die) Richterin	قاضٍ	judge	(le) juge	ዳኛ
 Tiere	حيوانات	Animals	Animaux	
 (das) Haustier	حيوان أليف	pet	animal de compagnie	
-(die) Katze	قط	cat	chat	
+(die) Katze	قط	cat	chat	ድሙ
 (der) Hund	كلب	dog	chien	
-(die) Fliege	ذبابة	fly	mouche	
-(die) Stechmücke	بعوض	mosquito	moustique	
-(das) Pferd	حصان	horse	cheval	
-(das) Huhn	دجاج	chicken	poulet	
-(die) Kuh	بقرة	cow	vache / boeuf	
-(das) Schaf	خروف	sheep	mouton	
-(die) Ziege	ماعز	goat	chèvre	
-(der) Wal	حوت	whale	baleine	
+(die) Fliege	ذبابة	fly	mouche	ሃመማ
+(die) Stechmücke	بعوض	mosquito	moustique	ጣንጡ
+(das) Pferd	حصان	horse	cheval	ፈረስ
+(das) Huhn	دجاج	chicken	poulet	ደርሆ
+(die) Kuh	بقرة	cow	vache / boeuf	ላም
+(das) Schaf	خروف	sheep	mouton	በግዕ
+(die) Ziege	ماعز	goat	chèvre	ጤል
+(der) Wal	حوت	whale	baleine	ዓሳ ነባሪ
 (der) Fisch (s.); (die) Fische (pl.)	سمك	fish	poisson	ዓሳ
 (der) Hai	سمك قرش	shark	requin	
 (der) Vogel	طائر	bird	oiseau	
@@ -318,40 +318,40 @@ Tiere	حيوانات	Animals	Animaux
 (die) Spinne	عنكبوت	spider	araignée	
 (das) Insekt	حشرة	insect	insecte	
 (die) Ratte	جرذ	rat	rat	
-(die) Maus	فأر	mouse	souris	
+(die) Maus	فأر	mouse	souris	ኣንጭዋ
 (die) Zecke	قراد	Tick	la tique	
 Natur und Wetter	طبيعة, طقس	Nature and Weather	La nature et le temps	
-(das) Wetter; (das) Klima	طقس	weather / climate	temps, climat	
-(die) Sonne	شمس	sun	soleil	
-(der) Mond	قمر	moon	lune	
-(der) Himmel	سماء	sky	ciel	
-(der) Himmel (rel.)	جنة	heaven	ciel, paradis	
+(das) Wetter; (das) Klima	طقس	weather / climate	temps, climat	ኩነታት ኣየር
+(die) Sonne	شمس	sun	soleil	ጸሓይ
+(der) Mond	قمر	moon	lune	ወርሒ
+(der) Himmel	سماء	sky	ciel	ሰማይ
+(der) Himmel (rel.)	جنة	heaven	ciel, paradis	ገነት
 (der) Wind	رياح / هواء	wind	vent	
-(die) Wolke	غيمة	cloud	nuage	
-(der) Regen	مطر	rain	pluie	
+(die) Wolke	غيمة	cloud	nuage	ደበና
+(der) Regen	مطر	rain	pluie	ዝናብ
 (der) Nieselregen	مطر خفيف	drizzle	bruine	
 (der) Schnee	ثلج	snow	neige	
 (der) Schneeregen	مطر مع ثلج	sleet	neige fondue	
-(der) Nebel	ضباب	fog	(le) brouillard / (la) brume	
-(das) Unwetter	عاصفة	storm	tempête	
-(das) Gewitter	عاصفة رعدية	thunderstorm	orage	
-(der) Donner	رعد	thunder	(le) tonnerre	
+(der) Nebel	ضباب	fog	(le) brouillard / (la) brume	ግመ
+(das) Unwetter	عاصفة	storm	tempête	ህቦቡላ
+(das) Gewitter	عاصفة رعدية	thunderstorm	orage	ህቦቡላ
+(der) Donner	رعد	thunder	(le) tonnerre	 ነጎዳ
 (der) Blitz	صاعقة	lightning	éclair	
 (der) Wirbelsturm; (der) Hurricane	إعصار	hurricane	ouragan	
 (der) Taifun	إعصار	typhoon	typhon, tempête	
-(das) Hochwasser	فيضان	flood	inondation	
-(das) Erdbeben	زلزال	earthquake	(le) tremblement de terre	
+(das) Hochwasser	فيضان	flood	inondation	ዕልቅቕልቕ
+(das) Erdbeben	زلزال	earthquake	(le) tremblement de terre	ምንቅጥቃጥ ምድሪ
 (das) Nachbeben	هزة ارتدادية	aftershock	réplique	
 (der) Tsunami	تسونامي	tsunami	Tsunami	
-(die) Jahreszeiten	فصول السنة	seasons [pl]	(les) saisons	
+(die) Jahreszeiten	فصول السنة	seasons [pl]	(les) saisons	ወቕቲ
 (der) Sommer	صيف	summer	été	
 (der) Frühling	ربيع	spring	printemps	
 (der) Herbst	خريف	autumn / fall	automne	
 (der) Winter	شتاء	winter	hiver	
-(der) Hagel	بَرَد	hail	grêle	
-(der) Berg	جبل	mountain	montagne	
-(der) Hügel	تلة	hill	colline	
-(das) Meer	بحر	sea	mer	
+(der) Hagel	بَرَد	hail	grêle	በረድ
+(der) Berg	جبل	mountain	montagne	ጎቦ ፨ እምባ
+(der) Hügel	تلة	hill	colline	ኩርባ ፨ ኰረብታ
+(das) Meer	بحر	sea	mer	ባሕሪ
 (der) Teich	حوض	pond	étang	
 (der) Fluss	نهر	river	rivière	
 (der) See	بحيرة	lake	lac	
@@ -370,89 +370,89 @@ Natur und Wetter	طبيعة, طقس	Nature and Weather	La nature et le temps
 (der) Strand	شاطئ	beach	plage	
 (der) Vulkan	بركان	volcano	Volcan	
 Grundlegende Adjektive	صفات	Basic Adjectives	Adjectifs 	
-groß	كبير	big	gros	
-klein	صغير	small	petit	
-kurz	قصير	short	petit, court	
-lang; groß	طويل	tall / long / big	grand	
-billig	رخيص الثمن	cheap	bon marché / pas cher	
-teuer	غالي الثمن	expensive	cher (chère)	
-nah	قرب / بجوار	near	proche / près	
-fern, weit	بعيد	far	loin / éloigné(e)	
-leicht	خفيف	light	léger (légère)	
-schwer	ثقيل	heavy	lourd(/e)	
+groß	كبير	big	gros	ዓቢ
+klein	صغير	small	petit	ንእሽቶይ
+kurz	قصير	short	petit, court	ሓጺር
+lang; groß	طويل	tall / long / big	grand	ነዊሕ
+billig	رخيص الثمن	cheap	bon marché / pas cher	ሕሱር
+teuer	غالي الثمن	expensive	cher (chère)	ክቡር
+nah	قرب / بجوار	near	proche / près	ጥቓ
+fern, weit	بعيد	far	loin / éloigné(e)	ክሳብ ፨ ርሑቅ
+leicht	خفيف	light	léger (légère)	ፈኵስ
+schwer	ثقيل	heavy	lourd(/e)	ከቢድ
 alt	عجوز / قديم	old 	âgé(/e) / vieux (vieille)	
 jung	شاب, صغير السن	young	jeune	
-neu	جديد	new	nouveau (nouvelle)	
-sauber	نظيف	clean	propre	
-schmutzig	وسخ	dirty	sale	
-salzig	مالح	salty	salé	
-süß	حلو	sweet	sucré	
+neu	جديد	new	nouveau (nouvelle)	ሓድሽ
+sauber	نظيف	clean	propre	ጽሩይ
+schmutzig	وسخ	dirty	sale	ረሳሕ
+salzig	مالح	salty	salé	ጨዋም
+süß	حلو	sweet	sucré	ምቁር
 bitter	مر	bitter	amer (amère)	
 würzig; scharf (hot)	متبَّل / حار	spicy / hot	épicé(/e)	
-sauer	حامض	sour	acide	
-trocken	جاف	dry	sec (sèche)	
-nass	مبتل	wet	mouillé(/e)	
-heiß	ساخن	hot	chaud (/e)	
+sauer	حامض	sour	acide	መጺጽ
+trocken	جاف	dry	sec (sèche)	ንቑጽ
+nass	مبتل	wet	mouillé(/e)	ትርኩስ
+heiß	ساخن	hot	chaud (/e)	ውዑይ
 warm	دافئ	warm	tiède	
-kalt	بارد	cold	froid (/e)	
-schnell	سريع	fast	vite (adv.) / rapide (adj.)	
-langsam	بطيء	slow	lentement (adv.) / lent(e) (adj.)	
+kalt	بارد	cold	froid (/e)	ቁሪ
+schnell	سريع	fast	vite (adv.) / rapide (adj.)	ቅልጡፍ
+langsam	بطيء	slow	lentement (adv.) / lent(e) (adj.)	ዝሕቱል
 gewöhnlich; üblich	عادي	common / normal	commun(e) / normal(e) / habituel(le)	
 rar; ungewöhnlich	غير معهود	rare	rare	
-einfach; leicht	سهل, بسيط	easy	facile	
-schwierig	صعب	difficult	difficile	
-weich	ناعم	soft	doux (m.) / douce (f.)	
-hart	قاس, صلب	hard	dur (/e)	
+einfach; leicht	سهل, بسيط	easy	facile	ቀሊል
+schwierig	صعب	difficult	difficile	ጽንኩር
+weich	ناعم	soft	doux (m.) / douce (f.)	ልምሉም
+hart	قاس, صلب	hard	dur (/e)	ተሪር
 notwendig	ضروري\ لازم	necessary	nécessaire	
 oft	غالبا	often	fréquent, souvent	
 breit	عريض / واسع	wide	large	
-tief	عميق	deep	profond (/e)	
+tief	عميق	deep	profond (/e)	ዓሚቝ
 flach	ضحل / قليل العمق	shallow	peu profond (/e)	
-sicher	آمن	safe	sûr	
-gefährlich	خطر	dangerous	dangereux (/se)	
-hoch	مرتفع	high	haut(/e)	
-niedrig	منخفض	low	bas (/se)	
+sicher	آمن	safe	sûr	ውሑስ  ፨ እሙን
+gefährlich	خطر	dangerous	dangereux (/se)	ሓደገ'ኛ
+hoch	مرتفع	high	haut(/e)	ላዕሊ
+niedrig	منخفض	low	bas (/se)	ታሕቲ
 nett	لطيف, حسن	nice	gentil(/le)	
 schön	جميل	beautiful	beau (belle)	
-hübsch; gutaussehend; attraktiv	وسيم، جذاب	handsome, beautiful, attractive	beau (belle)	
-freundlich	ودود	friendly	sympathique	
-unfreundlich	غير ودي	unfriendly	pas sympathique / antipathique / pas sympa	
-gemein	سيء, حبيث	common	commun(e)	
-unabhängig	مستقل	independent	indépendant(e)	
-streng	صارم	strict	sévère	
-großzügig	كريم	generous	généreux (-euse)	
+hübsch; gutaussehend; attraktiv	وسيم، جذاب	handsome, beautiful, attractive	beau (belle)	ምልኩዕ
+freundlich	ودود	friendly	sympathique	ሕያዋይ ፨ ዓርኪ
+unfreundlich	غير ودي	unfriendly	pas sympathique / antipathique / pas sympa	ዘይሕያዋይ ፨ ዓርኪ ኣይኮነን
+gemein	سيء, حبيث	common	commun(e)	ልሙድ
+unabhängig	مستقل	independent	indépendant(e)	ነጻ
+streng	صارم	strict	sévère	ጽኑዕ
+großzügig	كريم	generous	généreux (-euse)	ለጋስ
 eigennützig, egoistisch	أناني	selfish	égoïste	
 müde	تعبان	tired	fatigué (e)	
 Farben	ألوان	Colours	Couleurs	ሕብርታት
 Rot	أحمر	red	rouge	ቀይሕ
-Blau	أزرق	blue	bleu	
-Grün	أخضر	green	vert	
+Blau	أزرق	blue	bleu	ሰማያዊ
+Grün	أخضر	green	vert	ቀጠልያ ፨ ሓምላይ 
 Gelb	أصفر	yellow	jaune	ብጫ
-Pink	زهري	pink	rose	
-Lila	بنفسجي	purple	violet	
-Grau	رمادي	grey	gris	
-Schwarz	أسود	black	noir	
-Weiß	أبيض	white	blanc	
-Braun	بني	brown	marron, brun	
-Orange	برتقالي	orange	orange	
-Silber	فضي	silver	argenté	
-Gold	ذهبي	gold	doré	
+Pink	زهري	pink	rose	ሮዛ
+Lila	بنفسجي	purple	violet	ቂሔ-ሰማያዊ
+Grau	رمادي	grey	gris	ሓመዳዊ
+Schwarz	أسود	black	noir	ጸሊም
+Weiß	أبيض	white	blanc	ጻዕዳ ፨ ጸዓዳ
+Braun	بني	brown	marron, brun	ቡናዊ
+Orange	برتقالي	orange	orange	ብርቱኻናዊ
+Silber	فضي	silver	argenté	ብሩር
+Gold	ذهبي	gold	doré	ወርቂ
 Wege, Orte, Transportation	الجهات	Direction, places and transport	Directions, lieux et moyens de transport	
-Norden	شمال	north	nord	
-Süden	جنوب	south	sud	
-Osten	شرق	east	est 	
-Westen	غرب	west	ouest	
-hoch	فوق / اعلى	up	en haut	
-runter	اسفل	down	en bas	
-links	إلى اليسار	left	à gauche	
-rechts	إلى اليمين	right	à droite	
-drinnen	في الداخل	inside	à l'intérieur / dedans	
-draußen	في الخارج	outside	dehors	
-(das) Krankenhaus	مستشفى	hospital	l'hôpital	
-(die) Apotheke	صيدلية	pharmacy / chemist (UK)	(la) pharmacie	
-(die) Klinik	عيادة	clinic	la clinique	
-(die) Post	بريد	post office	(la) poste	
-(die) Bank	مصرف	bank	(la) banque	
+Norden	شمال	north	nord	ሰሜን
+Süden	جنوب	south	sud	ደቡብ
+Osten	شرق	east	est 	ምብራቕ
+Westen	غرب	west	ouest	ምዕራብ
+hoch	فوق / اعلى	up	en haut	ንላዕሊ
+runter	اسفل	down	en bas	ንታሕቲ
+links	إلى اليسار	left	à gauche	ጸጋም
+rechts	إلى اليمين	right	à droite	የማን
+drinnen	في الداخل	inside	à l'intérieur / dedans	ውሽጢ
+draußen	في الخارج	outside	dehors	ወጻኢ
+(das) Krankenhaus	مستشفى	hospital	l'hôpital	ሆስፒታል ፨ ቤት ሕክምና ፨ ኣስቢዳለ
+(die) Apotheke	صيدلية	pharmacy / chemist (UK)	(la) pharmacie	ቤት መድሃኒት ፨ ፋርማሲ ፨ በት ኣፋውሰ
+(die) Klinik	عيادة	clinic	la clinique	ክሊኒክ ፨ ቤት ሕክምና
+(die) Post	بريد	post office	(la) poste	አንዳ ቡሰጣ
+(die) Bank	مصرف	bank	(la) banque	ባንክ
 (die) Bushaltestelle	موقف باص / موقف حافلة	bus stop	(l') arrêt de bus 	
 (der) Bahnhof	محطة قطار	train station	la gare	
 (die) Polizeiwache	مخفر شرطة	police station	la station de police	
